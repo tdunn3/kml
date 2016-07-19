@@ -426,9 +426,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BILLIE LEE PORTER AND GEORGE ROBBINS PORTER, TRUSTEES OF THE REVOCABLE TRUST OF BILLIE LEE PORTER DATED JULY 25, 1996</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>22</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2881</td></tr><tr><td><B>PAGE</B></td><td>511</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>S/2 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7080659771717,34.7123022512856,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -445,9 +443,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>CRABB, ALTON F. & BETTY J.</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>9</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>0</td></tr><tr><td><B>PAGE</B></td><td>0</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7344443898148,34.7431680414769,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -464,9 +460,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BENNEY F. CARNES AND ELSIE MOZELLE CARNES</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>9</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2067</td></tr><tr><td><B>PAGE</B></td><td>126</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4</td></tr><tr><td><B>PLAT</B></td><td><B>NO LTC RECEIVED</B></td></tr>]]></description>
 			<styleUrl>#Permission_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.73440272345908,34.7504194279706,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
