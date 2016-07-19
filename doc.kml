@@ -477,9 +477,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>R. T. SHAW AND REBA J. SHAW, TRUSTEES OF THE R. T. SHAW AND REBA J. SHAW REVOCABLE LIVING TRUST</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3820</td></tr><tr><td><B>PAGE</B></td><td>251</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>N/2 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing> OK-GR-010.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.80494537002711,34.8306185188236,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -496,9 +494,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>R. T. SHAW AND REBA J. SHAW, TRUSTEES OF THE R. T. SHAW AND REBA J. SHAW REVOCABLE LIVING TRUST</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3820</td></tr><tr><td><B>PAGE</B></td><td>251</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SE/4 of the NW/4 </td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing> OK-GR-009.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.80300956674779,34.8359570290934,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -515,9 +511,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>LYLE LAND & CATTLE COMPANY, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>25</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4440</td></tr><tr><td><B>PAGE</B></td><td>70</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E/2 of the NW/4 of the SE/4 and the NE/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.67285993772499,34.6995381366286,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -534,9 +528,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>DICK E. VINSON AND SAUNDRA SUE VINSON</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>26</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3733</td></tr><tr><td><B>PAGE</B></td><td>65</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>N/2 of the NW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.69927522542579,34.7086752960599,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -553,9 +545,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ROBERT ALLEN DRUMMOND AND NANCY J. DRUMMOND</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>34</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>5 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>925</td></tr><tr><td><B>PAGE</B></td><td>897</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 of the SW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.8223991150151,34.8628265150607,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -572,9 +562,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>NELDA JUNE CRADDOCK</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>33</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>5 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2914</td></tr><tr><td><B>PAGE</B></td><td>559</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SE/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#> OK-GR-0128.000 REV 1</a></td></tr><tr bgcolor="#e3bba5"><td><B>MOC</B> </td><td> <a href = https://docs.google.com/file/d/0B_4HY6BYVe5SWHpvcDRIRGQ3NEE/edit>MOC 4</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.83393553805681,34.859302155629,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -591,9 +579,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>DAMON RUSSELL BARTLETT AND TERESA SUE BARTLETT</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>16</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3411</td></tr><tr><td><B>PAGE</B></td><td>253</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 of the NE/4 of the SW/4  and the SW/4 of the SW/4 of the NW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.63199767051781,34.6450376085595,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -610,9 +596,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>State of Oklahoma (State Highway 29)</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>16 and 21</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#ROW_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.62429877974299,34.6377580075098,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -629,9 +613,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MARK P. FINCH AND RHENADA M. FINCH</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>26</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2739</td></tr><tr><td><B>PAGE</B></td><td>103</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6882710941991,34.7014088311352,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -648,9 +630,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BRANCH, JARRED D</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>21</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3090</td></tr><tr><td><B>PAGE</B></td><td>146</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.62213219483289,34.626869995802,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -667,9 +647,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>POTEET FAMILY REVOCABLELIVING TRUST (ETAL)</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>21</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4266</td></tr><tr><td><B>PAGE</B></td><td>193</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6279940267957,34.626267271788,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -686,9 +664,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BRANCH, JARRED D</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>21</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1782</td></tr><tr><td><B>PAGE</B></td><td>837</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6287015986063,34.634077912811,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -705,9 +681,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GARY M. MCBRIDE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>17</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3976</td></tr><tr><td><B>PAGE</B></td><td>185</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E/2 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.63640312125068,34.6486749487329,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -724,9 +698,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>CHESTER (CHET) VERNON DIXON, JR.</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>8</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>5355</td></tr><tr><td><B>PAGE</B></td><td>226</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.63752569454331,34.65594464519,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -743,9 +715,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ROBERT D. POTEET AND JO ANN POTEET, TRUSTEES OF THE POTEET FAMILY REVOCABLE LIVING TRUST, DATED DECEMBER 28, 2010</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>8</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4093</td></tr><tr><td><B>PAGE</B></td><td>213</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>N/2</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.64341476386278,34.660788555302,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -762,9 +732,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>JERRY CONDIT, TRUSTEE OF THE JERRY L. CONDIT LIVING TRUST U/T/A DATED APRIL 29, 2010</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3995</td></tr><tr><td><B>PAGE</B></td><td>285</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>all</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#> OK-ST-002.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.64158540743109,34.6734472149101,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -781,9 +749,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ROBERT D. POTEET AND JO ANN POTEET, TRUSTEES OF THE POTEET FAMILY REVOCABLE LIVING TRUST, DATED DECEMBER 28, 2010</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4093</td></tr><tr><td><B>PAGE</B></td><td>213</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 of the NW/4 (Lot 4)</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.64864306372409,34.679559827339,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -800,9 +766,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>EUGENE CAMPBELL AND TAWANA CAMPBELL</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Garvin</td></tr><tr><td><B>SECTION</B></td><td>32</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1265</td></tr><tr><td><B>PAGE</B></td><td>109</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.647553996722,34.683195957508,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -819,9 +783,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VAN K. SNODGRASS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>26</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2792</td></tr><tr><td><B>PAGE</B></td><td>402</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>S/2 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>NO LTC RECEIVED</B></td></tr>]]></description>
 			<styleUrl>#Permission_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.69926780730668,34.7014018380562,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -838,9 +800,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BILLIE LEE PORTER AND GEORGE ROBBINS PORTER, TRUSTEES OF THE REVOCABLE TRUST OF BILLIE LEE PORTER DATED JULY 25, 1996</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>22</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2881</td></tr><tr><td><B>PAGE</B></td><td>511</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.71357350664221,34.7159342130928,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -857,9 +817,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELFORD L. SCOTT AND MARGARET L. SCOTT REVOCABLE TRUST AGREEMENT DATED JULY 7, 2005</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>22</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3751</td></tr><tr><td><B>PAGE</B></td><td>574</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 of the NE/4 and the W/2 of the NE/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7076753023858,34.7202616567647,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -876,9 +834,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ODELL F. PARKER AND GLENDA N. PARKER</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>22</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2950</td></tr><tr><td><B>PAGE</B></td><td>333</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E/2 of the NW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7138232461552,34.7219306871014,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -895,9 +851,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ODELL F. PARKER AND GLENDA N. PARKER</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>15</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2950</td></tr><tr><td><B>PAGE</B></td><td>333</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E/2 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.71323567668972,34.7280406975835,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -914,9 +868,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KENDALL BYRUM</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>15</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4118</td></tr><tr><td><B>PAGE</B></td><td>450</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 of the SW/4 and the S/2 of the NW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.71912393567781,34.7277409682124,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -933,9 +885,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELFORD L. SCOTT AND MARGARET L. SCOTT REVOCABLE TRUST AGREEMENT DATED JULY 7, 2005</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>15</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3751</td></tr><tr><td><B>PAGE</B></td><td>574</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>S/2 of the NW/4 and the N/2 of the NW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.71161758221351,34.7349955609994,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -952,9 +902,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GREGORY DEAN GOFF (1/2 INTEREST) AND LARRY ALLEN GOFF (1/2 INTEREST)</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>16</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4178</td></tr><tr><td><B>PAGE</B></td><td>568</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E/2 of the SW/4 of the NE/4 and the SE/4 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7245886633047,34.7340957177479,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -971,9 +919,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GREGORY DEAN GOFF (1/2 INTEREST) AND LARRY ALLEN GOFF (1/2 INTEREST)</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>16</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4178</td></tr><tr><td><B>PAGE</B></td><td>568</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4 of the NE/4 and the E/2 of the NW/4 of the NE/4 and the NW/4 of the NW/4 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.72519595191571,34.7378545906717,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -990,9 +936,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>DAVID WAYNE AULD</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>9</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1126</td></tr><tr><td><B>PAGE</B></td><td>911</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>N/2 of the SE/4 and the E/2 of the SW/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>NO SURVEY PERMISSION</B></td></tr>]]></description>
 			<styleUrl>#NoPermission_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.72516786794249,34.7434259710858,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1009,9 +953,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>RYLAND L. RIVAS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>9</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3797</td></tr><tr><td><B>PAGE</B></td><td>301</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>W/2 of the SW/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.72895182745171,34.7413543093061,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1028,9 +970,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BILLY CARNES JR., RALITA ANN LOWE, CYNTHIA PULLIN AND TWANA SNOW, WITH A LIFE ESTATE RESERVED BY BILLY B. CARNES, A/K/A BILLY B. CARNES, SR</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>4</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3620</td></tr><tr><td><B>PAGE</B></td><td>412</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7365756891667,34.7558560335296,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1047,9 +987,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BENNEY CARNES</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>4</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>955</td></tr><tr><td><B>PAGE</B></td><td>333</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>S/2 of the SW/4 of the NW/4 and the NW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.73656442438941,34.7603860847435,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1066,9 +1004,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>LOWE, RELITA ANN & KENNY</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3630</td></tr><tr><td><B>PAGE</B></td><td>423</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.73986258979322,34.7585712648986,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1085,9 +1021,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>JAMES C. HANDLEY AND DOROTHY J. HANDLEY, TRUSTEES UNDER THE JAMES C. HANDLEY AND DOROTHY J. HANDLEY JOINT REVOCABLE LIVING TRUST DAT??Á????</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3942</td></tr><tr><td><B>PAGE</B></td><td>600</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>N/2 of the N/2 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.74239002006001,34.7604179199947,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1104,9 +1038,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>LACQUEMENT, CHRISTOPHER</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4262</td></tr><tr><td><B>PAGE</B></td><td>330</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7437295925957,34.7618713794814,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1123,9 +1055,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>LACQUEMENT, CHRISTOPHER</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4262</td></tr><tr><td><B>PAGE</B></td><td>330</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.74424149407189,34.7630991291635,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1142,9 +1072,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>LACQUEMENT, CHRISTOPHER</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3917</td></tr><tr><td><B>PAGE</B></td><td>359</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.74634338175309,34.765240110562,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1161,9 +1089,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ANITA J. BROWN</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4258</td></tr><tr><td><B>PAGE</B></td><td>4</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>Lot Three (3)</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.74973175183609,34.7667174530189,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1180,9 +1106,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BROWN, ANITA</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>5</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4258</td></tr><tr><td><B>PAGE</B></td><td>3</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7530273331876,34.7667195569096,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1199,9 +1123,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>SANDY CREEK RANCH, L.L.C.</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>32</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2668</td></tr><tr><td><B>PAGE</B></td><td>86</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7475276581623,34.7757710419587,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1218,9 +1140,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>SANDY CREEK RANCH, L.L.C.</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>31</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2668</td></tr><tr><td><B>PAGE</B></td><td>86</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.76498727909331,34.7758077110421,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1237,9 +1157,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>SANDY CREEK RANCH, L.L.C.</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>30</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2668</td></tr><tr><td><B>PAGE</B></td><td>86</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>Lots Two (2), Three (3) and Four (4)</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.76496263828901,34.7903370176992,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1256,9 +1174,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>JOHN R. O'NEAL AND JEANETTE O'NEAL</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>25</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3725</td></tr><tr><td><B>PAGE</B></td><td>416</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7824398339997,34.7940406819688,0</coordinates>
-				</Point>
+
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1275,9 +1191,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>JOHNIE J. JORDAN AND CARROLL J. JORDAN</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>24</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>879</td></tr><tr><td><B>PAGE</B></td><td>881</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>S/2</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.78243935525281,34.8012907452076,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1294,9 +1208,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>THE ESTATE OF ALBERT D. ADKINS, A/K/A ALBERT DICK ADKINS, BY RICHARD A. ADKINS, PERSONAL REPRESENTATIVE OF THE ESTATE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>24</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2010</td></tr><tr><td><B>PAGE</B></td><td>37</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 and the W/2 of the W/2 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7857344748237,34.8085588014876,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1313,9 +1225,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KENNETH MARK WALLACE (1/2 INTEREST) AND JO ANN MILLER (1/2 INTEREST)</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>13</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2413</td></tr><tr><td><B>PAGE</B></td><td>315</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 and the SW/4 of the SW/4 of the SE/4 and the S/2 of the SW/4 of the NW/4 and the SE/4 of the NW/4 and the N/2 of the SW/4 of the NW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.78661290598708,34.8174500153007,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1332,9 +1242,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MARY RUTH PARKS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>14</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4423</td></tr><tr><td><B>PAGE</B></td><td>513</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SE/2 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7981030333757,34.8213729318426,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1351,9 +1259,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VERBEL CHARLES HIXON JR. AND JANET LYNN HIXON</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3174</td></tr><tr><td><B>PAGE</B></td><td>271</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>W/2 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing> OK-GR-011.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.79723042142361,34.8303424072002,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1370,9 +1276,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>R. T. SHAW AND REBA J. SHAW, TRUSTEES OF THE R.T. SHAW AND REBA J. SHAW REVOCABLE LIVING TRUST</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3820</td></tr><tr><td><B>PAGE</B></td><td>251</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4</td></tr><tr><td><B>PLAT</B></td><td><B>NO LTC RECEIVED</B></td></tr>]]></description>
 			<styleUrl>#Permission_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.8054556644034,34.8369183673566,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1389,9 +1293,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VALVIA SUE MOORE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4445</td></tr><tr><td><B>PAGE</B></td><td>156</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 of the NW/4</td></tr><tr><td><B>PLAT</B></td><td><B>NO LTC RECEIVED</B></td></tr>]]></description>
 			<styleUrl>#Permission_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.80600855171019,34.8396366270684,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1408,9 +1310,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VALVIA SUE MOORE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>10</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4445</td></tr><tr><td><B>PAGE</B></td><td>156</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>N/2 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>NO LTC RECEIVED</B></td></tr>]]></description>
 			<styleUrl>#Permission_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.8137107760935,34.8396052424205,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1427,9 +1327,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BYRD, JAMES A & AMY R.</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>3</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3631</td></tr><tr><td><B>PAGE</B></td><td>507</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#> OK-GR-005.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.81324295546609,34.8449149405952,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1446,9 +1344,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ABEL, LARRY RAY & D. MARLENE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>3</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3646</td></tr><tr><td><B>PAGE</B></td><td>297</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#> OK-GR-004.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.82198025458661,34.8449430724335,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1465,9 +1361,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>PANENERGY FIELD SERVICES</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>3</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2715</td></tr><tr><td><B>PAGE</B></td><td>168</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>S/2 of the NW/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#> OK-GR-003.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.8221869849167,34.8515377627367,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1484,9 +1378,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>J.W. RATLIFF, JR. AND MARY RATLIFF</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>4</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2917</td></tr><tr><td><B>PAGE</B></td><td>154</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>Lot One (1) and SE/4 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.83200284788802,34.8517163996069,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1503,9 +1395,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KENNETH L. SALIE AND LINDA K. SALIE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>14</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>4 N</td></tr><tr><td><B>RANGE</B></td><td>6 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1126</td></tr><tr><td><B>PAGE</B></td><td>295</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4 of the NE/4 and the E/2 of the NW/4 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#> OK-GR-012.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.7945537140301,34.8248927584228,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1522,9 +1412,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>DOYLE CONDIT AND CHARLENE CONDIT</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>16</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2613</td></tr><tr><td><B>PAGE</B></td><td>315</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 of the NW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>NO LTC RECEIVED</B></td></tr>]]></description>
 			<styleUrl>#Permission_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6318754162011,34.6422134985655,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1541,9 +1429,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ARNOLD G. CONDIT AND BRENDA L. CONDIT</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>16</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2529</td></tr><tr><td><B>PAGE</B></td><td>309</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 of the SW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6319845908058,34.6387328187616,0</coordinates>
-				</Point>
+			
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1560,9 +1446,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GLYNN CONDIT AND MAMIE HELEN CONDIT</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Stephens</td></tr><tr><td><B>SECTION</B></td><td>16</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>2 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2529</td></tr><tr><td><B>PAGE</B></td><td>309</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 of the SW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6319900901933,34.640494647699,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1579,9 +1463,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>JAMES L. INCE AND CELESTA J. INCE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Garvin</td></tr><tr><td><B>SECTION</B></td><td>32</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1411</td></tr><tr><td><B>PAGE</B></td><td>71</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4 and the NW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.64303739436529,34.6901389357856,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1598,9 +1480,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>JAMES L. INCE AND CELESTA J. INCE</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Garvin</td></tr><tr><td><B>SECTION</B></td><td>29</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1442</td></tr><tr><td><B>PAGE</B></td><td>107</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6464829836619,34.6995081587916,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1617,9 +1497,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>NANCY DENSON</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Garvin</td></tr><tr><td><B>SECTION</B></td><td>30</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1677</td></tr><tr><td><B>PAGE</B></td><td>126</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E/2 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6530876560945,34.6995175730361,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1636,9 +1514,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>LYLE LAND & CATTLE COMPANY, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Garvin</td></tr><tr><td><B>SECTION</B></td><td>30</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>4 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1962</td></tr><tr><td><B>PAGE</B></td><td>874</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 and the SW/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6625499168501,34.6993072826734,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1655,9 +1531,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MARK P. FINCH AND RHENADA M. FINCH</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>25</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2379</td></tr><tr><td><B>PAGE</B></td><td>103</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4 of the SW/4 and the W/2 of hte NW/4 of the SE/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#https://drive.google.com/file/d/0B4naZBbUXH-vaXhSQkhKSjBfTjA/view?usp=sharing#> OK-GR-051.000 REV 0</a></td></tr>]]></description>
 			<styleUrl>#Submitted_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.67864002729081,34.7006124914113,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1674,9 +1548,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MARK P. FINCH AND RHENADA M. FINCH</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>25</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2379</td></tr><tr><td><B>PAGE</B></td><td>103</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 of the NW/4 and the NW/4 of the SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.68387262849289,34.7032207566749,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1693,9 +1565,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>LAMAR BEARDEN AND JEANNA BEARDEN</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>26</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3664</td></tr><tr><td><B>PAGE</B></td><td>327</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>S/2 of the NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6901872057054,34.704689190944,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1712,9 +1582,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MAYFIELD PROCESSING, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>23</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>3944</td></tr><tr><td><B>PAGE</B></td><td>416</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SW/4 OF THE SW/4</td></tr><tr><td><B>PLAT</B></td><td><B>ON HOLD</B></td></tr>]]></description>
 			<styleUrl>#MOC_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.69291563515299,34.7158530244214,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
@@ -1731,9 +1599,7 @@
 			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>BOB R. MASHBURN AND PATRICIA MASHBURN</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>Grady</td></tr><tr><td><B>SECTION</B></td><td>26</td></tr><tr bgcolor="#e3bba5"><td><B>TOWNSHIP</B></td><td>3 N</td></tr><tr><td><B>RANGE</B></td><td>5 W</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1547</td></tr><tr><td><B>PAGE</B></td><td>28</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 3/4/2015 12:00:00 AM</B></td></tr>]]></description>
 			<styleUrl>#WIP_rollover</styleUrl>
 			<MultiGeometry>
-				<Point>
-					<coordinates>-97.6906652105577,34.7082591434023,0</coordinates>
-				</Point>
+				
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
