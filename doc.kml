@@ -412,8 +412,8 @@
 			<Icon>
 				<href>https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=kKlbFkCnuTEddAwOQESKkBDiidJ4Kgw4mcQSm6O49Gk%3d&amp;docid=0633f7afbc30f48fa8db0dca5c2937dae</href>
 			</Icon>
-			<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-			<screenXY x="25" y="95" xunits="fraction" yunits="fraction"/>
+			<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+			<screenXY x="25" y="95" xunits="pixels" yunits="pixels"/>
 			<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 			<size x="0.15" y="0.15" xunits="fraction" yunits="fraction"/>
 		</ScreenOverlay>
