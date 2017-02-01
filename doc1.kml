@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PIONEER FAIN TO SUNRAY</name>
+	<Style id="PERM">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff8000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>008000ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Submitted_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Submitted</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Submitted_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="TWS_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#TWS</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#TWS_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PERM_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffa020ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>008000ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="ATWS_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ATWS</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ATWS_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="PERM_rollover">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PERM</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PERM_hlt</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="TWS">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>5c00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="ATWS_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00dfdf</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900dfdf</color>
+		</PolyStyle>
+	</Style>
+	<Style id="route">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>780000ff</color>
+			<gx:physicalWidth>3</gx:physicalWidth>
+		</LineStyle>
+	</Style>
+	<Style id="Submitted_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: right} </STYLE><tr><td><img src= width="100"height="80"> </td><td><H2> <B>$[name]<BR>PIONEER FAIN TO SUNRAY PROJECT</B></H2> </tr>$[description]]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4800ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="ATWS">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>5900ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="asbroute">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<gx:physicalWidth>10</gx:physicalWidth>
+			<gx:outerColor>ff55ff55</gx:outerColor>
+			<gx:outerWidth>0.25</gx:outerWidth>
+		</LineStyle>
+	</Style>
+	<Style id="Submitted">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4800ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="TWS_hlt">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00df00</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>5c00df00</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<Region>
+			<LatLonAltBox>
+				<north>35.9663703729076</north>
+				<south>35.524873174761</south>
+				<east>-101.792621238319</east>
+				<west>-101.92689930153</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>512</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<ScreenOverlay>
+			<name>LEGEND</name>
+			<Icon>
+				<href>https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=10604ab0de11b4780852650fd909005a4&amp;authkey=AeOaO0HR-h740HpJFchz_zc</href>
+			</Icon>
+			<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+			<screenXY x="0.01" y="0.99" xunits="fraction" yunits="fraction"/>
+			<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+			<size x="0.15" y="0.15" xunits="fraction" yunits="fraction"/>
+		</ScreenOverlay>
+	</Folder>
+	<Folder>
+		<name>Area Features</name>
+		<description>Area Features</description>
+		<Placemark>
+			<name>TX-ETCT-FSR-031</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>John Mark Zimmer
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-597</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>34</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>506</td></tr><tr><td><B>PAGE</B></td><td>495</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E/2</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vUWsxSi1Zcm9XZGM> TX-ETCT-FSR-031 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.858204212228,35.7190582538715,0 -101.858060792261,35.7337675858604,0 -101.866965110523,35.733817241972,0 -101.867048547966,35.7190918717511,0 -101.858204212228,35.7190582538715,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-018</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Taylor Properties
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>JF PATTERSON SURVEY A-562</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>399</td></tr><tr><td><B>PAGE</B></td><td>377</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vZHZJaGEwOHR3N2s> TX-ETCT-FSR-018 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.841848590153,35.8640260630761,0 -101.863920599985,35.8640122184765,0 -101.874503466066,35.8639344135158,0 -101.874613827242,35.8570871649733,0 -101.841912485392,35.8569925339329,0 -101.841848590153,35.8640260630761,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-019</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Taylor Properties
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>JB WHEATLEY SURVEY A-1119</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>21</td></tr><tr><td><B>BLOCK</B></td><td>M-1</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>399</td></tr><tr><td><B>PAGE</B></td><td>377</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vZHZJaGEwOHR3N2s> TX-ETCT-FSR-019 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.839076156968,35.8569839111765,0 -101.874613827242,35.8570871649733,0 -101.874724254371,35.8502346439155,0 -101.839139696204,35.8500245328674,0 -101.839076156968,35.8569839111765,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-020</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Taylor Properties
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>JB WHEATLEY SURVEY A-1118</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>20</td></tr><tr><td><B>BLOCK</B></td><td>M-1</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>399</td></tr><tr><td><B>PAGE</B></td><td>377</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vZHZJaGEwOHR3N2s> TX-ETCT-FSR-020 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.857979979056,35.8358001989709,0 -101.857554848476,35.8501345681605,0 -101.874724254371,35.8502346439155,0 -101.874958521556,35.8357380972339,0 -101.857979979056,35.8358001989709,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-008</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Rager & Geneva Jones Family Farms, LLC
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-294</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>215</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>709</td></tr><tr><td><B>PAGE</B></td><td>293</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vU2NSRG5NWFpGcWM> TX-ETCT-FSR-008 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.864507438417,35.9077688409395,0 -101.846694048115,35.9076821438706,0 -101.846676993683,35.9222243473306,0 -101.864526697875,35.9222525409821,0 -101.864507438417,35.9077688409395,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-003</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Rager and Geneva Jones Family Farms, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-281</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>189</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>709</td></tr><tr><td><B>PAGE</B></td><td>293</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>W/2</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vU2NSRG5NWFpGcWM> TX-ETCT-FSR-003 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.819973294622,35.9511795632658,0 -101.828901945177,35.951260440314,0 -101.828895373894,35.9367598438433,0 -101.819982921526,35.9367600175661,0 -101.819973294622,35.9511795632658,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-004</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Rager and Geneva Jones Family Farms, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-832</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>190</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>709</td></tr><tr><td><B>PAGE</B></td><td>293</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vU2NSRG5NWFpGcWM> TX-ETCT-FSR-004 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.828901945177,35.951260440314,0 -101.846763037118,35.9512637075506,0 -101.846722380085,35.9367492828074,0 -101.837806087086,35.9367495137185,0 -101.828895373894,35.9367598438433,0 -101.828901945177,35.951260440314,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-005</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Rager and Geneva Jones Family Farms, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-283</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>193</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>709</td></tr><tr><td><B>PAGE</B></td><td>293</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4 AND THE S/2</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vU2NSRG5NWFpGcWM> TX-ETCT-FSR-005 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.828844298752,35.9222074928023,0 -101.828895373894,35.9367598438433,0 -101.837806087086,35.9367495137185,0 -101.837778717854,35.9295079851784,0 -101.846691740633,35.9294743310967,0 -101.846676993683,35.9222243473306,0 -101.828844298752,35.9222074928023,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-010</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Rager and Geneva Jones Family Farms, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>216</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>709</td></tr><tr><td><B>PAGE</B></td><td>293</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vU2NSRG5NWFpGcWM> TX-ETCT-FSR-010 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+			
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.846694048115,35.9076821438706,0 -101.855613824869,35.9077258824893,0 -101.855602738339,35.9005068818886,0 -101.846686356292,35.9003213414753,0 -101.846694048115,35.9076821438706,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-029</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GA-LBD Properties, LTD</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-603</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>20</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>604</td></tr><tr><td><B>PAGE</B></td><td>67</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vUDJzVGZTOWRXUFE> TX-ETCT-FSR-029 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.840111044628,35.748369991811,0 -101.857917338508,35.748474961585,0 -101.858060792261,35.7337675858604,0 -101.840234263849,35.7336662087355,0 -101.840111044628,35.748369991811,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-032</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GA-LBD Properties, LTD</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-338</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>35</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>604</td></tr><tr><td><B>PAGE</B></td><td>67</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vUDJzVGZTOWRXUFE> TX-ETCT-FSR-032 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875807826156,35.7191242655676,0 -101.876093540767,35.7105904887517,0 -101.876158004303,35.7044096363306,0 -101.858314924118,35.7043184234937,0 -101.858204212192,35.7190582538714,0 -101.875807826156,35.7191242655676,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-035</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GA-LBD Properties, LTD</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-714</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>50</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>604</td></tr><tr><td><B>PAGE</B></td><td>67</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vUDJzVGZTOWRXUFE> TX-ETCT-FSR-035 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.876307559305,35.6896828670921,0 -101.858452527713,35.6895801425637,0 -101.858314924118,35.7043184234937,0 -101.876158004303,35.7044096363306,0 -101.876307559305,35.6896828670921,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-030</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>GA-LBD Properties, LTD</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-337</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>33</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>604</td></tr><tr><td><B>PAGE</B></td><td>67</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vUDJzVGZTOWRXUFE> TX-ETCT-FSR-030 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+			
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.840363562184,35.7189623364524,0 -101.840234263849,35.7336662087355,0 -101.858060792261,35.7337675858604,0 -101.858204212228,35.7190582538715,0 -101.840363562184,35.7189623364524,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-038.1</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ROBERT PRICE BRENT, III
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-346</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>51</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>555</td></tr><tr><td><B>PAGE</B></td><td>837</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vSTR6ZzZGZUQ5ajg> TX-ETCT-FSR-038.1 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+			
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.858484795209,35.6822785973077,0 -101.858481177162,35.6863302313558,0 -101.858452527713,35.6895801425637,0 -101.876307559305,35.6896828670921,0 -101.876463488044,35.6751776468419,0 -101.858570318524,35.6750509130181,0 -101.858484795209,35.6822785973077,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-038.2</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>ROBERT PRICE BRENT, III
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>HORACE HALL SURVEY A-3</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>555</td></tr><tr><td><B>PAGE</B></td><td>837</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vSTR6ZzZGZUQ5ajg> TX-ETCT-FSR-038.2 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.858570318524,35.6750509130181,0 -101.876463488044,35.6751776468419,0 -101.876615560637,35.6616338192516,0 -101.876618931378,35.6606582309352,0 -101.840887876628,35.6604108144038,0 -101.840720835902,35.6749318828134,0 -101.858570318524,35.6750509130181,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-021</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VICTORIA ANNE JORDAN FREEMAN AND PAMELA E. STEVENS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-321</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>1</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>506, 506, 685</td></tr><tr><td><B>PAGE</B></td><td>202, 208, 570</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vQ25JUDB0a05VMTQ> TX-ETCT-FSR-021 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+			
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.857229005504,35.8212797736699,0 -101.875037257079,35.8212475457832,0 -101.874889017144,35.8357383562975,0 -101.857097473157,35.835803361962,0 -101.857229005504,35.8212797736699,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-023</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VICTORIA ANNE JORDAN FREEMAN AND PAMELA E. STEVENS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-323</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>5</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>506, 506, 685</td></tr><tr><td><B>PAGE</B></td><td>202, 208, 570</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vQ25JUDB0a05VMTQ> TX-ETCT-FSR-023 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.839485866712,35.8213000776375,0 -101.857229005504,35.8212797736699,0 -101.85737987394,35.8067176921765,0 -101.839586898928,35.806712714188,0 -101.839485866712,35.8213000776375,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-022</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VICTORIA ANNE JORDAN FREEMAN AND PAMELA E. STEVENS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-624</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>6</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>506, 506, 685</td></tr><tr><td><B>PAGE</B></td><td>202, 208, 570</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vQ25JUDB0a05VMTQ> TX-ETCT-FSR-022 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.857229005504,35.8212797736699,0 -101.875037257079,35.8212475457832,0 -101.875172850575,35.8067200616461,0 -101.85737987394,35.8067176921765,0 -101.857229005504,35.8212797736699,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-024</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VICTORIA ANNE JORDAN FREEMAN AND  PAMELA E. STEVENS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-625</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>8</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>506, 506, 685</td></tr><tr><td><B>PAGE</B></td><td>202, 208, 570</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vQ25JUDB0a05VMTQ> TX-ETCT-FSR-024 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.839586898928,35.806712714188,0 -101.85737987394,35.8067176921765,0 -101.857617127013,35.7921404394254,0 -101.839741988569,35.7921354664216,0 -101.839586898928,35.806712714188,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-025</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VICTORIA ANNE JORDAN FREEMAN (50%), PAMELA E. STEVENS (50%)</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-326</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>11</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>506, 506, 685</td></tr><tr><td><B>PAGE</B></td><td>202, 208, 570</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vQ25JUDB0a05VMTQ> TX-ETCT-FSR-025 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.848753005509,35.7848505010335,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.839741988569,35.7921354664216,0 -101.857617127013,35.7921404394254,0 -101.857740660192,35.7775444225123,0 -101.839898998872,35.7775720242938,0 -101.839741988569,35.7921354664216,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-028</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>VICTORIA ANNE JORDAN FREEMAN (50%), PAMELA E. STEVENS (50%)</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-329</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>17</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>506, 506, 685</td></tr><tr><td><B>PAGE</B></td><td>202, 208, 570</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vQ25JUDB0a05VMTQ> TX-ETCT-FSR-028 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.848964824439,35.7558220101572,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.839960585022,35.7631441239754,0 -101.857861408122,35.7632723255919,0 -101.857917338508,35.748474961585,0 -101.840111044628,35.748369991811,0 -101.839960585022,35.7631441239754,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-016</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Helen Elizabeth Lowe
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-846</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>240</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>436</td></tr><tr><td><B>PAGE</B></td><td>648</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SE/4 ANDTHE EAST 80 ACRES OF THE SW/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vdnRxY3JXOXJpYjg> TX-ETCT-FSR-016 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.854583262773,35.8721243339376,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.846700928047,35.8787532167277,0 -101.864485788582,35.8787492540184,0 -101.86447169478,35.8715148181509,0 -101.859812350782,35.8715234243573,0 -101.859803547803,35.8644271830264,0 -101.846621135165,35.8644354871826,0 -101.846634995911,35.8715467965464,0 -101.846700928047,35.8787532167277,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-014</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Charles E. Sheldon Jr.
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-306</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>239</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>662</td></tr><tr><td><B>PAGE</B></td><td>242</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vZjhpcThKdmNxUUE> TX-ETCT-FSR-014 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.855207038353,35.8805003371127,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.864485788582,35.8787492540184,0 -101.846700928047,35.8787532167277,0 -101.84668298064,35.8823232325308,0 -101.858261545734,35.8822275324836,0 -101.858191015042,35.8788373027647,0 -101.859769994432,35.8788309965145,0 -101.859883409134,35.8822342004216,0 -101.864501128075,35.8821859580755,0 -101.864485788582,35.8787492540184,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-007</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>SV LAND AND CATTLE CO LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-954</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>192</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>648</td></tr><tr><td><B>PAGE</B></td><td>172</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vQWFtOHU0YkRnVUU> TX-ETCT-FSR-007 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.855614746679,35.9294949493192,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.846676993683,35.9222243473306,0 -101.846691740633,35.9294743310967,0 -101.846722380085,35.9367492828074,0 -101.864548134729,35.9367596608564,0 -101.864526697875,35.9222525409821,0 -101.846676993683,35.9222243473306,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-026</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>DAVID J. SMITH, et al</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-629</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>14</td></tr><tr><td><B>BLOCK</B></td><td>6-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>262, 631, 690. 745</td></tr><tr><td><B>PAGE</B></td><td>275, 843, 058, 686</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vTnNkVlU1WXNKY0E> TX-ETCT-FSR-026 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.848849288785,35.7703792769038,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.839898998872,35.7775720242938,0 -101.857740660192,35.7775444225123,0 -101.857861408122,35.7632723255919,0 -101.839960585022,35.7631441239754,0 -101.839898998872,35.7775720242938,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-041</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Karen Ann Thompson, Life Estate, et al</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>EL&RR CO SURVEY A-677</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>4</td></tr><tr><td><B>BLOCK</B></td><td>B-10</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>692</td></tr><tr><td><B>PAGE</B></td><td>909</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vczZBN19zSlVXRjA> TX-ETCT-FSR-041 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.876176782291,35.6562793072224,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.876618931378,35.6606582309352,0 -101.876615560637,35.6616338192516,0 -101.882473101691,35.6617147652973,0 -101.882469877553,35.6514629687555,0 -101.869548755892,35.6513868689571,0 -101.869547406261,35.6606101013801,0 -101.876618931378,35.6606582309352,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-013</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Sheldon Land & Cattle LP
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-306</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>239</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>661, 662, 662</td></tr><tr><td><B>PAGE</B></td><td>879, 236, 239</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vZlJPcUo2QVFBWXc> TX-ETCT-FSR-013 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.855652296211,35.8876474638506,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.846702015073,35.8932095475041,0 -101.855619580686,35.8932156302909,0 -101.864470828215,35.8932133994727,0 -101.864501128075,35.8821859580755,0 -101.859883409134,35.8822342004216,0 -101.859839522848,35.8809784579691,0 -101.859026192011,35.8809931809945,0 -101.85901393131,35.8807131467416,0 -101.859829773208,35.8806983782819,0 -101.859821026044,35.8804479045603,0 -101.858224993293,35.8804767909675,0 -101.858261545734,35.8822275324836,0 -101.84668298064,35.8823232325308,0 -101.846702015073,35.8932095475041,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-042</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KAREN ANN THOMPSON, LIFE ESTATE, ET AL</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>EL&RR CO SURVEY A-381</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>3</td></tr><tr><td><B>BLOCK</B></td><td>B-10</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>692</td></tr><tr><td><B>PAGE</B></td><td>909</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vczZBN19zSlVXRjA> TX-ETCT-FSR-042 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.876014599305,35.6462698335166,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.869548755892,35.6513868689571,0 -101.882469877553,35.6514629687555,0 -101.882461434641,35.6411084375326,0 -101.869541552649,35.6411203929721,0 -101.869548755892,35.6513868689571,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-049</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELINDA HAGY & ESTATE OF ELIZA ANN HAGY
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-1344</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>64</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2086, 3044</td></tr><tr><td><B>PAGE</B></td><td>9, 148</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vVTZJTzZLNGtoeFE> TX-ETCT-FSR-049 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.899318407415,35.5941775209707,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.908202572728,35.5972645205303,0 -101.908205589105,35.5869331432898,0 -101.890462971035,35.5868993990884,0 -101.890405192821,35.6014065112301,0 -101.908164357228,35.6014629271307,0 -101.908202572728,35.5972645205303,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-048</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELINDA HAGY & ESTATE OF ELIZA ANN HAGY
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-414</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>93</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2086, 3044</td></tr><tr><td><B>PAGE</B></td><td>9, 148</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vVTZJTzZLNGtoeFE> TX-ETCT-FSR-048 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.881501710264,35.5941169521674,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.872646053805,35.6013474899576,0 -101.882449121899,35.6013727506124,0 -101.890405192821,35.6014065112301,0 -101.890462971035,35.5868993990884,0 -101.872475391521,35.5868832626672,0 -101.872646053805,35.6013474899576,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-043</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Melinda Hagy Revocable Trust, et al</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>G&M SURVEY A-455</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>41</td></tr><tr><td><B>BLOCK</B></td><td>GM3</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>416, 532</td></tr><tr><td><B>PAGE</B></td><td>850, 743</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>E PART</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-veUt0R0F2TnVoLTA> TX-ETCT-FSR-043 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.875149335137,35.63563303378,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.867682986509,35.6304077548271,0 -101.867096862567,35.6385680430953,0 -101.869514202618,35.6385746681259,0 -101.869541552649,35.6411203929721,0 -101.882461434641,35.6411084375326,0 -101.882448182979,35.6303780780654,0 -101.867682986509,35.6304077548271,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-046</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELINDA HAGY REVOCABLE TRUST, ET AL</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-1025</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>83</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2218, 3044</td></tr><tr><td><B>PAGE</B></td><td>465, 148</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-veUt0R0F2TnVoLTA> TX-ETCT-FSR-046 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.878962130053,35.6177960584759,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.872607933562,35.6197656942261,0 -101.882435016945,35.6197147771441,0 -101.885363412354,35.6196951546593,0 -101.885338755381,35.615859044239,0 -101.872616025117,35.6158568816074,0 -101.872607933562,35.6197656942261,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-044</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Melinda Hagy Revocable Trust, et al</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-422</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>83</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>416, 532</td></tr><tr><td><B>PAGE</B></td><td>850, 743</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-veUt0R0F2TnVoLTA> TX-ETCT-FSR-044 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.877521659736,35.6250673095651,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.872585946582,35.6303980999563,0 -101.882448182979,35.6303780780654,0 -101.882435016945,35.6197147771441,0 -101.872607933562,35.6197656942261,0 -101.872585946582,35.6303980999563,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-051</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELINDA HAGY & ESTATE OF ELIZA ANN HAGY
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-1342</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>70</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2086, 3044</td></tr><tr><td><B>PAGE</B></td><td>9, 148</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vVTZJTzZLNGtoeFE> TX-ETCT-FSR-051 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.917052390677,35.5776205396716,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.908220047141,35.5827873674703,0 -101.925668088489,35.5827272945128,0 -101.925924757158,35.5827263911917,0 -101.925992097073,35.5726954315651,0 -101.917825121359,35.5724264006285,0 -101.908256180546,35.5724244012511,0 -101.908220047141,35.5827873674703,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-047</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELINDA HAGY REVOCABLE TRUST, ET AL</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-1413</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>92</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2086, 3044</td></tr><tr><td><B>PAGE</B></td><td>465, 148</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-veUt0R0F2TnVoLTA> TX-ETCT-FSR-047 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.877957297998,35.6089786073739,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.872616025117,35.6158568816074,0 -101.885338755381,35.615859044239,0 -101.885316375362,35.6123453578503,0 -101.882418423546,35.6122997825687,0 -101.882449121899,35.6013727506124,0 -101.872646053805,35.6013474899576,0 -101.872616025117,35.6158568816074,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-050</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>MELINDA HAGY & ESTATE OF ELIZA ANN HAGY
+</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-395</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>65</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>2086, 3044</td></tr><tr><td><B>PAGE</B></td><td>9, 148</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vVTZJTzZLNGtoeFE> TX-ETCT-FSR-050 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.89931869728,35.5796800978023,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.890286916397,35.5723953793855,0 -101.890462971035,35.5868993990884,0 -101.908205589105,35.5869331432898,0 -101.908256180546,35.5724244012511,0 -101.898487696324,35.5724250141692,0 -101.894692126832,35.5727957960498,0 -101.892957931945,35.5723872593009,0 -101.890286916397,35.5723953793855,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-006</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Anthony M. Hise</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-283</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>193</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>420</td></tr><tr><td><B>PAGE</B></td><td>800</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NW/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vNEhVaTVOSXNYQ2s> TX-ETCT-FSR-006 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.842253153424,35.9331205137661,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.837806087086,35.9367495137185,0 -101.846722380085,35.9367492828074,0 -101.846691740633,35.9294743310967,0 -101.837778717854,35.9295079851784,0 -101.837806087086,35.9367495137185,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-002</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>RAYMOND JONES AND CHARLES JONES</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-850</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>170</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>44</td></tr><tr><td><B>PAGE</B></td><td>903</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vYnVveWtmMF8zYTA> TX-ETCT-FSR-002 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.820713551583,35.9577944355684,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.828901945177,35.951260440314,0 -101.819973294622,35.9511795632658,0 -101.811064529428,35.9512589721237,0 -101.811066977381,35.9614299940601,0 -101.818268647733,35.9614291745229,0 -101.818261835577,35.9657561884335,0 -101.828910222,35.9657714923101,0 -101.828901945177,35.951260440314,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-054</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KRITSER RANCH NORTH</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-1389</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>66</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1254</td></tr><tr><td><B>PAGE</B></td><td>448</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vMVZlVzc1LVlaTXM> TX-ETCT-FSR-054 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.899335313527,35.5652131614803,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.908267614199,35.5681798111813,0 -101.90830540689,35.5579238556451,0 -101.890547918245,35.5579194714246,0 -101.890286916397,35.5723953793855,0 -101.892957931945,35.5723872593009,0 -101.894692126832,35.5727957960498,0 -101.898487696324,35.5724250141692,0 -101.908256180546,35.5724244012511,0 -101.908267614199,35.5681798111813,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-055</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KRITSER RANCH NORTH</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-398</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>67</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1254</td></tr><tr><td><B>PAGE</B></td><td>448</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vMVZlVzc1LVlaTXM> TX-ETCT-FSR-055 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.90127511941,35.5507316017294,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.891916038299,35.5579199018713,0 -101.89196585684,35.5573061645123,0 -101.894285012123,35.5573069643843,0 -101.894368904732,35.5434608375287,0 -101.908360284757,35.5434147559801,0 -101.90830540689,35.5579238556451,0 -101.891916038299,35.5579199018713,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-056</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KRITSER RANCH NORTH</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>G&M SURVEY A-513</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>81</td></tr><tr><td><B>BLOCK</B></td><td>3</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1254</td></tr><tr><td><B>PAGE</B></td><td>448</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vMVZlVzc1LVlaTXM> TX-ETCT-FSR-056 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.902196414168,35.5414172848869,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.894368904732,35.5434608375287,0 -101.894382866345,35.5411560667664,0 -101.897061245901,35.5411485847436,0 -101.897069090572,35.5401347879596,0 -101.900148169022,35.540127689792,0 -101.900153991645,35.5389350383623,0 -101.90837725509,35.5388779866485,0 -101.908360284757,35.5434147559801,0 -101.894368904732,35.5434608375287,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-011</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>JOYCE WILLIAMS, ET AL</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>216</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>595</td></tr><tr><td><B>PAGE</B></td><td>723-731</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>SE/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vVUxZZVJnTXY4RUU> TX-ETCT-FSR-011 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.85117118933,35.8968135269799,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.855619580686,35.8932156302909,0 -101.846702015073,35.8932095475041,0 -101.846686356292,35.9003213414753,0 -101.855602738339,35.9005068818886,0 -101.855619580686,35.8932156302909,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-001</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>EAGLE ROCK FIELD SERVICES, LP</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>MOORE</td></tr><tr><td><B>SURVEY</B></td><td>T&NO RR CO SURVEY A-850</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>170</td></tr><tr><td><B>BLOCK</B></td><td>3-T</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>720</td></tr><tr><td><B>PAGE</B></td><td>183</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>NE/4</td></tr><tr><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vYmdFaUFTRV81Ync> TX-ETCT-FSR-001 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.814665655311,35.9635940220675,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.818261835577,35.9657561884335,0 -101.811068020235,35.9657621671915,0 -101.811066977381,35.9614299940601,0 -101.818268647733,35.9614291745229,0 -101.818261835577,35.9657561884335,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-052</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>KRITSER RANCH NORTH</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>D&P RR CO SURVEY A-1342</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>70</td></tr><tr><td><B>BLOCK</B></td><td>O-18</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>1254</td></tr><tr><td><B>PAGE</B></td><td>448</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vMVZlVzc1LVlaTXM> TX-ETCT-FSR-052 REV 1</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.917212663638,35.5703334683451,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.925968238705,35.5681713764021,0 -101.908267614199,35.5681798111813,0 -101.908256180546,35.5724244012511,0 -101.917825121359,35.5724264006285,0 -101.925992097073,35.5726954315651,0 -101.925968238705,35.5681713764021,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>TX-ETCT-FSR-060</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"> <head> <META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>Pioneer Natural Resousrces
+ USA, INC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>POTTER</td></tr><tr><td><B>SURVEY</B></td><td>G&M SURVEY A-450</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>10,81</td></tr><tr><td><B>BLOCK</B></td><td>GM3,3</td></tr><tr bgcolor="#e3bba5"><td><B>BOOK</B></td><td>4192</td></tr><tr><td><B>PAGE</B></td><td>473</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vN0tqdHFvR3ZnR28> TX-ETCT-FSR-060 REV 0</a></td></tr>]]></description>
+			<styleUrl>#Submitted_rollover</styleUrl>
+			<MultiGeometry>
+				<Point>
+					<coordinates>-101.89568258506,35.5385758279235,0</coordinates>
+				</Point>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.897061245901,35.5411485847436,0 -101.894382866345,35.5411560667664,0 -101.894393124462,35.538837745445,0 -101.894191902242,35.5388370968792,0 -101.894213886302,35.5360940613283,0 -101.897100390138,35.5360895699476,0 -101.897061245901,35.5411485847436,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875123330393,35.6896250480578,0 -101.875264982809,35.6896246095033,0 -101.875123330393,35.6896250480578,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.859443965529,35.8639258344921,0 -101.859612712325,35.8639247540825,0 -101.859612812359,35.8635996203419,0 -101.860529216586,35.8593047967852,0 -101.860535008306,35.8591497761913,0 -101.859406992763,35.8509224930168,0 -101.859393146552,35.8504281262902,0 -101.859349058877,35.8501065316427,0 -101.859228686652,35.8496218445251,0 -101.859062130471,35.8484068668799,0 -101.859070719106,35.8482317797491,0 -101.859654207252,35.8457745719513,0 -101.860434780674,35.8432405063055,0 -101.860443874681,35.8430894127856,0 -101.857899514635,35.8291719670577,0 -101.857345663087,35.8119465614984,0 -101.857301566818,35.8118009640456,0 -101.857220237006,35.811666427207,0 -101.848643615585,35.8029057020332,0 -101.848545552454,35.8027450353559,0 -101.848491128264,35.8025711682325,0 -101.848152272002,35.7952982290618,0 -101.848529050547,35.7900922588374,0 -101.849850607584,35.7829154436533,0 -101.850120754686,35.7773044397199,0 -101.849864192791,35.7632494652629,0 -101.849695615512,35.7632482041469,0 -101.849952140487,35.7773027677244,0 -101.849682523326,35.7829025217833,0 -101.848361198166,35.7900779959009,0 -101.847983480775,35.7952967875282,0 -101.848323311319,35.8025909646865,0 -101.848386590004,35.8027931202752,0 -101.848500607857,35.8029799277455,0 -101.857077011543,35.8117404482781,0 -101.857142210858,35.811848302171,0 -101.857177561182,35.8119650229661,0 -101.857731167601,35.8291839210344,0 -101.860274559094,35.8430962303232,0 -101.860267094841,35.843220241793,0 -101.859489443095,35.8457448052776,0 -101.858902649466,35.8482159116499,0 -101.858893041427,35.8484117719017,0 -101.85906183851,35.8496431150354,0 -101.859182209762,35.8501278023152,0 -101.859224642236,35.8504373279115,0 -101.859238487415,35.850931694656,0 -101.860365986143,35.8591553349657,0 -101.860360921524,35.8592908864588,0 -101.859444070252,35.8635877624015,0 -101.859443965529,35.8639258344921,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875074274532,35.6905532975208,0 -101.87509005927,35.6898957707118,0 -101.875258451241,35.6898967143937,0 -101.875244869394,35.6904625277672,0 -101.875074274532,35.6905532975208,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.898371617166,35.5878487874823,0 -101.897289182858,35.5895826411778,0 -101.893519232907,35.5933747932261,0 -101.890393740415,35.5941071495726,0 -101.885718021799,35.5953834530033,0 -101.88549627165,35.5954962064526,0 -101.883429530299,35.5972037373245,0 -101.88304054736,35.5974026169578,0 -101.881878970356,35.5985420262839,0 -101.88176238587,35.5987317413877,0 -101.880970456935,35.601421136469,0 -101.880337948279,35.6028062612461,0 -101.879063770695,35.6047600596162,0 -101.879001798164,35.6049716928729,0 -101.879131184708,35.610275021241,0 -101.878991830062,35.6115386893301,0 -101.879245428584,35.6118677519749,0 -101.879191805565,35.6127595223632,0 -101.879229141363,35.6142896257406,0 -101.879184288131,35.6183859354569,0 -101.879159928868,35.6185209880842,0 -101.878098073024,35.6214967185063,0 -101.875891604223,35.6248494685355,0 -101.875545539351,35.6265307048128,0 -101.875711427834,35.6265536407868,0 -101.876052930151,35.6248945540198,0 -101.878254647243,35.6215490134128,0 -101.879324681757,35.6185503465959,0 -101.879352411198,35.6183966072721,0 -101.879397380988,35.6142888712358,0 -101.879360109279,35.6127615248999,0 -101.879416046489,35.6118312359272,0 -101.879164467495,35.6115047948806,0 -101.879299551657,35.6102798276719,0 -101.879170398992,35.6049865391732,0 -101.879222354122,35.6048091136388,0 -101.880491648765,35.6028627965597,0 -101.881131610616,35.6014613441386,0 -101.881921389721,35.5987792322766,0 -101.882020608398,35.5986177756444,0 -101.883152588383,35.5975073968697,0 -101.883535370684,35.5973116872891,0 -101.885601962101,35.5956042789624,0 -101.885790101929,35.595508615325,0 -101.890443606775,35.594238374903,0 -101.893616449063,35.5934949227806,0 -101.897430931958,35.5896579707725,0 -101.898531490065,35.587895080909,0 -101.898818481883,35.586793943119,0 -101.899103560462,35.5863372762312,0 -101.899250972833,35.5862036272453,0 -101.899735921174,35.5858943332346,0 -101.899852610715,35.5857787750141,0 -101.902187329158,35.5820384758572,0 -101.902311692461,35.5818959682656,0 -101.909132055494,35.5761163709949,0 -101.909057789786,35.5757783494086,0 -101.908892290206,35.5758026184251,0 -101.908951378267,35.576071561448,0 -101.902181994535,35.5818079454757,0 -101.902043177373,35.5819670154017,0 -101.899711164925,35.5857029695942,0 -101.899617913744,35.585795316547,0 -101.899135885507,35.5861027477914,0 -101.898963805363,35.5862587611776,0 -101.898658611,35.5867476500603,0 -101.898371617166,35.5878487874823,0 -101.898371617166,35.5878487874823,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.904871724442,35.5547833812466,0 -101.902629103174,35.5522136016058,0 -101.901992349834,35.5512446217702,0 -101.902062535477,35.550558471813,0 -101.899866349042,35.5478178765596,0 -101.897844930206,35.545182757254,0 -101.896605577843,35.5441688382012,0 -101.896521642712,35.5411532927273,0 -101.896353613795,35.5411564168155,0 -101.896439074164,35.5442269869681,0 -101.897712604314,35.5452688692069,0 -101.899724821143,35.5478919982145,0 -101.901890206241,35.5505941643325,0 -101.901820690819,35.5512737475454,0 -101.902486055054,35.5522862692482,0 -101.905023351038,35.5551937022777,0 -101.904947833788,35.5549211646571,0 -101.904871724442,35.5547833812466,0 -101.904871724442,35.5547833812466,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875302059479,35.6885790777082,0 -101.875351106119,35.6836181407031,0 -101.875326865531,35.68346389071,0 -101.874423566721,35.680727648463,0 -101.875393397559,35.6780194984314,0 -101.875421178569,35.6778658040163,0 -101.87557000188,35.6637143859554,0 -101.875471520564,35.6632345575378,0 -101.87547506287,35.6628977001505,0 -101.875604410248,35.6604418246099,0 -101.875637225574,35.657320526911,0 -101.875552455095,35.6569074702204,0 -101.875556047549,35.6565657840851,0 -101.875649489293,35.6561539752986,0 -101.875664219126,35.6547527965326,0 -101.873753538383,35.6318287411799,0 -101.873563129573,35.6315275135902,0 -101.873690119087,35.6310676201941,0 -101.873498380057,35.6287663931226,0 -101.873540849752,35.6285869533584,0 -101.873638420251,35.6284224213276,0 -101.874716267746,35.6274004803763,0 -101.875667137766,35.6267688057107,0 -101.875677965722,35.626716202688,0 -101.875570046557,35.6267012816605,0 -101.875485311015,35.6267125009466,0 -101.874598505775,35.6273016153431,0 -101.873496568148,35.6283463952816,0 -101.873379824852,35.6285432575637,0 -101.873329027297,35.6287578817191,0 -101.873520581999,35.631056954981,0 -101.873385520181,35.6315460782548,0 -101.873588030453,35.6318664516621,0 -101.875495861036,35.6547568759136,0 -101.875481309927,35.6561407790287,0 -101.87538786734,35.6565525876868,0 -101.87538402142,35.6569183090326,0 -101.875468791048,35.65733136584,0 -101.875436120406,35.6604382847505,0 -101.875306767911,35.6628941601135,0 -101.875303073668,35.663245396221,0 -101.875401553996,35.6637252247742,0 -101.875252927301,35.6778551428216,0 -101.875228537376,35.6779900750081,0 -101.874248704804,35.6807261368998,0 -101.875161317404,35.683490610679,0 -101.875182650145,35.6836263589731,0 -101.875133706624,35.6885758203722,0 -101.875109912091,35.6890687690709,0 -101.875096556235,35.6896251309317,0 -101.875264982809,35.6896246095033,0 -101.875278227829,35.6890728167397,0 -101.875302059479,35.6885790777082,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.850726274309,35.7372105943728,0 -101.85032416948,35.7397684710933,0 -101.850724487165,35.7435061744435,0 -101.851109935916,35.7487890038379,0 -101.851813146507,35.7536227177241,0 -101.851810434704,35.7537598019741,0 -101.850732125263,35.7595674284436,0 -101.849715842844,35.7623777893215,0 -101.849683274563,35.7625719396931,0 -101.849693531555,35.7631340073905,0 -101.849862109489,35.7631353175333,0 -101.849851979428,35.7625802691641,0 -101.84988109915,35.7624066746583,0 -101.85089703283,35.7595972619083,0 -101.851978746189,35.7537712375685,0 -101.851981822614,35.7536157048855,0 -101.851277850605,35.74877682703,0 -101.850892545718,35.7434961200246,0 -101.850493595767,35.7397712601893,0 -101.851037316236,35.7363124491594,0 -101.850726274309,35.7372105943728,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.902327745067,35.5825695364133,0 -101.902103032972,35.5824759364489,0 -101.902331481198,35.58210993614,0 -101.902431086864,35.5819957980623,0 -101.902633286602,35.5820800207388,0 -101.902327745067,35.5825695364133,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.901803417656,35.5823511358443,0 -101.901728513972,35.5823199355768,0 -101.902034058195,35.5818304213887,0 -101.902128170217,35.5818696225993,0 -101.902043177373,35.5819670154017,0 -101.901803417656,35.5823511358443,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.900952762319,35.5847723467608,0 -101.900728045689,35.584678744288,0 -101.901033604901,35.5841892328757,0 -101.901258320523,35.5842828347911,0 -101.900952762319,35.5847723467608,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.900428424326,35.584553940339,0 -101.90035351913,35.5845227392353,0 -101.900659080021,35.584033228752,0 -101.900733984881,35.5840644296699,0 -101.900428424326,35.584553940339,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.899786004834,35.5860366712376,0 -101.899278076458,35.5868503336992,0 -101.899188188207,35.5868128915335,0 -101.89959782177,35.586156692476,0 -101.899786004834,35.5860366712376,0 -101.899786004834,35.5860366712376,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875263194509,35.6519660130373,0 -101.87501132204,35.6519800003237,0 -101.874965623659,35.6514317992919,0 -101.875217494426,35.6514178120988,0 -101.875263194509,35.6519660130373,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875682981765,35.6519426997295,0 -101.875599024333,35.6519473625075,0 -101.875553321979,35.6513991616932,0 -101.875637278843,35.6513944989463,0 -101.875682981765,35.6519426997295,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875048787794,35.6493940058194,0 -101.874796923315,35.6494079926684,0 -101.874751227847,35.6488597912217,0 -101.875003090623,35.6488458044658,0 -101.875048787794,35.6493940058194,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875468561732,35.6493706932404,0 -101.875384606964,35.6493753558726,0 -101.875338907522,35.6488271546433,0 -101.875422861722,35.6488224920422,0 -101.875468561732,35.6493706932404,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.851578584993,35.7366511053314,0 -101.851327915167,35.7366249132717,0 -101.851368371744,35.7363675366499,0 -101.851454850894,35.7361178181073,0 -101.851698060777,35.7361738060337,0 -101.851616663672,35.7364088516741,0 -101.851578584993,35.7366511053314,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.850943033402,35.7365846965949,0 -101.850910132485,35.736581258687,0 -101.850954552429,35.7362986771454,0 -101.851049501839,35.7360245038107,0 -101.851130571575,35.7360431667786,0 -101.850943033402,35.7365846965949,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.851013120826,35.7391677999367,0 -101.850762443357,35.7391416067255,0 -101.850848117033,35.738596608125,0 -101.851098792835,35.7386228011629,0 -101.851013120826,35.7391677999367,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.850428206986,35.7391066816375,0 -101.850344647938,35.7390979502215,0 -101.850430324392,35.7385529519099,0 -101.850513882884,35.7385616832682,0 -101.850428206986,35.7391066816375,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.849915446504,35.743448754016,0 -101.850082573545,35.7434662173618,0 -101.850461831462,35.7410538390725,0 -101.850392999922,35.740411155157,0 -101.849915446504,35.743448754016,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.848059034772,35.7942529386762,0 -101.847974880718,35.794248895636,0 -101.848014580702,35.7937004003042,0 -101.848098734185,35.7937044433175,0 -101.848059034772,35.7942529386762,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.848648113385,35.7942812383235,0 -101.848395651071,35.7942691102534,0 -101.8484353482,35.7937206147871,0 -101.848687808801,35.7937327427765,0 -101.848648113385,35.7942812383235,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.858838547852,35.8352418772137,0 -101.85875512395,35.8352519896702,0 -101.858655775554,35.8347085363545,0 -101.858739198906,35.8346984239646,0 -101.858838547852,35.8352418772137,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.859422514578,35.8351710884121,0 -101.85917224325,35.835201426814,0 -101.859072892101,35.8346579738316,0 -101.859323161777,35.8346276356296,0 -101.859422514578,35.8351710884121,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.859285634707,35.8376874147531,0 -101.859202153915,35.8376975341053,0 -101.859102799484,35.837154081546,0 -101.859186279725,35.8371439622605,0 -101.859285634707,35.8376874147531,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.859869564368,35.837616630448,0 -101.859619340018,35.8376469631537,0 -101.859519982833,35.8371035109277,0 -101.859770205531,35.8370731784219,0 -101.859869564368,35.837616630448,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.893836521894,35.593491479731,0 -101.894048559211,35.5932782052449,0 -101.894179115504,35.5933648002321,0 -101.893967078304,35.5935780749428,0 -101.893836521894,35.593491479731,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.89416551391,35.5931605675079,0 -101.894493538361,35.592830624882,0 -101.894624094408,35.5929172193978,0 -101.894412059559,35.593130494909,0 -101.89416551391,35.5931605675079,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875843854624,35.6267391384796,0 -101.876009778436,35.6267619049107,0 -101.875977953345,35.6269165164779,0 -101.875746025903,35.6270705910449,0 -101.875639835758,35.6269640390998,0 -101.875822545413,35.6268426611946,0 -101.875843854624,35.6267391384796,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875946492242,35.6262405087579,0 -101.876112415057,35.626263275051,0 -101.876168183355,35.6259923385234,0 -101.876002261082,35.6259695723053,0 -101.875946492242,35.6262405087579,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.874364612362,35.6279444197619,0 -101.874492110339,35.6280340545693,0 -101.873670880474,35.6288126817553,0 -101.873667732852,35.6287749042892,0 -101.873701874826,35.6286306489386,0 -101.873780272621,35.628498447206,0 -101.874364612362,35.6279444197619,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.890153124612,35.5944625106624,0 -101.890206436196,35.5945927955424,0 -101.890525456807,35.5945057073775,0 -101.890472144766,35.5943754226355,0 -101.890153124612,35.5944625106624,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.889721593164,35.5945803110548,0 -101.88977490413,35.5947105961215,0 -101.890093925671,35.5946235090962,0 -101.890085129462,35.5944810722513,0 -101.889721593164,35.5945803110548,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.87970871644,35.6165850313381,0 -101.879538583171,35.616758354549,0 -101.879543500749,35.6163090782662,0 -101.879711722884,35.6163103058433,0 -101.87970871644,35.6165850313381,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.879523612817,35.6181260345511,0 -101.879691838738,35.6181272621553,0 -101.879694845296,35.617852536757,0 -101.879526619947,35.6178513091569,0 -101.879523612817,35.6181260345511,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.875433480649,35.6896211185434,0 -101.875440073386,35.6893464395021,0 -101.875608422315,35.6893491285631,0 -101.875601871527,35.6896220835593,0 -101.875433480649,35.6896211185434,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.859274977299,35.8647010600445,0 -101.859443725377,35.8647010947971,0 -101.859443810477,35.8644263763794,0 -101.859275062975,35.864426341627,0 -101.859274977299,35.8647010600445,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.859781459207,35.8639233788935,0 -101.859950205655,35.8639234129424,0 -101.859950289026,35.8636486944597,0 -101.859781543153,35.863648660411,0 -101.859781459207,35.8639233788935,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.855159710482,35.9072631674374,0 -101.855148942241,35.9073207152387,0 -101.855148930161,35.9075377421929,0 -101.854980092205,35.9075377358559,0 -101.85498010534,35.9073103169679,0 -101.854992796093,35.9072424956075,0 -101.855159710482,35.9072631674374,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.854980070382,35.9079155661031,0 -101.85498006574,35.9079959398306,0 -101.854956160571,35.9080818225305,0 -101.854899885006,35.9081777392695,0 -101.855049936716,35.9082408618446,0 -101.855116662266,35.9081271336456,0 -101.855148903803,35.9080113005122,0 -101.855148909132,35.9079155724401,0 -101.854980070382,35.9079155661031,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.818547739334,35.9640771784063,0 -101.818660917886,35.9641791618402,0 -101.818911811958,35.9639951425699,0 -101.818798633347,35.9638931593632,0 -101.818547739334,35.9640771784063,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.819145323916,35.9636388757619,0 -101.819258502609,35.9637408586546,0 -101.819565191997,35.963515911904,0 -101.81956507441,35.9631801066817,0 -101.819396119575,35.9631801456655,0 -101.819396215192,35.963454855459,0 -101.819145323916,35.9636388757619,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.855414290529,35.906990551542,0 -101.855442489396,35.9068379568006,0 -101.855414987321,35.9006990515527,0 -101.855377697883,35.8949205079028,0 -101.855183004077,35.8940488523533,0 -101.855173826799,35.8926260206365,0 -101.855357258366,35.8917527493753,0 -101.855301314378,35.8830811423063,0 -101.855213724833,35.8824256867495,0 -101.855211546725,35.8820889454303,0 -101.855290681509,35.8814327785095,0 -101.855270035808,35.8782319773722,0 -101.859510697794,35.8724680930127,0 -101.859576639201,35.8723254007295,0 -101.859610173587,35.8721754119475,0 -101.85961255828,35.8644254365861,0 -101.859443810477,35.8644263763794,0 -101.859441413669,35.8721629987097,0 -101.859413324849,35.8722886300277,0 -101.859358091794,35.8724081497291,0 -101.855101014267,35.878194328243,0 -101.855121854965,35.8814264136112,0 -101.855042718685,35.8820825814645,0 -101.855044987718,35.8824334938982,0 -101.855132575758,35.8830889485349,0 -101.855188378353,35.8917414532884,0 -101.855004944978,35.8926147242977,0 -101.85501427424,35.8940615902317,0 -101.855208966249,35.8949332460481,0 -101.855246165333,35.9006996623557,0 -101.855273606921,35.9068279381261,0 -101.855249252421,35.906959728066,0 -101.855185200505,35.9071269429194,0 -101.855148942241,35.9073207152387,0 -101.855148903803,35.9080113005122,0 -101.855116662266,35.9081271336456,0 -101.847188914873,35.9216367898555,0 -101.845089348537,35.9252229715577,0 -101.841332056495,35.9297363194259,0 -101.841220388089,35.9298349646423,0 -101.830564276633,35.9368100776055,0 -101.829922226153,35.9372126411372,0 -101.829289075095,35.9376270037658,0 -101.828602928835,35.9382009438881,0 -101.828462706893,35.9383596828407,0 -101.821804539299,35.9488974743709,0 -101.818840720462,35.954245245821,0 -101.818787684937,35.9544502858519,0 -101.818851822605,35.9603620281003,0 -101.819057566524,35.9613091111399,0 -101.819058262352,35.9633327418611,0 -101.817786003863,35.964265881508,0 -101.816272348928,35.9642659069448,0 -101.816272351127,35.9644032618005,0 -101.817850957838,35.9644032348507,0 -101.819227238643,35.9633937987781,0 -101.819226513268,35.961297055622,0 -101.819020640955,35.9603493908627,0 -101.818956776517,35.9544639733087,0 -101.819002268837,35.9542880945806,0 -101.821956770248,35.9489571159473,0 -101.828607206941,35.9384315299823,0 -101.828732781559,35.9382893723356,0 -101.829402994296,35.9377287594104,0 -101.830026747124,35.9373205470302,0 -101.830668797943,35.9369179829606,0 -101.841336099504,35.9299355387164,0 -101.841464834944,35.9298218167365,0 -101.845236335468,35.9252913919453,0 -101.847341306618,35.9216959672486,0 -101.855277164142,35.908172444548,0 -101.855317741932,35.908026660959,0 -101.855317779185,35.9073311132748,0 -101.855350192359,35.9071578880658,0 -101.855414290529,35.906990551542,0 -101.855414290529,35.906990551542,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.85493463992,35.7286262758047,0 -101.851768805564,35.7340331741873,0 -101.851645147728,35.7355683082747,0 -101.851368371744,35.7363675366499,0 -101.851198342681,35.7374492161345,0 -101.851113245318,35.737463095986,0 -101.851049384206,35.7374477586331,0 -101.851027592205,35.7374548828213,0 -101.851202843933,35.7363399930177,0 -101.851478193621,35.7355448881214,0 -101.851602815805,35.7339978215334,0 -101.854788933004,35.7285563007094,0 -101.859066389798,35.723661505286,0 -101.859155640369,35.7234984368465,0 -101.859203529305,35.7233241865614,0 -101.859243168989,35.7217961134074,0 -101.859189707346,35.721618462491,0 -101.858513729531,35.7206152552303,0 -101.858470840651,35.7204727305766,0 -101.858642810238,35.7138451218007,0 -101.85867763982,35.7136942930516,0 -101.86487615199,35.6998917707564,0 -101.869700626694,35.6936147032948,0 -101.86982940413,35.6935077542546,0 -101.875411476561,35.6905378805583,0 -101.875426843766,35.6898976349346,0 -101.875595250268,35.6898979729969,0 -101.875578084039,35.6906132331188,0 -101.869936713422,35.6936146613207,0 -101.869833579123,35.6937003139638,0 -101.865028210323,35.6999525371924,0 -101.85884058474,35.7137308772867,0 -101.858810910312,35.7138593828948,0 -101.858639718294,35.7204575562764,0 -101.858672036983,35.7205649542519,0 -101.859348016345,35.721568160643,0 -101.859412049258,35.7217809380365,0 -101.859371587594,35.7233408234765,0 -101.859316332274,35.7235418788206,0 -101.859213352543,35.7237300322662,0 -101.85493463992,35.7286262758047,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-PERMANENT</name>
+			<styleUrl>#PERM_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.905018156465,35.5547145856021,0 -101.902772151037,35.5521409337932,0 -101.902164008726,35.5512154957513,0 -101.902234864561,35.5505227790479,0 -101.900007876681,35.547743754738,0 -101.897977255815,35.5450966451547,0 -101.896772081282,35.5441106892044,0 -101.896689671617,35.5411501684056,0 -101.896521642712,35.5411532927273,0 -101.896605577843,35.5441688382012,0 -101.897844930206,35.545182757254,0 -101.899866349042,35.5478178765596,0 -101.902062535477,35.550558471813,0 -101.901992349834,35.5512446217702,0 -101.902629103174,35.5522136016058,0 -101.904871724442,35.5547833812466,0 -101.904947833788,35.5549211646571,0 -101.906726224575,35.5613387748096,0 -101.906720466176,35.5614858380712,0 -101.906559272417,35.5619272225206,0 -101.906542806573,35.5621063894884,0 -101.907648072112,35.5685103238338,0 -101.908445496832,35.5729913774881,0 -101.909132055494,35.5761163709949,0 -101.902311692461,35.5818959682656,0 -101.902187329158,35.5820384758572,0 -101.899852610715,35.5857787750141,0 -101.899735921174,35.5858943332346,0 -101.899250972833,35.5862036272453,0 -101.899103560462,35.5863372762312,0 -101.898818481883,35.586793943119,0 -101.898531490065,35.587895080909,0 -101.897430931958,35.5896579707725,0 -101.893616449063,35.5934949227806,0 -101.890443606775,35.594238374903,0 -101.885790101929,35.595508615325,0 -101.885601962101,35.5956042789624,0 -101.883535370684,35.5973116872891,0 -101.883152588383,35.5975073968697,0 -101.882020608398,35.5986177756444,0 -101.881921389721,35.5987792322766,0 -101.881131610616,35.6014613441386,0 -101.880491648765,35.6028627965597,0 -101.879222354122,35.6048091136388,0 -101.879170398992,35.6049865391732,0 -101.879299551657,35.6102798276719,0 -101.879164467495,35.6115047948806,0 -101.879416046489,35.6118312359272,0 -101.879360109279,35.6127615248999,0 -101.879397380988,35.6142888712358,0 -101.879352411198,35.6183966072721,0 -101.879324681757,35.6185503465959,0 -101.878254647243,35.6215490134128,0 -101.876052930151,35.6248945540198,0 -101.875667137766,35.6267688057107,0 -101.874716267746,35.6274004803763,0 -101.873638420251,35.6284224213276,0 -101.873540849752,35.6285869533584,0 -101.873498380057,35.6287663931226,0 -101.873690119087,35.6310676201941,0 -101.873563129573,35.6315275135902,0 -101.873753538383,35.6318287411799,0 -101.875664219126,35.6547527965326,0 -101.875649489293,35.6561539752986,0 -101.875556047549,35.6565657840851,0 -101.875552455095,35.6569074702204,0 -101.875637225574,35.657320526911,0 -101.875604410248,35.6604418246099,0 -101.87547506287,35.6628977001505,0 -101.875471520564,35.6632345575378,0 -101.87557000188,35.6637143859554,0 -101.875421178569,35.6778658040163,0 -101.875393397559,35.6780194984314,0 -101.874423566721,35.680727648463,0 -101.875326865531,35.68346389071,0 -101.875351106119,35.6836181407031,0 -101.875302059479,35.6885790777082,0 -101.875278227829,35.6890728167397,0 -101.875244869394,35.6904625277672,0 -101.869722095122,35.6934008470908,0 -101.869567674548,35.6935290924782,0 -101.864724093886,35.6998310041287,0 -101.858514695048,35.7136577085972,0 -101.858474710224,35.7138308604735,0 -101.858301962945,35.7204879046415,0 -101.858355421882,35.7206655560013,0 -101.859031398149,35.7216687641317,0 -101.859074288656,35.7218112885429,0 -101.859035471086,35.7233075494132,0 -101.858994948636,35.7234549946589,0 -101.858919427303,35.7235929781265,0 -101.854643226705,35.7284863250202,0 -101.851436826191,35.733962468652,0 -101.851311239612,35.7355214677381,0 -101.851037316236,35.7363124491594,0 -101.850493595767,35.7397712601893,0 -101.850892545718,35.7434961200246,0 -101.851277850605,35.74877682703,0 -101.851981822614,35.7536157048855,0 -101.851978746189,35.7537712375685,0 -101.85089703283,35.7595972619083,0 -101.84988109915,35.7624066746583,0 -101.849851979428,35.7625802691641,0 -101.850120754686,35.7773044397199,0 -101.849850607584,35.7829154436533,0 -101.848529050547,35.7900922588374,0 -101.848152272002,35.7952982290618,0 -101.848491128264,35.8025711682325,0 -101.848545552454,35.8027450353559,0 -101.848643615585,35.8029057020332,0 -101.857220237006,35.811666427207,0 -101.857301566818,35.8118009640456,0 -101.857345663087,35.8119465614984,0 -101.857899514635,35.8291719670577,0 -101.860443874681,35.8430894127856,0 -101.860434780674,35.8432405063055,0 -101.859654207252,35.8457745719513,0 -101.859070719106,35.8482317797491,0 -101.859062130471,35.8484068668799,0 -101.859228686652,35.8496218445251,0 -101.859349058877,35.8501065316427,0 -101.859393146552,35.8504281262902,0 -101.859406992763,35.8509224930168,0 -101.860535008306,35.8591497761913,0 -101.860529216586,35.8593047967852,0 -101.859612812359,35.8635996203419,0 -101.859610173587,35.8721754119475,0 -101.859576639201,35.8723254007295,0 -101.859510697794,35.8724680930127,0 -101.855270035808,35.8782319773722,0 -101.855290681509,35.8814327785095,0 -101.855211546725,35.8820889454303,0 -101.855213724833,35.8824256867495,0 -101.855301314378,35.8830811423063,0 -101.855357258366,35.8917527493753,0 -101.855173826799,35.8926260206365,0 -101.855183004077,35.8940488523533,0 -101.855377697883,35.8949205079028,0 -101.855414987321,35.9006990515527,0 -101.855442489396,35.9068379568006,0 -101.855414290529,35.906990551542,0 -101.855350192359,35.9071578880658,0 -101.855317779185,35.9073311132748,0 -101.855317741932,35.908026660959,0 -101.855277164142,35.908172444548,0 -101.847341306618,35.9216959672486,0 -101.845236335468,35.9252913919453,0 -101.841464834944,35.9298218167365,0 -101.841336099504,35.9299355387164,0 -101.830668797943,35.9369179829606,0 -101.830026747124,35.9373205470302,0 -101.829402994296,35.9377287594104,0 -101.828732781559,35.9382893723356,0 -101.828607206941,35.9384315299823,0 -101.821956770248,35.9489571159473,0 -101.819002268837,35.9542880945806,0 -101.818956776517,35.9544639733087,0 -101.819020640955,35.9603493908627,0 -101.819226513268,35.961297055622,0 -101.819227238643,35.9633937987781,0 -101.817850957838,35.9644032348507,0 -101.816272351127,35.9644032618005,0 -101.816272353327,35.9645406166499,0 -101.817915912035,35.9645405881524,0 -101.819396215192,35.963454855459,0 -101.819395459962,35.9612849998693,0 -101.819189459253,35.9603367533906,0 -101.819125868155,35.9544776605303,0 -101.819163817384,35.954330943125,0 -101.822109001422,35.9490167573319,0 -101.828751707248,35.9385033769505,0 -101.828862634569,35.9383778006418,0 -101.829516913785,35.9378305149448,0 -101.830131268376,35.9374284528296,0 -101.830773319533,35.9370258882221,0 -101.841451811209,35.9300361126771,0 -101.841597613675,35.9299073138998,0 -101.845383322649,35.9253598121531,0 -101.847493698588,35.9217551444496,0 -101.855437666199,35.9082177552378,0 -101.855486580124,35.9080420211712,0 -101.855486616173,35.9073415110763,0 -101.855515184339,35.9071888329878,0 -101.855579328764,35.9070213747936,0 -101.855611371912,35.9068479752405,0 -101.855583809307,35.9006984405152,0 -101.855546429463,35.8949077695232,0 -101.855351733859,35.8940361142406,0 -101.855342708668,35.8926373167406,0 -101.855526138427,35.8917640452275,0 -101.855470052966,35.8830733358432,0 -101.855382461915,35.8824178793665,0 -101.855380374792,35.8820953091615,0 -101.855459508079,35.8814391431732,0 -101.855439057507,35.8782696262658,0 -101.859663304021,35.8725280361033,0 -101.859739953703,35.8723621712113,0 -101.859778933556,35.8721878249508,0 -101.859781554515,35.8636114780479,0 -101.860697511706,35.8593187068784,0 -101.860704030445,35.8591442171816,0 -101.859575498073,35.8509132911439,0 -101.859561650829,35.8504189244351,0 -101.859515907903,35.8500852607407,0 -101.859395534705,35.8496005737855,0 -101.859231219495,35.8484019616227,0 -101.859238788812,35.8482476476157,0 -101.859818971532,35.8458043384011,0 -101.860602466593,35.8432607705863,0 -101.860613190239,35.843082595012,0 -101.858067861618,35.8291600128475,0 -101.857513764915,35.8119280997977,0 -101.85746092259,35.8117536257104,0 -101.857363462205,35.8115924059652,0 -101.84878662305,35.8028314761509,0 -101.848704514713,35.8026969502276,0 -101.848658945126,35.8025513715464,0 -101.848321063235,35.7952996703607,0 -101.848696902987,35.7901065215417,0 -101.850018691896,35.7829283652905,0 -101.850289368891,35.7773061114811,0 -101.850020684328,35.7625885984005,0 -101.850046355575,35.7624355597696,0 -101.851061940518,35.7596270951486,0 -101.852147057721,35.7537826729294,0 -101.852150498691,35.7536086918123,0 -101.851445765244,35.7487646499895,0 -101.851060604229,35.7434860653727,0 -101.850663022066,35.7397740490487,0 -101.851202843933,35.7363399930177,0 -101.851478193621,35.7355448881214,0 -101.851602815805,35.7339978215334,0 -101.854788933368,35.7285563002927,0 -101.859066389798,35.723661505286,0 -101.859155640369,35.7234984368465,0 -101.859203529305,35.7233241865614,0 -101.859243168989,35.7217961134074,0 -101.859189707346,35.721618462491,0 -101.858513729531,35.7206152552303,0 -101.858470840651,35.7204727305766,0 -101.858642810238,35.7138451218007,0 -101.85867763982,35.7136942930516,0 -101.86487615199,35.6998917707564,0 -101.869700626694,35.6936147032948,0 -101.86982940413,35.6935077542546,0 -101.875411476561,35.6905378805583,0 -101.875446543583,35.6890768641747,0 -101.875470412348,35.6885823348103,0 -101.875519562058,35.6836099221989,0 -101.875492413548,35.6834371705146,0 -101.874598428645,35.6807291597739,0 -101.875558257861,35.6780489216302,0 -101.875589429881,35.6778764649773,0 -101.875738449718,35.6637035469023,0 -101.875639967413,35.6632237186204,0 -101.875643357844,35.6629012399537,0 -101.875772700105,35.6604453642355,0 -101.875805660055,35.6573096877478,0 -101.875720888725,35.656896631174,0 -101.875724227813,35.6565789802499,0 -101.875817668714,35.6561671713349,0 -101.875832577199,35.6547487169176,0 -101.873919046158,35.6317910304712,0 -101.873740738884,35.631508948665,0 -101.873859656219,35.6310782851698,0 -101.873667732852,35.6287749042892,0 -101.873701874826,35.6286306489386,0 -101.873780272621,35.628498447206,0 -101.874834030005,35.6274993452927,0 -101.875822545413,35.6268426611946,0 -101.87621425626,35.6249396392886,0 -101.878411221664,35.6216013081162,0 -101.879489434765,35.6185797048832,0 -101.879520534309,35.6184072788539,0 -101.87956562061,35.6142881164971,0 -101.879528413002,35.6127635272026,0 -101.879586664239,35.6117947196388,0 -101.879337104784,35.6114709001847,0 -101.879467918626,35.6102846338687,0 -101.879338999882,35.6050013852386,0 -101.879380937742,35.6048581674533,0 -101.880645349466,35.6029193316775,0 -101.881292764458,35.6015015515932,0 -101.882080393758,35.5988267229561,0 -101.882162246705,35.598693524838,0 -101.883264629697,35.5976121766756,0 -101.883641211351,35.5974196371586,0 -101.885707652834,35.5957123513773,0 -101.885862182282,35.5956337776003,0 -101.890493473296,35.5943696002091,0 -101.893713665508,35.5936150522538,0 -101.897572681324,35.5897333001999,0 -101.898691363147,35.587941374124,0 -101.89897835295,35.5868402359661,0 -101.899243315832,35.5864157911221,0 -101.899366060446,35.5863045065875,0 -101.899853928894,35.585993349805,0 -101.899994056771,35.5858545802675,0 -101.902331481198,35.58210993614,0 -101.902441390669,35.5819839909148,0 -101.909312732921,35.5761611802717,0 -101.908611484084,35.5729693544677,0 -101.907814503799,35.5684908499825,0 -101.90671180938,35.5621018901912,0 -101.906725557188,35.5619522951428,0 -101.906887797496,35.5615080424078,0 -101.906894941345,35.5613255865642,0 -101.905108034272,35.5548772939837,0 -101.905018156465,35.5547145856021,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-TEMPORARY</name>
+			<styleUrl>#TWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.909034258064,35.5763971853437,0 -101.909155315058,35.5764925229524,0 -101.909493410548,35.5762059892783,0 -101.908777471246,35.5729473312196,0 -101.907980935405,35.5684713759022,0 -101.906880812169,35.5620973906579,0 -101.906891842063,35.5619773675363,0 -101.907055128907,35.5615302465128,0 -101.90706365806,35.5613123980835,0 -101.905268234582,35.5548334230978,0 -101.905164588237,35.5546457897794,0 -101.904870894398,35.5543092645287,0 -101.90473403442,35.5543890273849,0 -101.905018156465,35.5547145856021,0 -101.905108034272,35.5548772939837,0 -101.906894941345,35.5613255865642,0 -101.906887797496,35.5615080424078,0 -101.906725557188,35.5619522951428,0 -101.90671180938,35.5621018901912,0 -101.907814503799,35.5684908499825,0 -101.908611484084,35.5729693544677,0 -101.909312732921,35.5761611802717,0 -101.909034258064,35.5763971853437,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.848271845932,35.7913126069247,0 -101.848187687017,35.7913085636482,0 -101.848227384103,35.7907600677944,0 -101.848311542447,35.790764111044,0 -101.848271845932,35.7913126069247,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>WORKSPACE-ADDITIONAL</name>
+			<styleUrl>#ATWS_rollover</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-101.848860895195,35.7913409051818,0 -101.848608449987,35.791328777925,0 -101.848648144218,35.7907802819366,0 -101.848900587712,35.7907924091127,0 -101.848860895195,35.7913409051818,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description>Proposed Route</description>
+			<styleUrl>#route</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-101.896589136795,35.5404164100108,0 -101.896591842401,35.540522495959,0 -101.89659247025,35.5405470009902,0 -101.896595495083,35.5406277216011,0 -101.896601046505,35.5408807803002,0 -101.896604770666,35.5410087819057,0 -101.896619032127,35.5416009192015,0 -101.896619229855,35.5417062632982,0 -101.896643170725,35.5425582180011,0 -101.896646176044,35.5426794495033,0 -101.896669140848,35.543517345888,0 -101.896671748095,35.5436416997517,0 -101.896674986914,35.5437659691182,0 -101.896679268992,35.5439260807756,0 -101.896683744079,35.5441480169849,0 -101.897126069698,35.5444989072128,0 -101.897285892354,35.544625684555,0 -101.897346918345,35.544674047674,0 -101.897699842471,35.5449569967939,0 -101.89777805393,35.5450204415268,0 -101.897923256639,35.5451406228108,0 -101.898031079222,35.5452841976456,0 -101.898174208602,35.545477362656,0 -101.898239851715,35.5455646824017,0 -101.898332288836,35.5456877485989,0 -101.899261284776,35.5469028271206,0 -101.899390924077,35.547069756019,0 -101.899557936358,35.5472849737698,0 -101.899671917758,35.5474355601712,0 -101.899912548607,35.5477448231503,0 -101.900087084048,35.5479661750123,0 -101.900184255322,35.5480869190028,0 -101.900301565457,35.5482358013664,0 -101.900407949247,35.5483695567263,0 -101.902155049933,35.5505489470161,0 -101.902075133422,35.5512262895426,0 -101.902700353134,35.5521803017909,0 -101.904138938347,35.5538296442314,0 -101.904192422608,35.5538904281638,0 -101.904334007626,35.5540592183971,0 -101.904710576932,35.5544935222373,0 -101.904776289598,35.5545629935663,0 -101.904938975797,35.5547449220913,0 -101.90502685146,35.5549002338071,0 -101.906162050361,35.5589849923648,0 -101.906189644762,35.5590854333979,0 -101.906210731174,35.5591620431546,0 -101.906363625608,35.559709599193,0 -101.906800275966,35.5613057903434,0 -101.9068064204,35.5613621714883,0 -101.906803341631,35.5614658859885,0 -101.906790662829,35.5615334272521,0 -101.906649242577,35.5619413671106,0 -101.906639708169,35.5619923693009,0 -101.9066321966,35.5621005632384,0 -101.906636151751,35.5621568775598,0 -101.907516623115,35.5672737526143,0 -101.907530369832,35.5673578432308,0 -101.907544402309,35.5674419163974,0 -101.908393863769,35.5722257381593,0 -101.908458895541,35.5725953096896,0 -101.908492601488,35.5727823058302,0 -101.908747710884,35.5739826715388,0 -101.908789061235,35.5741655618149,0 -101.908803592574,35.5742320962957,0 -101.90884702877,35.574439689734,0 -101.908954423686,35.5749315671648,0 -101.909129580698,35.5757231916535,0 -101.909224127921,35.5761415921874,0 -101.909099262205,35.5762466900007,0 -101.908491003496,35.5767604997429,0 -101.907829081722,35.577320462393,0 -101.907675097323,35.5774496782363,0 -101.906999586072,35.578020644178,0 -101.906888345261,35.5781149385002,0 -101.906841363523,35.5781542443168,0 -101.906677999588,35.5782927574073,0 -101.905151507681,35.5795867564978,0 -101.904875448778,35.5798200508246,0 -101.903763673201,35.580763170462,0 -101.903325484438,35.581135474135,0 -101.902884986495,35.5815081739973,0 -101.902721963939,35.5816483948487,0 -101.902292083425,35.5820032841771,0 -101.902225142063,35.5820780988141,0 -101.902183690063,35.5821407428599,0 -101.900752306663,35.5844390080855,0 -101.89995551505,35.585786265219,0 -101.899916006264,35.5858325082337,0 -101.899837528448,35.5859104037153,0 -101.899781650959,35.5859540907247,0 -101.899381930205,35.5862020724943,0 -101.899327945638,35.5862389174988,0 -101.899228466246,35.5863236514738,0 -101.899189358028,35.5863632936547,0 -101.898947306381,35.5867341617599,0 -101.898910357297,35.5867997157485,0 -101.898638832336,35.5878313707036,0 -101.898616534215,35.5879011457944,0 -101.897842911869,35.5891481058732,0 -101.897521517476,35.5896685392603,0 -101.8955646576,35.5916435577268,0 -101.894926681638,35.5922846179428,0 -101.894671074885,35.5925399791666,0 -101.894111175232,35.5931038888007,0 -101.893666802372,35.5935520142819,0 -101.892722413077,35.5937760320072,0 -101.890961797961,35.5941848376689,0 -101.890286903163,35.5943526626067,0 -101.890178755414,35.5943829194626,0 -101.890065820469,35.5944137521181,0 -101.889928358705,35.5944511255656,0 -101.887837597307,35.5950223453704,0 -101.887747600597,35.5950460607699,0 -101.887684249098,35.5950637316557,0 -101.887589444835,35.5950901025853,0 -101.88721727857,35.595192996932,0 -101.887031771829,35.5952440654376,0 -101.885873770073,35.5955589109567,0 -101.885805009273,35.5955837056181,0 -101.885706523237,35.5956324808447,0 -101.885644980272,35.5956698190142,0 -101.883919895337,35.5970905313479,0 -101.883796737908,35.5971941608476,0 -101.883743872884,35.5972367455184,0 -101.883637385157,35.597323900811,0 -101.883600209023,35.597353789424,0 -101.883545669755,35.5973895327985,0 -101.883262605806,35.597534318802,0 -101.883193444749,35.5975752377007,0 -101.883112887463,35.5976509966519,0 -101.883081032815,35.5976823573487,0 -101.883018333048,35.5977444655998,0 -101.882937437782,35.5978256323765,0 -101.882867418538,35.5978942200842,0 -101.882824552347,35.5979366133684,0 -101.882688987647,35.5980689005815,0 -101.882098469931,35.59864926331,0 -101.882002612764,35.5988048898886,0 -101.881208221887,35.6014984649523,0 -101.880557780487,35.6029077897997,0 -101.879318261467,35.6048096338882,0 -101.879290120026,35.604867521696,0 -101.879260963442,35.6049628349024,0 -101.879249156185,35.6050296197795,0 -101.879250773142,35.6051188912127,0 -101.879255126275,35.6051783228921,0 -101.879257803053,35.6052396857439,0 -101.879258916129,35.6053176532346,0 -101.879341245003,35.6084477448521,0 -101.87934576657,35.6085429716982,0 -101.879347841432,35.6086079382164,0 -101.879349300116,35.6086563261677,0 -101.87935019553,35.6088125261996,0 -101.879383207773,35.6102870563955,0 -101.879271978909,35.6112789236242,0 -101.879263626001,35.6113571734234,0 -101.879253417361,35.6114421738712,0 -101.879250201634,35.6114759713216,0 -101.879498550635,35.6118085858699,0 -101.879444539734,35.6127695330346,0 -101.879461555,35.6135564576961,0 -101.879470026277,35.6137553391877,0 -101.879476368984,35.6139351330059,0 -101.879451368755,35.6170907621291,0 -101.87944755145,35.6173781395087,0 -101.87944576993,35.6174959062229,0 -101.879444549467,35.6175991787244,0 -101.879443408607,35.6177394307635,0 -101.8794432879,35.6178168304448,0 -101.879442843545,35.6178991049983,0 -101.879436091739,35.6183109480044,0 -101.879432963952,35.6183849723226,0 -101.87942598959,35.6184430931004,0 -101.879406988286,35.6185459927061,0 -101.879394093677,35.6185980218502,0 -101.878328575494,35.6215804965859,0 -101.878140078416,35.6218692994545,0 -101.87801746567,35.6220550618595,0 -101.877830236436,35.6223405936134,0 -101.877391481334,35.6230037894467,0 -101.877142628795,35.6233820164045,0 -101.877091690516,35.6234597061207,0 -101.877004161175,35.6235926551608,0 -101.876844011618,35.6238369397048,0 -101.876145994276,35.6248949719776,0 -101.876122657723,35.6249620118357,0 -101.875743586401,35.6268065746824,0 -101.874783828705,35.6274438971594,0 -101.873746305591,35.6284258459703,0 -101.873699949448,35.628484329581,0 -101.873648011694,35.6285699634876,0 -101.873621009611,35.6286323930202,0 -101.873597038766,35.6287281168924,0 -101.873591323054,35.6287924478631,0 -101.873620906297,35.6292221973603,0 -101.873626272087,35.6293119952802,0 -101.873631171993,35.6293760242474,0 -101.873643996502,35.6295243072702,0 -101.873651448138,35.6296059802508,0 -101.873659936135,35.6297007110568,0 -101.873667401292,35.6297896590428,0 -101.873766725216,35.631080531073,0 -101.873726267251,35.6312343221186,0 -101.873706923119,35.6313039178757,0 -101.873653524979,35.6315014253133,0 -101.873839231594,35.6318159504558,0 -101.873846291128,35.6319266857075,0 -101.873850060293,35.6319739289134,0 -101.873870823118,35.6322527343068,0 -101.873890211815,35.6324361056372,0 -101.87389195934,35.6324631893515,0 -101.873898024309,35.6325817610317,0 -101.873900284209,35.6326141126265,0 -101.873915698763,35.6327757150271,0 -101.873928241049,35.6329064348166,0 -101.873934438609,35.6329824217788,0 -101.873940297611,35.6330666848747,0 -101.873951973126,35.633239106968,0 -101.873959179793,35.6333302315834,0 -101.873973192676,35.6334754337115,0 -101.873987017085,35.6336257053194,0 -101.874002070119,35.6337753000197,0 -101.874016666285,35.6339439409157,0 -101.874025002398,35.63404637296,0 -101.874031643107,35.6341199106195,0 -101.874037966637,35.6341932651831,0 -101.874098892833,35.6349432746292,0 -101.874101956062,35.6349884484568,0 -101.874117141071,35.6351816599752,0 -101.874135547961,35.6354281111006,0 -101.874152046617,35.6356425859453,0 -101.874156966453,35.6357020293741,0 -101.874183949449,35.6360147040948,0 -101.874205248675,35.636251942531,0 -101.874225113618,35.6364730555636,0 -101.874232772377,35.6365693739788,0 -101.874237992894,35.6366290417472,0 -101.874243192076,35.6366935422071,0 -101.874262118773,35.6369307302336,0 -101.874273665981,35.6370636041318,0 -101.874294746938,35.6372928483204,0 -101.874450628812,35.6392230206677,0 -101.874459185114,35.63931391842,0 -101.874466693158,35.6393877912128,0 -101.874722290386,35.6424530753065,0 -101.874784705974,35.6431905998496,0 -101.874790507527,35.6432577934931,0 -101.874797594327,35.6433401046679,0 -101.874803857921,35.6434147422439,0 -101.874810730738,35.6434980788451,0 -101.874936053817,35.645008514634,0 -101.874949640851,35.64516194045,0 -101.874956282582,35.6452295243277,0 -101.874962553214,35.6453019914223,0 -101.874977272933,35.6454688153696,0 -101.874994414992,35.6456766856968,0 -101.875008642742,35.6458556737372,0 -101.875030121372,35.6461210192388,0 -101.875040499948,35.6462423272481,0 -101.875053327226,35.6463958652563,0 -101.875066839302,35.6465808612168,0 -101.875080457778,35.6467583208158,0 -101.87509925768,35.6469881923266,0 -101.875135743135,35.647394236016,0 -101.875142481544,35.6474716825888,0 -101.875148298838,35.6475406838665,0 -101.875172876369,35.6478338312125,0 -101.875181492511,35.6479292644486,0 -101.875193435829,35.6480713788323,0 -101.875204145729,35.6482044774343,0 -101.87528073047,35.6491626855506,0 -101.875556181358,35.6525575664052,0 -101.875658874496,35.6536087702099,0 -101.875747071329,35.6547437581661,0 -101.875734699503,35.6561604093044,0 -101.875653677709,35.6565329497049,0 -101.875646464582,35.6565837377693,0 -101.875635203672,35.6568585411311,0 -101.875640645077,35.6569138121021,0 -101.875718094734,35.6573042933846,0 -101.875677703147,35.6608332929445,0 -101.875599914444,35.6621365652788,0 -101.875595333025,35.6622270471393,0 -101.875585231909,35.6623981040533,0 -101.875581486294,35.6624786626177,0 -101.87555663361,35.6632313390098,0 -101.875593048703,35.6634148153241,0 -101.875652879847,35.6637092121209,0 -101.87563453638,35.6651512615045,0 -101.875624582514,35.6661624363359,0 -101.875620411276,35.6665240090799,0 -101.875595294139,35.6691465684392,0 -101.875591974797,35.6694648317969,0 -101.875556688132,35.6730146672969,0 -101.875554517744,35.673103182583,0 -101.87555360942,35.6731807320376,0 -101.875548940337,35.6737385514809,0 -101.875545324931,35.6739296516838,0 -101.875503281075,35.6778833886347,0 -101.875471861194,35.6780474227978,0 -101.874764741225,35.6800087400012,0 -101.874734546886,35.6800891656946,0 -101.874629289044,35.6803877427147,0 -101.874600057373,35.6804739485464,0 -101.874507623798,35.6807393986034,0 -101.875414940763,35.6834668369649,0 -101.875437966238,35.6836185864273,0 -101.875381145175,35.6883694510499,0 -101.875344158041,35.690007278341,0 -101.875322225123,35.6905046857037,0 -101.874890798383,35.6907338479754,0 -101.871470744531,35.6925500075813,0 -101.870289906654,35.6931736148578,0 -101.870214311748,35.6932137261008,0 -101.870158360405,35.693243389632,0 -101.870081552734,35.6932834522959,0 -101.869765226221,35.6934520903459,0 -101.869631761635,35.6935649705591,0 -101.86853546082,35.6950028317734,0 -101.866780251213,35.6972880841521,0 -101.866723262867,35.6973638988494,0 -101.866552365791,35.6975856885586,0 -101.865236462086,35.6992925466909,0 -101.86491435388,35.6997152730917,0 -101.864800247215,35.6998695081953,0 -101.864709238841,35.7000685045858,0 -101.864641416725,35.7002170011864,0 -101.864400399364,35.7007485730087,0 -101.864366309939,35.7008222269534,0 -101.864264520088,35.7010477780673,0 -101.864232947862,35.7011172786858,0 -101.86359245954,35.702545638625,0 -101.863524337359,35.7026979761575,0 -101.858604296784,35.7136576118548,0 -101.858592299731,35.7136921728916,0 -101.858562737309,35.7138188924713,0 -101.85855679945,35.7138691365035,0 -101.858429130934,35.7187289699239,0 -101.858430087541,35.7188054715648,0 -101.858428246971,35.7188612859541,0 -101.858426048006,35.7189433327606,0 -101.858387982755,35.7204870593294,0 -101.858440655621,35.7206422614292,0 -101.859092116477,35.7216262343137,0 -101.859122992953,35.7216851468889,0 -101.859150423071,35.7217796226364,0 -101.859158346464,35.7218392543075,0 -101.859152840141,35.7220673360108,0 -101.859150411361,35.7221528560479,0 -101.859146717356,35.7222969525266,0 -101.85914437737,35.7223714006277,0 -101.859119650579,35.7232915101221,0 -101.859082048348,35.7234526002074,0 -101.859036105617,35.7235459388056,0 -101.858998783438,35.7236141276973,0 -101.856177418215,35.7268416038583,0 -101.856114072894,35.726910074285,0 -101.85606007675,35.7269731379915,0 -101.855480507791,35.7276387448921,0 -101.85470360618,35.7285306423539,0 -101.853159959561,35.7311694248923,0 -101.853096758025,35.7312813116394,0 -101.853036110144,35.731391619456,0 -101.851515643862,35.7339793357508,0 -101.851486366381,35.7343827185044,0 -101.851479463103,35.7344617426984,0 -101.851472219972,35.7345462872063,0 -101.851466947069,35.7346120701667,0 -101.851449919419,35.7348235079627,0 -101.851393718912,35.7355176503522,0 -101.85137896188,35.7355744688563,0 -101.851125883557,35.7362900992784,0 -101.850592565769,35.739607422043,0 -101.850574499729,35.7397273169419,0 -101.850735180684,35.7412430916937,0 -101.85074742091,35.7413602669974,0 -101.850755165078,35.7414354546164,0 -101.850980201379,35.743624624306,0 -101.851022901351,35.7441894298915,0 -101.851361341566,35.7487682327102,0 -101.851814546336,35.7518833662572,0 -101.851856567008,35.7521721356259,0 -101.851904989195,35.7525012797831,0 -101.851994346554,35.7531157292147,0 -101.852065406603,35.7536157438355,0 -101.852061607567,35.7537830015563,0 -101.851361988966,35.7575559869218,0 -101.850975660048,35.7596169482696,0 -101.850076291157,35.7620981462135,0 -101.850065785796,35.7621239954908,0 -101.850063290767,35.7621331401521,0 -101.850043559904,35.7621947004998,0 -101.850034303974,35.7622195269263,0 -101.849961806089,35.762433485648,0 -101.849937453735,35.7625842800338,0 -101.849938405444,35.7627785897832,0 -101.849938915165,35.7628656908791,0 -101.849947236401,35.7632659348014,0 -101.84994939325,35.7633372425081,0 -101.849973412838,35.7645525235622,0 -101.849989459401,35.7656199603881,0 -101.849992809038,35.7657842572721,0 -101.849999197552,35.7660226752192,0 -101.850171764538,35.7755025121492,0 -101.850176846552,35.7756928971756,0 -101.850180409745,35.775878995337,0 -101.850188243993,35.7762860579594,0 -101.850191283817,35.7764587701471,0 -101.850194072759,35.7765768645485,0 -101.850198933025,35.7768046240359,0 -101.850203950356,35.7773143656921,0 -101.85019616935,35.7774927519593,0 -101.850187409475,35.777663893743,0 -101.85016073784,35.7782105099431,0 -101.850154284516,35.778327512824,0 -101.850141509425,35.7786049882446,0 -101.850130440114,35.778777727305,0 -101.850055565833,35.7804057387602,0 -101.850007642094,35.7812868352519,0 -101.850001669531,35.7814439852069,0 -101.849978419389,35.7820546791679,0 -101.849974251126,35.7821374745932,0 -101.849968921961,35.7823115980162,0 -101.849966545101,35.7823969844353,0 -101.849937441782,35.7829231672123,0 -101.849607350479,35.7847164542571,0 -101.849439647957,35.7856248616615,0 -101.849414680784,35.7857515742096,0 -101.849058462218,35.787681818638,0 -101.849003265078,35.7879896543519,0 -101.848626355332,35.7900300659811,0 -101.848613343127,35.7901063673296,0 -101.848253609059,35.7950835818939,0 -101.84823965671,35.7953155151461,0 -101.848276329373,35.79616431217,0 -101.84829854259,35.7965583752647,0 -101.848310926556,35.7967700460012,0 -101.848311709633,35.7969214944649,0 -101.84832317715,35.797091217218,0 -101.848330222129,35.7972083070016,0 -101.848336333395,35.7973979929349,0 -101.848347744514,35.7976747214107,0 -101.848419343687,35.7991358464574,0 -101.848423985421,35.7992328633905,0 -101.848435478031,35.7995384321508,0 -101.848440520342,35.7996329341852,0 -101.848459387409,35.8000053471326,0 -101.848476490945,35.8004206277428,0 -101.848487164435,35.8006248718264,0 -101.848575511041,35.8025523868267,0 -101.848627580459,35.802710514645,0 -101.848655471637,35.8027654042683,0 -101.84871927114,35.8028652566173,0 -101.848755015149,35.8029073187141,0 -101.857302204775,35.8116444283338,0 -101.857394914808,35.8117879709065,0 -101.857435280663,35.8119165220014,0 -101.857451728386,35.8124633153504,0 -101.857454448469,35.8126262821152,0 -101.857793694066,35.8232650027882,0 -101.85779988903,35.8234392142236,0 -101.857986073509,35.8291661223688,0 -101.858517887776,35.8320706059354,0 -101.858543862214,35.8322132367785,0 -101.858687924014,35.8330116530869,0 -101.85872406738,35.8332050363205,0 -101.858746068911,35.8333190197323,0 -101.858771556697,35.8334643084842,0 -101.859606682141,35.8380252824112,0 -101.859727407437,35.8386915798879,0 -101.85998366535,35.8401056155758,0 -101.86004736235,35.8404556673489,0 -101.860101434532,35.8407500394311,0 -101.860131753215,35.8409189970669,0 -101.860144721201,35.8409932956801,0 -101.860158743339,35.8410626379226,0 -101.860348466356,35.8421065466112,0 -101.860386426432,35.8423112667393,0 -101.860425383633,35.8425238766487,0 -101.86046191496,35.8427228949932,0 -101.860525490278,35.8430885453345,0 -101.860527273682,35.8431447151972,0 -101.86052415022,35.843196152432,0 -101.860519437882,35.8432529349793,0 -101.860505169924,35.8433141936454,0 -101.860433820908,35.8435476664063,0 -101.860229330254,35.8442005785397,0 -101.859943653278,35.845121158874,0 -101.859860692843,35.8453913821545,0 -101.859728153414,35.8458190634371,0 -101.859678160836,35.8460198051315,0 -101.85916568136,35.8481963540128,0 -101.859153605623,35.848272924416,0 -101.859150316799,35.8484161025456,0 -101.859312100096,35.8496094482997,0 -101.859433827637,35.8500986142184,0 -101.859474618993,35.8504027831635,0 -101.859491812211,35.8509182084944,0 -101.859867031252,35.8536386864956,0 -101.859879783334,35.8537261803578,0 -101.859894818999,35.8538315627836,0 -101.859902150983,35.8538849495898,0 -101.860621072331,35.8591602826421,0 -101.860614344773,35.8593173192318,0 -101.859699000375,35.863601953815,0 -101.859694078264,35.8667654483361,0 -101.859694353095,35.8668526079549,0 -101.859694480533,35.8669301995087,0 -101.859692916317,35.8721686634849,0 -101.859685620693,35.8722249366754,0 -101.859661237252,35.8723290863965,0 -101.859641141626,35.8723836694946,0 -101.859594052539,35.8724833260759,0 -101.85955870624,35.8725407234777,0 -101.855360263714,35.8782441694863,0 -101.855373248299,35.8814491256685,0 -101.855301828857,35.8824245119354,0 -101.85538670685,35.8830829923455,0 -101.855430930023,35.8903256883816,0 -101.85543182705,35.8904095159637,0 -101.855432181319,35.8904919935188,0 -101.855441413694,35.8917402959289,0 -101.855435013094,35.8917961950234,0 -101.855266179196,35.8926315866395,0 -101.855268090995,35.8931646379944,0 -101.855267919244,35.8932473010778,0 -101.855268134527,35.8933832005844,0 -101.855266411192,35.8934661951131,0 -101.855265437853,35.8940057023904,0 -101.855271591216,35.8940627048067,0 -101.855464487322,35.8949267320956,0 -101.855502169905,35.901409190594,0 -101.855503074131,35.9016229507971,0 -101.85552505386,35.9068364571539,0 -101.85543358801,35.9071604974529,0 -101.855403957234,35.9073164692888,0 -101.855401494716,35.9080323301001,0 -101.855358806841,35.9081901477007,0 -101.851269860123,35.9151562946663,0 -101.846864461795,35.922680783121,0 -101.846826195534,35.922746530006,0 -101.846778576799,35.9228255146113,0 -101.845303459848,35.9253335711783,0 -101.841520657879,35.9298731192344,0 -101.841385035318,35.9299939377568,0 -101.837770086789,35.9323582114991,0 -101.837712624538,35.9323955015206,0 -101.837631719361,35.9324478917359,0 -101.835451346345,35.9338783838847,0 -101.83537909294,35.9339244357644,0 -101.835333676095,35.9339533153731,0 -101.835253574076,35.9340054545125,0 -101.830380481844,35.9371860982597,0 -101.83031141576,35.93723073736,0 -101.830259458987,35.9372646078662,0 -101.830179562972,35.9373158666919,0 -101.829707899672,35.9376175269713,0 -101.829641537297,35.9376610100469,0 -101.829425931101,35.9378046543573,0 -101.829127197192,35.9380556314481,0 -101.829056367724,35.9381146448616,0 -101.828796711142,35.9383355688042,0 -101.828685707512,35.9384611163841,0 -101.825503533793,35.9434985911623,0 -101.825452112548,35.9435827965202,0 -101.825347163433,35.9437516413526,0 -101.825289420119,35.9438389540734,0 -101.823774552064,35.9462253824658,0 -101.823725917009,35.9463035111831,0 -101.822025670016,35.9489997683688,0 -101.821625646239,35.9497199723779,0 -101.821465973795,35.9500075131336,0 -101.821317730848,35.950274999656,0 -101.819691312005,35.9532090220153,0 -101.819623951986,35.9533256935342,0 -101.81956228972,35.9534350811534,0 -101.819124725404,35.954232074029,0 -101.819079432417,35.9543186420288,0 -101.819041824769,35.9544713047921,0 -101.819102780789,35.9603244176503,0 -101.819308606389,35.9612747279314,0 -101.819311431831,35.9613369618791,0 -101.8193107604,35.9630476845594,0 -101.819298062769,35.963427044125,0 -101.817884626347,35.964476963731,0 -101.816468653481,35.9644724422349,0 -101.816434571931,35.9644717727177,0 -101.816260434461,35.9644712230055,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.896589136795,35.5404164100108,0 -101.896591842401,35.540522495959,0 -101.89659247025,35.5405470009902,0 -101.896595495083,35.5406277216011,0 -101.896601046505,35.5408807803002,0 -101.896604770666,35.5410087819057,0 -101.896619032127,35.5416009192015,0 -101.896619229855,35.5417062632982,0 -101.896643170725,35.5425582180011,0 -101.896646176044,35.5426794495033,0 -101.896669140848,35.543517345888,0 -101.896671748095,35.5436416997517,0 -101.896674986914,35.5437659691182,0 -101.896679268992,35.5439260807756,0 -101.896683744079,35.5441480169849,0 -101.897126069698,35.5444989072128,0 -101.897285892354,35.544625684555,0 -101.897346918345,35.544674047674,0 -101.897699842471,35.5449569967939,0 -101.89777805393,35.5450204415268,0 -101.897923256639,35.5451406228108,0 -101.898031079222,35.5452841976456,0 -101.898174208602,35.545477362656,0 -101.898239851715,35.5455646824017,0 -101.898332288836,35.5456877485989,0 -101.899261284776,35.5469028271206,0 -101.899390924077,35.547069756019,0 -101.899557936358,35.5472849737698,0 -101.899671917758,35.5474355601712,0 -101.899912548607,35.5477448231503,0 -101.900087084048,35.5479661750123,0 -101.900184255322,35.5480869190028,0 -101.900301565457,35.5482358013664,0 -101.900407949247,35.5483695567263,0 -101.902155049933,35.5505489470161,0 -101.902075133422,35.5512262895426,0 -101.902700353134,35.5521803017909,0 -101.904138938347,35.5538296442314,0 -101.904192422608,35.5538904281638,0 -101.904334007626,35.5540592183971,0 -101.904710576932,35.5544935222373,0 -101.904776289598,35.5545629935663,0 -101.904938975797,35.5547449220913,0 -101.90502685146,35.5549002338071,0 -101.906162050361,35.5589849923648,0 -101.906189644762,35.5590854333979,0 -101.906210731174,35.5591620431546,0 -101.906363625608,35.559709599193,0 -101.906800275966,35.5613057903434,0 -101.9068064204,35.5613621714883,0 -101.906803341631,35.5614658859885,0 -101.906790662829,35.5615334272521,0 -101.906649242577,35.5619413671106,0 -101.906639708169,35.5619923693009,0 -101.9066321966,35.5621005632384,0 -101.906636151751,35.5621568775598,0 -101.907516623115,35.5672737526143,0 -101.907530369832,35.5673578432308,0 -101.907544402309,35.5674419163974,0 -101.908393863769,35.5722257381593,0 -101.908458895541,35.5725953096896,0 -101.908492601488,35.5727823058302,0 -101.908747710884,35.5739826715388,0 -101.908789061235,35.5741655618149,0 -101.908803592574,35.5742320962957,0 -101.90884702877,35.574439689734,0 -101.908954423686,35.5749315671648,0 -101.909129580698,35.5757231916535,0 -101.909224127921,35.5761415921874,0 -101.909099262205,35.5762466900007,0 -101.908491003496,35.5767604997429,0 -101.907829081722,35.577320462393,0 -101.907675097323,35.5774496782363,0 -101.906999586072,35.578020644178,0 -101.906888345261,35.5781149385002,0 -101.906841363523,35.5781542443168,0 -101.906677999588,35.5782927574073,0 -101.905151507681,35.5795867564978,0 -101.904875448778,35.5798200508246,0 -101.903763673201,35.580763170462,0 -101.903325484438,35.581135474135,0 -101.902884986495,35.5815081739973,0 -101.902721963939,35.5816483948487,0 -101.902292083425,35.5820032841771,0 -101.902225142063,35.5820780988141,0 -101.902183690063,35.5821407428599,0 -101.900752306663,35.5844390080855,0 -101.89995551505,35.585786265219,0 -101.899916006264,35.5858325082337,0 -101.899837528448,35.5859104037153,0 -101.899781650959,35.5859540907247,0 -101.899381930205,35.5862020724943,0 -101.899327945638,35.5862389174988,0 -101.899228466246,35.5863236514738,0 -101.899189358028,35.5863632936547,0 -101.898947306381,35.5867341617599,0 -101.898910357297,35.5867997157485,0 -101.898638832336,35.5878313707036,0 -101.898616534215,35.5879011457944,0 -101.897842911869,35.5891481058732,0 -101.897521517476,35.5896685392603,0 -101.8955646576,35.5916435577268,0 -101.894926681638,35.5922846179428,0 -101.894671074885,35.5925399791666,0 -101.894111175232,35.5931038888007,0 -101.893666802372,35.5935520142819,0 -101.892722413077,35.5937760320072,0 -101.890961797961,35.5941848376689,0 -101.890286903163,35.5943526626067,0 -101.890178755414,35.5943829194626,0 -101.890065820469,35.5944137521181,0 -101.889928358705,35.5944511255656,0 -101.887837597307,35.5950223453704,0 -101.887747600597,35.5950460607699,0 -101.887684249098,35.5950637316557,0 -101.887589444835,35.5950901025853,0 -101.88721727857,35.595192996932,0 -101.887031771829,35.5952440654376,0 -101.885873770073,35.5955589109567,0 -101.885805009273,35.5955837056181,0 -101.885706523237,35.5956324808447,0 -101.885644980272,35.5956698190142,0 -101.883919895337,35.5970905313479,0 -101.883796737908,35.5971941608476,0 -101.883743872884,35.5972367455184,0 -101.883637385157,35.597323900811,0 -101.883600209023,35.597353789424,0 -101.883545669755,35.5973895327985,0 -101.883262605806,35.597534318802,0 -101.883193444749,35.5975752377007,0 -101.883112887463,35.5976509966519,0 -101.883081032815,35.5976823573487,0 -101.883018333048,35.5977444655998,0 -101.882937437782,35.5978256323765,0 -101.882867418538,35.5978942200842,0 -101.882824552347,35.5979366133684,0 -101.882688987647,35.5980689005815,0 -101.882098469931,35.59864926331,0 -101.882002612764,35.5988048898886,0 -101.881208221887,35.6014984649523,0 -101.880557780487,35.6029077897997,0 -101.879318261467,35.6048096338882,0 -101.879290120026,35.604867521696,0 -101.879260963442,35.6049628349024,0 -101.879249156185,35.6050296197795,0 -101.879250773142,35.6051188912127,0 -101.879255126275,35.6051783228921,0 -101.879257803053,35.6052396857439,0 -101.879258916129,35.6053176532346,0 -101.879341245003,35.6084477448521,0 -101.87934576657,35.6085429716982,0 -101.879347841432,35.6086079382164,0 -101.879349300116,35.6086563261677,0 -101.87935019553,35.6088125261996,0 -101.879383207773,35.6102870563955,0 -101.879271978909,35.6112789236242,0 -101.879263626001,35.6113571734234,0 -101.879253417361,35.6114421738712,0 -101.879250201634,35.6114759713216,0 -101.879498550635,35.6118085858699,0 -101.879444539734,35.6127695330346,0 -101.879461555,35.6135564576961,0 -101.879470026277,35.6137553391877,0 -101.879476368984,35.6139351330059,0 -101.879451368755,35.6170907621291,0 -101.87944755145,35.6173781395087,0 -101.87944576993,35.6174959062229,0 -101.879444549467,35.6175991787244,0 -101.879443408607,35.6177394307635,0 -101.8794432879,35.6178168304448,0 -101.879442843545,35.6178991049983,0 -101.879436091739,35.6183109480044,0 -101.879432963952,35.6183849723226,0 -101.87942598959,35.6184430931004,0 -101.879406988286,35.6185459927061,0 -101.879394093677,35.6185980218502,0 -101.878328575494,35.6215804965859,0 -101.878140078416,35.6218692994545,0 -101.87801746567,35.6220550618595,0 -101.877830236436,35.6223405936134,0 -101.877391481334,35.6230037894467,0 -101.877142628795,35.6233820164045,0 -101.877091690516,35.6234597061207,0 -101.877004161175,35.6235926551608,0 -101.876933385237,35.6237006136327,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.850063290767,35.7621331401521,0 -101.850072199796,35.7621355375436,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.813278640424,35.9651698737945,0 -101.813277992278,35.9651408972446,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.813278279401,35.9651452039737,0 -101.813374405911,35.9651449544298,0 -101.813374502834,35.9651696249361,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.81477899737,35.965205578224,0 -101.813235247542,35.9652029958892,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.813235095526,35.9651761295438,0 -101.813235247542,35.9652029958892,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.81477899737,35.965205578224,0 -101.81378307367,35.9689996745762,0 -101.813235247542,35.9652029958892,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.816601512474,35.9644733573482,0 -101.816183600644,35.9678951783517,0 -101.81638570426,35.9644722459982,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.81930982542,35.9630756185316,0 -101.819298062769,35.963427044125,0 -101.817884626347,35.964476963731,0 -101.816233017845,35.9644717201037,0 -101.816081761323,35.9644713221625,0 -101.81592986498,35.9644706290073,0 -101.81581024524,35.9644704864308,0 -101.815658288658,35.9644708012826,0 -101.815506337042,35.9644706599112,0 -101.815440304272,35.9644696261956,0 -101.815335102394,35.9645562644771,0 -101.815119517283,35.9647301824649,0 -101.815011444349,35.9648163920758,0 -101.814903101657,35.9649028083195,0 -101.814794897386,35.9649892515763,0 -101.814687625323,35.9650765027192,0 -101.814577410651,35.9651672635044,0 -101.814416899526,35.9651684949245,0 -101.814264841528,35.9651682726073,0 -101.814113504892,35.9651684575563,0 -101.813961386832,35.9651684300596,0 -101.813809618949,35.9651689453969,0 -101.813658056604,35.9651693089237,0 -101.813506053444,35.9651692833083,0 -101.813374502834,35.9651696249361,0 -101.813278640424,35.9651698737945,0 -101.81322520105,35.9651700124901,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.826146145239,35.9424813765513,0 -101.825503533793,35.9434985911623,0 -101.825452112548,35.9435827965202,0 -101.825347163433,35.9437516413526,0 -101.825289420119,35.9438389540734,0 -101.823774552064,35.9462253824658,0 -101.823725917009,35.9463035111831,0 -101.822025670016,35.9489997683688,0 -101.821625646239,35.9497199723779,0 -101.821465973795,35.9500075131336,0 -101.821317730848,35.950274999656,0 -101.819691312005,35.9532090220153,0 -101.819623951986,35.9533256935342,0 -101.81956228972,35.9534350811534,0 -101.819124725404,35.954232074029,0 -101.819079432417,35.9543186420288,0 -101.819041824769,35.9544713047921,0 -101.819102780789,35.9603244176503,0 -101.819308606389,35.9612747279314,0 -101.819311431831,35.9613369618791,0 -101.819310879329,35.9627446738996,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[<B>1/27/17</B><BR>AS-BUILT LINE <BR><BR> TOTAL LENGTH SURVEYED =158614.01]]></description>
+			<styleUrl>#asbroute</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>
+					-101.875120018733,35.6472192409204,0 -101.875135743135,35.647394236016,0 -101.875142481544,35.6474716825888,0 -101.875148298838,35.6475406838665,0 -101.875172876369,35.6478338312125,0 -101.875181492511,35.6479292644486,0 -101.875193435829,35.6480713788323,0 -101.875204145729,35.6482044774343,0 -101.87528073047,35.6491626855506,0 -101.875556181358,35.6525575664052,0 -101.875658874496,35.6536087702099,0 -101.875747071329,35.6547437581661,0 -101.875734699503,35.6561604093044,0 -101.875653677709,35.6565329497049,0 -101.875646464582,35.6565837377693,0 -101.875635203672,35.6568585411311,0 -101.875640645077,35.6569138121021,0 -101.875718094734,35.6573042933846,0 -101.875677703147,35.6608332929445,0 -101.875599914444,35.6621365652788,0 -101.875595333025,35.6622270471393,0 -101.875585231909,35.6623981040533,0 -101.875581486294,35.6624786626177,0 -101.87555663361,35.6632313390098,0 -101.875593048703,35.6634148153241,0 -101.875652879847,35.6637092121209,0 -101.87563453638,35.6651512615045,0 -101.875624582514,35.6661624363359,0 -101.875620411276,35.6665240090799,0 -101.875595294139,35.6691465684392,0 -101.875591974797,35.6694648317969,0 -101.875556688132,35.6730146672969,0 -101.875554517744,35.673103182583,0 -101.87555360942,35.6731807320376,0 -101.875548940337,35.6737385514809,0 -101.875545324931,35.6739296516838,0 -101.875503281075,35.6778833886347,0 -101.875471861194,35.6780474227978,0 -101.874764741225,35.6800087400012,0 -101.874734546886,35.6800891656946,0 -101.874629289044,35.6803877427147,0 -101.874600057373,35.6804739485464,0 -101.874507623798,35.6807393986034,0 -101.875414940763,35.6834668369649,0 -101.875437966238,35.6836185864273,0 -101.875381145175,35.6883694510499,0 -101.875344158041,35.690007278341,0 -101.875322225123,35.6905046857037,0 -101.874890798383,35.6907338479754,0 -101.871470744531,35.6925500075813,0 -101.870289906654,35.6931736148578,0 -101.870214311748,35.6932137261008,0 -101.870158360405,35.693243389632,0 -101.870081552734,35.6932834522959,0 -101.869765226221,35.6934520903459,0 -101.869631761635,35.6935649705591,0 -101.86853546082,35.6950028317734,0 -101.866780251213,35.6972880841521,0 -101.866723262867,35.6973638988494,0 -101.866552365791,35.6975856885586,0 -101.865236462086,35.6992925466909,0 -101.86491435388,35.6997152730917,0 -101.864800247215,35.6998695081953,0 -101.864709238841,35.7000685045858,0 -101.864641416725,35.7002170011864,0 -101.864400399364,35.7007485730087,0 -101.864366309939,35.7008222269534,0 -101.864264520088,35.7010477780673,0 -101.864232947862,35.7011172786858,0 -101.86359245954,35.702545638625,0 -101.863524337359,35.7026979761575,0 -101.858604296784,35.7136576118548,0 -101.858592299731,35.7136921728916,0 -101.858562737309,35.7138188924713,0 -101.85855679945,35.7138691365035,0 -101.858429130934,35.7187289699239,0 -101.858430087541,35.7188054715648,0 -101.858428246971,35.7188612859541,0 -101.858426048006,35.7189433327606,0 -101.858387982755,35.7204870593294,0 -101.858440655621,35.7206422614292,0 -101.859092116477,35.7216262343137,0 -101.859122992953,35.7216851468889,0 -101.859150423071,35.7217796226364,0 -101.859158346464,35.7218392543075,0 -101.859152840141,35.7220673360108,0 -101.859150411361,35.7221528560479,0 -101.859146717356,35.7222969525266,0 -101.85914437737,35.7223714006277,0 -101.859119650579,35.7232915101221,0 -101.859082048348,35.7234526002074,0 -101.859036105617,35.7235459388056,0 -101.858998783438,35.7236141276973,0 -101.856177418215,35.7268416038583,0 -101.856114072894,35.726910074285,0 -101.85606007675,35.7269731379915,0 -101.855480507791,35.7276387448921,0 -101.85470360618,35.7285306423539,0 -101.853159959561,35.7311694248923,0 -101.853096758025,35.7312813116394,0 -101.853036110144,35.731391619456,0 -101.851515643862,35.7339793357508,0 -101.851486366381,35.7343827185044,0 -101.851479463103,35.7344617426984,0 -101.851472219972,35.7345462872063,0 -101.851466947069,35.7346120701667,0 -101.851449919419,35.7348235079627,0 -101.851393718912,35.7355176503522,0 -101.85137896188,35.7355744688563,0 -101.851125883557,35.7362900992784,0 -101.850592565769,35.739607422043,0 -101.850574499729,35.7397273169419,0 -101.850735180684,35.7412430916937,0 -101.85074742091,35.7413602669974,0 -101.850755165078,35.7414354546164,0 -101.850980201379,35.743624624306,0 -101.851022901351,35.7441894298915,0 -101.851361341566,35.7487682327102,0 -101.851814546336,35.7518833662572,0 -101.851856567008,35.7521721356259,0 -101.851904989195,35.7525012797831,0 -101.851994346554,35.7531157292147,0 -101.852065406603,35.7536157438355,0 -101.852061607567,35.7537830015563,0 -101.851361988966,35.7575559869218,0 -101.850975660048,35.7596169482696,0 -101.850076291157,35.7620981462135,0 -101.850065785796,35.7621239954908,0 -101.850063290767,35.7621331401521,0 -101.850043559904,35.7621947004998,0 -101.850034303974,35.7622195269263,0 -101.849961806089,35.762433485648,0 -101.849937453735,35.7625842800338,0 -101.849938405444,35.7627785897832,0 -101.849938915165,35.7628656908791,0 -101.849947236401,35.7632659348014,0 -101.84994939325,35.7633372425081,0 -101.849973412838,35.7645525235622,0 -101.849989459401,35.7656199603881,0 -101.849992809038,35.7657842572721,0 -101.849999197552,35.7660226752192,0 -101.850171764538,35.7755025121492,0 -101.850176846552,35.7756928971756,0 -101.850180409745,35.775878995337,0 -101.850188243993,35.7762860579594,0 -101.850191283817,35.7764587701471,0 -101.850194072759,35.7765768645485,0 -101.850198933025,35.7768046240359,0 -101.850203950356,35.7773143656921,0 -101.85019616935,35.7774927519593,0 -101.850187409475,35.777663893743,0 -101.85016073784,35.7782105099431,0 -101.850154284516,35.778327512824,0 -101.850141509425,35.7786049882446,0 -101.850130440114,35.778777727305,0 -101.850055565833,35.7804057387602,0 -101.850007642094,35.7812868352519,0 -101.850001669531,35.7814439852069,0 -101.849978419389,35.7820546791679,0 -101.849974251126,35.7821374745932,0 -101.849968921961,35.7823115980162,0 -101.849966545101,35.7823969844353,0 -101.849937441782,35.7829231672123,0 -101.849607350479,35.7847164542571,0 -101.849439647957,35.7856248616615,0 -101.849414680784,35.7857515742096,0 -101.849058462218,35.787681818638,0 -101.849003265078,35.7879896543519,0 -101.848626355332,35.7900300659811,0 -101.848613343127,35.7901063673296,0 -101.848253609059,35.7950835818939,0 -101.84823965671,35.7953155151461,0 -101.848276329373,35.79616431217,0 -101.84829854259,35.7965583752647,0 -101.848310926556,35.7967700460012,0 -101.848311709633,35.7969214944649,0 -101.84832317715,35.797091217218,0 -101.848330222129,35.7972083070016,0 -101.848336333395,35.7973979929349,0 -101.848347744514,35.7976747214107,0 -101.848419343687,35.7991358464574,0 -101.848423985421,35.7992328633905,0 -101.848435478031,35.7995384321508,0 -101.848440520342,35.7996329341852,0 -101.848459387409,35.8000053471326,0 -101.848476490945,35.8004206277428,0 -101.848487164435,35.8006248718264,0 -101.848575511041,35.8025523868267,0 -101.848627580459,35.802710514645,0 -101.848655471637,35.8027654042683,0 -101.84871927114,35.8028652566173,0 -101.848755015149,35.8029073187141,0 -101.857302204775,35.8116444283338,0 -101.857394914808,35.8117879709065,0 -101.857435280663,35.8119165220014,0 -101.857451728386,35.8124633153504,0 -101.857454448469,35.8126262821152,0 -101.857793694066,35.8232650027882,0 -101.85779988903,35.8234392142236,0 -101.857986073509,35.8291661223688,0 -101.858517887776,35.8320706059354,0 -101.858543862214,35.8322132367785,0 -101.858687924014,35.8330116530869,0 -101.85872406738,35.8332050363205,0 -101.858746068911,35.8333190197323,0 -101.858771556697,35.8334643084842,0 -101.859606682141,35.8380252824112,0 -101.859727407437,35.8386915798879,0 -101.85998366535,35.8401056155758,0 -101.86004736235,35.8404556673489,0 -101.860101434532,35.8407500394311,0 -101.860131753215,35.8409189970669,0 -101.860144721201,35.8409932956801,0 -101.860158743339,35.8410626379226,0 -101.860348466356,35.8421065466112,0 -101.860386426432,35.8423112667393,0 -101.860425383633,35.8425238766487,0 -101.86046191496,35.8427228949932,0 -101.860525490278,35.8430885453345,0 -101.860527273682,35.8431447151972,0 -101.86052415022,35.843196152432,0 -101.860519437882,35.8432529349793,0 -101.860505169924,35.8433141936454,0 -101.860433820908,35.8435476664063,0 -101.860229330254,35.8442005785397,0 -101.859943653278,35.845121158874,0 -101.859860692843,35.8453913821545,0 -101.859728153414,35.8458190634371,0 -101.859678160836,35.8460198051315,0 -101.85916568136,35.8481963540128,0 -101.859153605623,35.848272924416,0 -101.859150316799,35.8484161025456,0 -101.859312100096,35.8496094482997,0 -101.859433827637,35.8500986142184,0 -101.859474618993,35.8504027831635,0 -101.859491812211,35.8509182084944,0 -101.859867031252,35.8536386864956,0 -101.859879783334,35.8537261803578,0 -101.859894818999,35.8538315627836,0 -101.859902150983,35.8538849495898,0 -101.860621072331,35.8591602826421,0 -101.860614344773,35.8593173192318,0 -101.859699000375,35.863601953815,0 -101.859694078264,35.8667654483361,0 -101.859694353095,35.8668526079549,0 -101.859694480533,35.8669301995087,0 -101.859692916317,35.8721686634849,0 -101.859685620693,35.8722249366754,0 -101.859661237252,35.8723290863965,0 -101.859641141626,35.8723836694946,0 -101.859594052539,35.8724833260759,0 -101.85955870624,35.8725407234777,0 -101.855360263714,35.8782441694863,0 -101.855373248299,35.8814491256685,0 -101.855301828857,35.8824245119354,0 -101.85538670685,35.8830829923455,0 -101.855430930023,35.8903256883816,0 -101.85543182705,35.8904095159637,0 -101.855432181319,35.8904919935188,0 -101.855441413694,35.8917402959289,0 -101.855435013094,35.8917961950234,0 -101.855266179196,35.8926315866395,0 -101.855268090995,35.8931646379944,0 -101.855267919244,35.8932473010778,0 -101.855268134527,35.8933832005844,0 -101.855266411192,35.8934661951131,0 -101.855265437853,35.8940057023904,0 -101.855271591216,35.8940627048067,0 -101.855464487322,35.8949267320956,0 -101.855502169905,35.901409190594,0 -101.855503074131,35.9016229507971,0 -101.85552505386,35.9068364571539,0 -101.85543358801,35.9071604974529,0 -101.855403957234,35.9073164692888,0 -101.855401494716,35.9080323301001,0 -101.855358806841,35.9081901477007,0 -101.851269860123,35.9151562946663,0 -101.846864461795,35.922680783121,0 -101.846826195534,35.922746530006,0 -101.846778576799,35.9228255146113,0 -101.845303459848,35.9253335711783,0 -101.842479840597,35.928722113161,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<Region>
+			<LatLonAltBox>
+				<north>35.9663703729076</north>
+				<south>35.524873174761</south>
+				<east>-101.792621238319</east>
+				<west>-101.92689930153</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>512</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Placemark>
+			<name>PIONEER FAIN TO SUNRAY AS-BUILT-1/27/17</name>
+			<styleUrl>#route</styleUrl>
+			<Point>
+				<coordinates>-101.860956500667,35.971680972013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOTAL AS-BUILT LENGTH =158,614.0</name>
+			<styleUrl>#route</styleUrl>
+			<Point>
+				<coordinates>-101.92689930153,35.524873174761,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
