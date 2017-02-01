@@ -112,8 +112,8 @@
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>780000ff</color>
-			<gx:physicalWidth>3</gx:physicalWidth>
+			<color>ff0000ff</color>
+			<width>2</width>
 		</LineStyle>
 	</Style>
 	<Style id="Submitted_hlt">
@@ -149,15 +149,13 @@
 		</PolyStyle>
 	</Style>
 	<Style id="asbroute">
-		<IconStyle>
+			<IconStyle>
 			<Icon>
 			</Icon>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
-			<gx:physicalWidth>10</gx:physicalWidth>
-			<gx:outerColor>ff55ff55</gx:outerColor>
-			<gx:outerWidth>0.25</gx:outerWidth>
+			<color>ff0000ff</color>
+			<width>2</width>
 		</LineStyle>
 	</Style>
 	<Style id="Submitted">
