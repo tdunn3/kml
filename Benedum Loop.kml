@@ -1,0 +1,1630 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Benedum Loop</name>
+    <Style id="MOC">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>720000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="MOC_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>720000ff</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="NSMOC">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>94635efc</color>
+      </PolyStyle>
+    </Style>
+    <Style id="ROW">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff0080ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>c6000080</color>
+      </PolyStyle>
+    </Style>
+    <Style id="ROW_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff0080ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff000080</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="NSMOC_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>94635efc</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="ATWS">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5900ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="ATWS_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00dfdf</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5900dfdf</color>
+      </PolyStyle>
+    </Style>
+    <Style id="TWS">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00ff00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c00ff00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="TWS_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff00df00</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5c00df00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="PERM">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff8000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>008000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="PERM_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffa020ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>008000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="NoPermission">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>720000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="NoPermission_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>720000ff</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="Permission">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5fff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="Permission_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5fff0000</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="NSNoPermission">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>720000ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="NSNoPermission_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>720000ff</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="route">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="asbroute">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff00ffff</color>
+        <gx:physicalWidth>10</gx:physicalWidth>
+        <gx:outerColor>ff55ff55</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Submitted">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4800ff00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="Submitted_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4800ff00</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="WIP">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4800ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="WIP_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4800ffff</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="NSWIP">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4800ffff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="NSWIP_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4800ffff</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <Style id="NotSet">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5fff0000</color>
+      </PolyStyle>
+    </Style>
+    <Style id="NotSet_hlt">
+      <IconStyle>
+        <Icon>
+        </Icon>
+      </IconStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>5fff0000</color>
+      </PolyStyle>
+      <BalloonStyle>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="PERM_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#PERM</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#PERM_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="TWS_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#TWS</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#TWS_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="ROW_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#ROW</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#ROW_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="ATWS_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#ATWS</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#ATWS_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="Submitted_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#Submitted</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#Submitted_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="MOC_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#MOC</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#MOC_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="NSMOC_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#NSMOC</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#NSMOC_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="NoPermission_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#NoPermission</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#NoPermission_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="Permission_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#Permission</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#Permission_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="NSNoPermission_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#NSNoPermission</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#NSNoPermission_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="WIP_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#WIP</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#WIP_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="NSWIP_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#NSWIP</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#NSWIP_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <StyleMap id="NotSet_rollover">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#NotSet</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#NotSet_hlt</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <Region>
+        <LatLonAltBox>
+          <north>31.2331399893201</north>
+          <south>30.8689012490743</south>
+          <east>-101.270719610214</east>
+          <west>-101.631456852228</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>512</minLodPixels>
+        </Lod>
+      </Region>
+      <ScreenOverlay>
+        <name>LEGEND</name>
+        <Icon>
+          <href>https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=kKlbFkCnuTEddAwOQESKkBDiidJ4Kgw4mcQSm6O49Gk%3d&amp;docid=0633f7afbc30f48fa8db0dca5c2937dae</href>
+        </Icon>
+        <overlayXY x="0" y="1" xunits="fractions" yunits="fractions" />
+        <screenXY x="0.01" y="0.99" xunits="fractions" yunits="fractions" />
+        <rotationXY x="0.5" y="0.5" xunits="fractions" yunits="fractions" />
+        <size x="0.15" y="0.15" xunits="fractions" yunits="fractions" />
+      </ScreenOverlay>
+    </Folder>
+    <Folder>
+      <name>Area Features</name>
+      <description>Area Features</description>
+      <Placemark>
+        <name>CRO-025.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>WILLIAM L. STRAUSS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>W.M. SCHEEMAN SURVEY A-A-5274</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>2</td></tr><tr><td><B>BOOK</B></td><td>698</td></tr><tr bgcolor="#e3bba5"><td><B>PAGE</B></td><td>308</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.46581015881,31.0503748543711,0 -101.465461506999,31.0725763662721,0 -101.455150006394,31.0724310635449,0 -101.455087435473,31.0562004617043,0 -101.455098555247,31.0532914981512,0 -101.458533844762,31.0530160931506,0 -101.458012088262,31.051872750536,0 -101.457514719586,31.0502966905859,0 -101.46581015881,31.0503748543711,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-026.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>WILLIAM L. STAUSS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>G.C. & S.F. CO.  A-4380</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>50</td></tr><tr><td><B>BOOK</B></td><td>698</td></tr><tr bgcolor="#e3bba5"><td><B>PAGE</B></td><td>308</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.438284778933,31.0406730574038,0 -101.455144120838,31.0407203994157,0 -101.4553192546,31.026300373317,0 -101.438923562632,31.0261601942298,0 -101.438284778933,31.0406730574038,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-028.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U504</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>7</td></tr><tr><td><B>BLOCK</B></td><td>50</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.422270670616,31.0404361289387,0 -101.438284778933,31.0406730574038,0 -101.438923562637,31.0261601942299,0 -101.422581048957,31.026018398442,0 -101.422270670616,31.0404361289387,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-046.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>WEST TEXAS PARTNERS, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>GC & SF RR CO SURVEY A-4380</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>50</td></tr><tr><td><B>BOOK</B></td><td>646</td></tr><tr bgcolor="#e3bba5"><td><B>PAGE</B></td><td>388</td></tr><tr><td><B>ACREAGE</B></td><td>43.38 ACRES</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.438284778933,31.0406730574038,0 -101.455144120838,31.0407203994157,0 -101.455140225551,31.041813876144,0 -101.438280625427,31.041765776611,0  -101.438284778933,31.0406730574038,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-045.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>WEST TEXAS PARTNERS, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>GC & SF RR CO SURVEY A-5274</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>2</td></tr><tr><td><B>BOOK</B></td><td>646</td></tr><tr bgcolor="#e3bba5"><td><B>PAGE</B></td><td>388</td></tr><tr><td><B>ACREAGE</B></td><td>21.53</td></tr><tr bgcolor="#e3bba5"><td><B>LEGAL</B></td><td>TRACT 4 CALLED 21.53 ACRES</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.458012088262,31.051872750536,0 -101.457514719586,31.0502966905859,0 -101.455110028412,31.0502899000195,0 -101.455098555247,31.0532914981512,0 -101.458533844762,31.0530160931506,0  -101.458012088262,31.051872750536,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-001.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U203</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>33</td></tr><tr><td><B>BLOCK</B></td><td>9</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-001.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.619255904939,31.2151813020378,0 -101.602376726485,31.2150479081505,0 -101.602223986406,31.2296957729536,0 -101.61910881173,31.2298304522161,0  -101.619255904939,31.2151813020378,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-017.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U292</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>14</td></tr><tr><td><B>BLOCK</B></td><td>12</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-017.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.502590701964,31.0833239572323,0 -101.485721680962,31.0831728600109,0 -101.485553126251,31.0976868502693,0 -101.502418302812,31.0978373080579,0  -101.502590701964,31.0833239572323,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-018.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mS1hjdldRREtCUzQ/view?usp=sharing> CRO-018.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.502590701964,31.0833239572323,0 -101.485721680962,31.0831728600109,0 -101.485890184575,31.0686588316021,0 -101.502755636708,31.0688126484508,0  -101.502590701964,31.0833239572323,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-019.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U61</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>24</td></tr><tr><td><B>BLOCK</B></td><td>12</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.485890184575,31.0686588316021,0 -101.467811017185,31.0685002953557,0 -101.467667610682,31.0830054689828,0 -101.485721680962,31.0831728600109,0 -101.485890184575,31.0686588316021,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-002.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U139</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>4</td></tr><tr><td><B>BLOCK</B></td><td>8</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-002.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.619405768274,31.2005468176866,0 -101.602531315343,31.2004615970407,0 -101.602376726485,31.2150479081505,0 -101.619255904939,31.2151813020378,0 -101.619405768274,31.2005468176866,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-003.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U140</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>5</td></tr><tr><td><B>BLOCK</B></td><td>8</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-003.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.602531315343,31.2004615970407,0 -101.585645831227,31.2003507035783,0 -101.585488666632,31.2149369713904,0 -101.602376726485,31.2150479081505,0 -101.602531315343,31.2004615970407,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-004.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS SURVEY A-U143</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>8</td></tr><tr><td><B>BLOCK</B></td><td>8</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vd09MMFFEV05SSkE> REA-004.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.602685857045,31.1858752397894,0 -101.585802948383,31.1857643430008,0 -101.585645831227,31.2003507035785,0 -101.602531315343,31.2004615970407,0 -101.602685857045,31.1858752397894,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-005.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U142</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>7</td></tr><tr><td><B>BLOCK</B></td><td>8</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/open?id=0B4naZBbUXH-vMVJhcFdoMV9uYm8> REA-005.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.585802948383,31.1857643430008,0 -101.568920079264,31.1856512433791,0 -101.568760394176,31.2002376070044,0 -101.585645831227,31.2003507035783,0 -101.585802948383,31.1857643430008,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-006.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U153</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>18</td></tr><tr><td><B>BLOCK</B></td><td>8</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-006.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.585966055309,31.1711744779182,0 -101.569084323986,31.1710902926552,0 -101.568920079264,31.1856512433791,0 -101.585802948383,31.1857643430008,0 -101.585966055309,31.1711744779182,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-007.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U255</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>13</td></tr><tr><td><B>BLOCK</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-007.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.569084323986,31.1710902926552,0 -101.568920079264,31.1856512433791,0 -101.552039170625,31.1855360241117,0 -101.552198262435,31.1709567172025,0 -101.569084323986,31.1710902926552,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-008.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U266</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>24</td></tr><tr><td><B>BLOCK</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-008.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.56923494097,31.1565323374028,0 -101.569084323986,31.1710902926552,0 -101.552198262435,31.1709567172025,0 -101.552357141229,31.1563924502591,0 -101.56923494097,31.1565323374028,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-009.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U267</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>25</td></tr><tr><td><B>BLOCK</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-009.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.569392975758,31.1419102814435,0 -101.552515888395,31.1418357760985,0 -101.552357141229,31.1563924502591,0 -101.56923494097,31.1565323374028,0 -101.569392975758,31.1419102814435,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-010.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U268</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>26</td></tr><tr><td><B>BLOCK</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-010.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.552515888395,31.1418357760985,0 -101.535659787886,31.1416967335952,0 -101.5354985017,31.1562510102945,0 -101.552357141229,31.1563924502591,0 -101.552515888395,31.1418357760985,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-012.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U276</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>34</td></tr><tr><td><B>BLOCK</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-012.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.535820978654,31.1271408132154,0 -101.518955464094,31.126979217088,0 -101.518800802496,31.1415537533638,0 -101.535659787886,31.1416967335952,0 -101.535820978654,31.1271408132154,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-013.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U282</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>4</td></tr><tr><td><B>BLOCK</B></td><td>12</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-013.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.535991370779,31.112630295767,0 -101.519117122433,31.11248953126,0 -101.518955464094,31.1269792170871,0 -101.535820978654,31.1271408132154,0 -101.535991370779,31.112630295767,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-014.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U281</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>3</td></tr><tr><td><B>BLOCK</B></td><td>12</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-014.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.519117122433,31.11248953126,0 -101.502251406077,31.1123466368777,0 -101.502084458731,31.1268559256945,0 -101.518955464094,31.1269792170871,0 -101.519117122433,31.11248953126,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-015.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U288</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>10</td></tr><tr><td><B>BLOCK</B></td><td>12</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-015.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.519281468004,31.0979801812649,0 -101.502418302812,31.0978373080579,0 -101.502251406077,31.1123466368777,0 -101.519117122433,31.1124895312598,0 -101.519281468004,31.0979801812649,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-020.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.485890184575,31.0686588316021,0 -101.467811017185,31.0685002953557,0 -101.467954470996,31.0539859014601,0 -101.486058530067,31.0541539907176,0 -101.485890184575,31.0686588316021,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-023.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>WILLIAM L. STAUSS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.467770406844,31.0726083696161,0 -101.46788569956,31.0609566525056,0 -101.465644412235,31.0609305886595,0 -101.465461506999,31.0725763662721,0 -101.467770406844,31.0726083696161,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-027.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>WEST TEXAS PARTNERS, LLC</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>GC & SF RR CO SURVEY A-2282</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>49</td></tr><tr><td><B>BOOK</B></td><td>646</td></tr><tr bgcolor="#e3bba5"><td><B>PAGE</B></td><td>388</td></tr><tr><td><B>LEGAL</B></td><td>TRACT 1 CALLED 640.02 LESS AND EXCEPT 102.97 ACRES</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.438280625427,31.041765776611,0 -101.438232721441,31.0546639593188,0 -101.455100721845,31.0532960169086,0 -101.455110028412,31.0502899000195,0 -101.455140225551,31.041813876144,0  -101.438280625427,31.041765776611,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-001.10</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U203</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>34</td></tr><tr><td><B>BLOCK</B></td><td>9</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td>DOES NOT EXIST IN TRACKER</td></tr>]]></description>
+        <styleUrl>#MOC_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.636138027193,31.2153125952355,0 -101.619255904939,31.2151813020378,0 -101.619107199889,31.2298292365915,0 -101.635992072186,31.2299617137548,0 -101.636138060237,31.2153126268457,0  -101.636138027193,31.2153125952355,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-011.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U277</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>35</td></tr><tr><td><B>BLOCK</B></td><td>11</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-011.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.552674581042,31.1272796305398,0 -101.535820978654,31.1271408132154,0 -101.535659787886,31.1416967335952,0 -101.552515888395,31.1418357760985,0 -101.552674581042,31.1272796305398,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>REA-016.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>REAGAN</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U289</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>11</td></tr><tr><td><B>BLOCK</B></td><td>12</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><a href = https://drive.google.com/file/d/0BxyD1RhRpt5mLThIc210TDR0S3M/view?usp=sharing> REA-016.00 REV 0</a></td></tr>]]></description>
+        <styleUrl>#Submitted_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.502418302812,31.0978373080579,0 -101.485553126251,31.0976868502693,0 -101.485383251062,31.1121998367583,0 -101.502251406077,31.1123466368777,0 -101.502418302812,31.0978373080579,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-029.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U509</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>12</td></tr><tr><td><B>BLOCK</B></td><td>50</td></tr><tr bgcolor="#e3bba5"><td><B>ACREAGE</B></td><td>636</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.438923562632,31.0261601942298,0 -101.439581193894,31.0112144890778,0 -101.422760527664,31.0110718073072,0 -101.422581048957,31.026018398442,0 -101.438923562632,31.0261601942298,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-030.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U508</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>11</td></tr><tr><td><B>BLOCK</B></td><td>50</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.422581048957,31.026018398442,0 -101.422760527664,31.0110718073072,0 -101.405902560904,31.0109266107173,0 -101.405723938675,31.0258699710427,0 -101.422581048957,31.026018398442,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-031.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U511</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>14</td></tr><tr><td><B>BLOCK</B></td><td>50</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.422760527664,31.0110718073072,0 -101.422940720423,30.996065093945,0 -101.4060818477,30.9959229288512,0 -101.405902560904,31.0109266107173,0 -101.422760527664,31.0110718073072,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-032.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U514</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>2</td></tr><tr><td><B>BLOCK</B></td><td>51</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.422940720423,30.996065093945,0 -101.4231176276,30.9813274009476,0 -101.406255757651,30.9811793651929,0 -101.4060818477,30.9959229288512,0 -101.422940720423,30.996065093945,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-033.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U513</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>1</td></tr><tr><td><B>BLOCK</B></td><td>51</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.4060818477,30.9959229288512,0 -101.406255757651,30.9811793651929,0 -101.389418980315,30.9810293519143,0 -101.389418980315,30.9810293519143,0 -101.389265034878,30.99583029636,0 -101.4060818477,30.9959229288512,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-034.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U518</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>6</td></tr><tr><td><B>BLOCK</B></td><td>51</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.406255757651,30.9811793651929,0 -101.40643454815,30.9664362827497,0 -101.389595416023,30.9662830822578,0 -101.389418980315,30.9810293519143,0 -101.406255757651,30.9811793651929,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-035.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U440</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>6</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.389418980315,30.9810293519143,0 -101.389595416023,30.9662830822578,0 -101.372756617555,30.966127687825,0 -101.37257971079,30.9808771199465,0 -101.389418980315,30.9810293519143,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-036.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U449</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>15</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.389595416023,30.9662830822578,0 -101.389771655255,30.95154867147,0 -101.372925880171,30.9513932109828,0 -101.372756617555,30.966127687825,0 -101.389595416023,30.9662830822578,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-037.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U448</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>14</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.372756617555,30.966127687825,0 -101.372925880171,30.9513932109828,0 -101.355195297361,30.9527364622071,0 -101.355015722838,30.9674714882544,0 -101.372756617555,30.966127687825,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-038.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U451</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>17</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.372925880171,30.9513932109828,0 -101.37292352084,30.9367115757361,0 -101.355375744031,30.9379252771338,0 -101.355195297361,30.9527364622071,0 -101.372925880171,30.9513932109828,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-039.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U452</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>18</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.355195297361,30.9527364622071,0 -101.355375744031,30.9379252771338,0 -101.335524431658,30.9392657781213,0 -101.335629539784,30.9542162416241,0 -101.355195297361,30.9527364622071,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-040.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U457</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>23</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.355375744031,30.9379252771338,0 -101.355556883344,30.923052605836,0 -101.335419393432,30.9243205677623,0 -101.335524431658,30.9392657781213,0 -101.355375744031,30.9379252771338,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-042.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U463</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>29</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.335419393432,30.9243205677623,0 -101.33530589388,30.9102042991013,0 -101.317681425843,30.9102084794404,0 -101.317818939845,30.9246225807112,0 -101.335419393432,30.9243205677623,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-024.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>WILLIAM L. STAUSS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>W. SCHNEEMANN JR A-5343</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>6</td></tr><tr><td><B>BOOK</B></td><td>698</td></tr><tr bgcolor="#e3bba5"><td><B>PAGE</B></td><td>308</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.467949496935,31.0539857981228,0 -101.468211317071,31.0401861940853,0 -101.48506643386,31.040122476646,0 -101.485273773064,31.0248013621191,0 -101.488136386118,31.0248234116438,0 -101.48814922719,31.0202770874487,0 -101.482709898642,31.0202165822084,0 -101.482640534541,31.0390850093821,0 -101.465860004442,31.0390524509293,0 -101.46581015881,31.0503748543711,0 -101.465644412235,31.0609305886595,0 -101.46788569956,31.0609566525056,0  -101.467949496935,31.0539857981228,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-044.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>CHAMBERS COUNTY OF TEXAS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>CHAMBERS C.S.L. A-1689</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>4</td></tr><tr><td><B>BOOK</B></td><td>1</td></tr><tr bgcolor="#e3bba5"><td><B>PAGE</B></td><td>16</td></tr><tr><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.312304077669,30.8718162761758,0 -101.267478546366,30.872073157965,0 -101.267588379733,30.9102672137888,0 -101.312533162325,30.9102154125504,0  -101.312304077669,30.8718162761758,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-043.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U464</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>30</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.300168293568,30.9102312249503,0 -101.300285491982,30.9244317275856,0 -101.317818939845,30.9246225807112,0 -101.317681425843,30.9102084794404,0  -101.300168293568,30.9102312249503,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-041.00</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UT ADVALOREM-INTANG DIV</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U462</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>28</td></tr><tr><td><B>BLOCK</B></td><td>46</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td><B>LTC RECEIVED ON 6/12/2017 12:00:00 AM</B></td></tr>]]></description>
+        <styleUrl>#WIP_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.355716110149,30.909975253683,0 -101.33530589388,30.9102042991013,0 -101.335419393432,30.9243205677623,0 -101.355556883344,30.923052605836,0  -101.355716110149,30.909975253683,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>CRO-018.10</name>
+        <description><![CDATA[<html xmlns:fo = "http://www.w3.org/1999/XSL/Format" xmlns:msxsl = "urn:schemas-Microsoft - com: xslt"><head><META http-equiv="Content-Type" content="text/html"> <meta http-equiv="content-type" content="text/html; charset=UTF-8"> </head> <body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF; "> <table border="0" cellpadding="0" cellspacing="0" width="300" align="left"> <STYLE> H2 { text-align: left} </STYLE><tr><td><H2>Benedum Loop PROJECT</B></H2></td><td><img src=https://primeenergyservices.sharepoint.com/_layouts/15/guestaccess.aspx?docid=051c1bf7afc6447aa8e83fae99c22ccc0&authkey=AZmfN4_Yri19sCFYCDWYK44 width="100"height="80"> </td></tr> <table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"> <tr style="text-align:center;font-weight:bold;background:#ec5300"> <td></td></tr><tr><td><table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"><tr><td><B>OWNER</B></td><td>UNIVERSITY LANDS</td></tr><tr bgcolor="#e3bba5"><td><B>COUNTY</B></td><td>CROCKETT</td></tr><tr><td><B>SURVEY</B></td><td>UNIVERSITY LANDS A-U291</td></tr><tr bgcolor="#e3bba5"><td><B>SECTION</B></td><td>13</td></tr><tr><td><B>BLOCK</B></td><td>12</td></tr><tr bgcolor="#e3bba5"><td><B>PLAT</B></td><td>DOES NOT EXIST IN TRACKER</td></tr>]]></description>
+        <styleUrl>#MOC_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.485721680962,31.0831728600109,0 -101.467667610682,31.0830054689828,0 -101.467496318893,31.0975194359489,0 -101.485554834452,31.0976868350433,0 -101.485721680962,31.0831728600109,0 </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-TEMPORARY</name>
+        <styleUrl>#TWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.620075772642,31.2260496745824,0 -101.618735683998,31.2262227106091,0 -101.616029774645,31.2245764550835,0 -101.615914619992,31.2243229721192,0 -101.616065914916,31.2237139495985,0 -101.616041977781,31.223664400437,0 -101.614065617378,31.2225674333457,0 -101.602892011123,31.2152044375405,0 -101.602844226494,31.2148941557903,0 -101.602973748182,31.2147488762614,0 -101.603075320869,31.2148157647595,0 -101.602978036498,31.2149248851035,0 -101.603011915697,31.2151448722968,0 -101.614139384666,31.2224774579637,0 -101.616144888378,31.2235905999096,0 -101.616199389103,31.2237034145133,0 -101.616047783867,31.2243136898116,0 -101.616135034286,31.2245057483517,0 -101.618767597179,31.2261073799228,0 -101.619935387583,31.2259565918634,0 -101.620075772642,31.2260496745824,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.604139570267,31.2131289603456,0 -101.604197058053,31.2132572443996,0 -101.604258558394,31.2134565132535,0 -101.604265817158,31.21366248835,0 -101.604218481962,31.2138645021876,0 -101.604119152726,31.2140517640933,0 -101.604034091996,31.2141471762741,0 -101.604097574973,31.2141889810804,0 -101.604188157138,31.2140873754513,0 -101.604295067269,31.2138858212638,0 -101.604362517761,31.2135979595443,0 -101.605205006907,31.2126529215504,0 -101.60507804208,31.2125693129644,0 -101.6043273644,31.2134113640277,0 -101.604273247416,31.2132360185794,0 -101.604214200737,31.213104256087,0 -101.604139570267,31.2131289603456,0 -101.604139570267,31.2131289603456,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.603272797498,31.2154553965057,0 -101.603175463329,31.2155644844569,0 -101.602742130196,31.2152788939378,0 -101.602676964109,31.2148557439539,0 -101.602846782522,31.2146652655252,0 -101.602973748182,31.2147488762614,0 -101.602844226494,31.2148941557903,0 -101.602892011123,31.2152044375405,0 -101.603272797498,31.2154553965057,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.569918420492,31.1737272332969,0 -101.569517314125,31.1732989459696,0 -101.569513099104,31.1731848518369,0 -101.569980684253,31.1736841230301,0 -101.569918420492,31.1737272332969,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.568768213094,31.1723894740446,0 -101.56870594963,31.1724325837395,0 -101.56916589037,31.172923703789,0 -101.569169312293,31.1728177637751,0 -101.568768213094,31.1723894740446,0 -101.568768213094,31.1723894740446,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.557108287078,31.1600389322955,0 -101.557170565109,31.1599958466724,0 -101.556762053709,31.159559175829,0 -101.556707468492,31.1596104843003,0 -101.557108287078,31.1600389322955,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.556013483764,31.1588686494002,0 -101.556075761525,31.158825564294,0 -101.556476573993,31.159254014315,0 -101.556422107876,31.1593054499576,0 -101.556013483764,31.1588686494002,0 -101.556013483764,31.1588686494002,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.554007028302,31.1567237627591,0 -101.553480534708,31.1561609236056,0 -101.553544531015,31.1561196775551,0 -101.554119698962,31.1567345503102,0 -101.554007028302,31.1567237627591,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.55417654642,31.1567953214716,0 -101.554063875682,31.1567845339701,0 -101.554314666355,31.1570526339769,0 -101.554376943699,31.1570095496726,0 -101.55417654642,31.1567953214716,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.553228599496,31.1557820262205,0 -101.553166340126,31.1558251288891,0 -101.553287951028,31.1559550430439,0 -101.553366786453,31.1560393217805,0 -101.553429870096,31.1559971001412,0 -101.55335022812,31.1559119592244,0 -101.553228599496,31.1557820262205,0 -101.553228599496,31.1557820262205,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.541721633057,31.1436013913097,0 -101.541783844036,31.1435582453676,0 -101.541583188818,31.1433442147868,0 -101.541520977887,31.1433873606342,0 -101.541721633057,31.1436013913097,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.541136406764,31.1429771507514,0 -101.541198617602,31.1429340050855,0 -101.540997965001,31.1427199735702,0 -101.540935754212,31.1427631191415,0 -101.541136406764,31.1429771507514,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.503297350523,31.1022880473665,0 -101.503360216419,31.1022456389081,0 -101.50306450859,31.1019210705124,0 -101.502930192224,31.1018850543376,0 -101.503297350523,31.1022880473665,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.502179341362,31.1010588393807,0 -101.502312891113,31.1010942109676,0 -101.501947025414,31.1006916171,0 -101.501884100038,31.1007339590794,0 -101.502179341362,31.1010588393807,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.500060568949,31.0987277588154,0 -101.500123290075,31.0986854489511,0 -101.49989562482,31.0984355397875,0 -101.499863301011,31.0985114718373,0 -101.500060568949,31.0987277588154,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.499717459871,31.0983515690012,0 -101.49974351673,31.0982690910424,0 -101.499546700206,31.0980525004317,0 -101.499483901908,31.0980947977117,0 -101.499717459871,31.0983515690012,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.458639125802,31.0532467954523,0 -101.45827239014,31.0528432721027,0 -101.458335270244,31.0528009145667,0 -101.458532069801,31.0530174557207,0 -101.458639125802,31.0532467954523,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.459229687398,31.0537850432176,0 -101.459328317324,31.0540051085011,0 -101.459849937742,31.0545790336355,0 -101.459912818288,31.0545366753444,0 -101.459229687398,31.0537850432176,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.443203161484,31.0362370859724,0 -101.443266081034,31.0361947837842,0 -101.443069574143,31.0359780683058,0 -101.443006654648,31.0360203703997,0 -101.443203161484,31.0362370859724,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.442722117633,31.0357065693541,0 -101.442785037047,31.0356642673965,0 -101.442588532333,31.0354475511674,0 -101.442525612974,31.0354898530308,0 -101.442722117633,31.0357065693541,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-TEMPORARY</name>
+        <styleUrl>#TWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.45949190938,31.0543635759037,0 -101.459328317324,31.0540051085011,0 -101.463992019181,31.0591361352461,0 -101.464107034023,31.0592235604531,0 -101.464238647005,31.059291452776,0 -101.46779047157,31.0604296230869,0 -101.467992083154,31.0605652003232,0 -101.46813671398,31.0607468651163,0 -101.468210855354,31.0609576501924,0 -101.468169702141,31.0637262399381,0 -101.472091417778,31.0680327229474,0 -101.472375617168,31.0682164409277,0 -101.472803473854,31.0686862412697,0 -101.47294288586,31.0689676629361,0 -101.477017397395,31.0734412783105,0 -101.483323670545,31.0803708345867,0 -101.490016930368,31.0877286283916,0 -101.49627726455,31.0945794732644,0 -101.500173658973,31.0988517515193,0 -101.502930192224,31.1018850543376,0 -101.506083281847,31.1053457406802,0 -101.514013567082,31.1139711439217,0 -101.5287145807,31.1297385753867,0 -101.535918866664,31.1374252195612,0 -101.540683049964,31.1424935633278,0 -101.543980187355,31.146010410797,0 -101.553287951028,31.1559550430439,0 -101.567059626821,31.1706746018236,0 -101.56938186121,31.1731543129362,0 -101.571046485254,31.1749317138992,0 -101.571637341621,31.1753445169898,0 -101.572524285227,31.17635571027,0 -101.57292616337,31.1769416627857,0 -101.596878894233,31.2024674340445,0 -101.597585848053,31.202883950534,0 -101.597739225244,31.2030153216899,0 -101.597964282074,31.2032695646426,0 -101.598218525985,31.2037201008816,0 -101.598417810882,31.2040230605473,0 -101.598512515077,31.204101827472,0 -101.59862930201,31.2041543035809,0 -101.598754836889,31.2041755512924,0 -101.598976964463,31.2042713155387,0 -101.599161248083,31.204414612342,0 -101.599407483533,31.2047485216764,0 -101.599753929112,31.205217271745,0 -101.60136588565,31.2072160021904,0 -101.602034427795,31.2078044564257,0 -101.602613799664,31.2097203094198,0 -101.603435470253,31.2109708801332,0 -101.603564703925,31.2118244281225,0 -101.603611641147,31.2119508685088,0 -101.604197058053,31.2132572443996,0 -101.604258558394,31.2134565132535,0 -101.604265817158,31.21366248835,0 -101.604218481962,31.2138645021876,0 -101.604119152726,31.2140517640933,0 -101.604034091996,31.2141471762741,0 -101.603932542665,31.2140802623645,0 -101.604008745774,31.2139947858433,0 -101.604095945542,31.2138303915713,0 -101.604137470405,31.2136531756582,0 -101.604131102921,31.2134724846986,0 -101.604077165455,31.2132977197846,0 -101.603493256253,31.2119937747568,0 -101.603439301775,31.2118484306528,0 -101.603311799305,31.2110063096159,0 -101.602494164477,31.2097618786039,0 -101.601919139482,31.2078603924944,0 -101.601266843135,31.2072862371741,0 -101.59964730915,31.2052781085843,0 -101.599299450525,31.204807445926,0 -101.599062501347,31.2044861288688,0 -101.598904038994,31.2043629102993,0 -101.598713035151,31.2042805641814,0 -101.598586426177,31.2042591346523,0 -101.598436841557,31.204191921475,0 -101.598315541332,31.2040910341494,0 -101.598105165889,31.2037712137394,0 -101.597854732685,31.2033274294401,0 -101.597642707912,31.2030879082913,0 -101.597503841357,31.2029689657435,0 -101.596791093559,31.202549035299,0 -101.572820731133,31.1770044488399,0 -101.572417791758,31.1764169481198,0 -101.571544594484,31.1754214257408,0 -101.570955337026,31.175009739376,0 -101.569282239286,31.1732232888949,0 -101.566959991874,31.1707435611532,0 -101.553188307563,31.156023977092,0 -101.543880575843,31.146079368065,0 -101.54058356647,31.1425626533625,0 -101.535819385001,31.1374943060018,0 -101.528614940882,31.1298074846491,0 -101.513913585099,31.1140396687193,0 -101.505982865532,31.1054137833725,0 -101.502829558899,31.1019528549077,0 -101.500073049406,31.0989195747658,0 -101.49617676769,31.0946474152226,0 -101.489916393783,31.0877965190831,0 -101.483223048431,31.0804386228573,0 -101.476916797793,31.0735090834121,0 -101.472831956341,31.0690241204934,0 -101.472692544579,31.0687426987103,0 -101.472285443323,31.0682956879841,0 -101.47200124387,31.0681119698081,0 -101.468041376944,31.0637635863064,0 -101.468082857198,31.06097324691,0 -101.468020165533,31.0607950128871,0 -101.467897869841,31.0606414021212,0 -101.467727392666,31.060526761701,0 -101.464183063123,31.0593909924774,0 -101.464031286677,31.059312698841,0 -101.46389865153,31.0592118800024,0 -101.45949190938,31.0543635759037,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-PERMANENT</name>
+        <styleUrl>#PERM_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>-101.306230781076,30.9057275451584,0 -101.306823074531,30.9060578282088,0 -101.307875464695,30.9067172609543,0 -101.309734687373,30.9077584176843,0 -101.311823838409,30.9094838587269,0 -101.311837598926,30.9113541082968,0 -101.315474948346,30.9131759594291,0 -101.31750895813,30.9131699489805,0 -101.321958820538,30.9158115999863,0 -101.32354106829,30.9167516573954,0 -101.325097046911,30.9176757088879,0 -101.326673615976,30.9186038774091,0 -101.328259975237,30.9195442488877,0 -101.329829365112,30.9204714873398,0 -101.331382521385,30.921389457083,0 -101.332421583306,30.922006158527,0 -101.334033736914,30.9229570493421,0 -101.335543262975,30.9238490912939,0 -101.335716735086,30.9239671966334,0 -101.335834182752,30.9240899405994,0 -101.336813047148,30.9251519629,0 -101.337990753615,30.9264328294993,0 -101.339224436321,30.9277730070335,0 -101.340407585481,30.9290571012272,0 -101.341589688501,30.9303354158532,0 -101.342790953144,30.9316433146821,0 -101.343974170156,30.9329221063709,0 -101.345140518221,30.9341878689614,0 -101.346361763322,30.9355276782711,0 -101.347545369096,30.9368106006455,0 -101.348729893203,30.938091767039,0 -101.349310837627,30.9387191474344,0 -101.350907994166,30.9401563779148,0 -101.352307840445,30.9414139070655,0 -101.353471032665,30.9424624822792,0 -101.354828401864,30.9436953647812,0 -101.356133425335,30.9448778744985,0 -101.357570985866,30.9461825596077,0 -101.358346374977,30.9468826633435,0 -101.359683426618,30.9480982149979,0 -101.360975576498,30.9492662234108,0 -101.362313653426,30.9504787910984,0 -101.363618679986,30.9516596737136,0 -101.364947564589,30.9528630674276,0 -101.366275182297,30.9540663111184,0 -101.367583812035,30.955249551549,0 -101.368895504093,30.956436583567,0 -101.370227741347,30.9576405757912,0 -101.371559496183,30.958848695633,0 -101.372749209175,30.9599292139367,0 -101.374064368806,30.9611207936976,0 -101.375381105342,30.9623148448858,0 -101.376753642647,30.9634717231266,0 -101.378061965987,30.9646728803743,0 -101.379375990038,30.9658782030078,0 -101.380682591525,30.9670714257655,0 -101.382008271592,30.9682867890975,0 -101.382787323475,30.96900962082,0 -101.382802791455,30.9691609279499,0 -101.382758277705,30.9694474249192,0 -101.382779799131,30.9695933513932,0 -101.382843902873,30.9697296865241,0 -101.384031180468,30.9710937859586,0 -101.385225535519,30.9724147978477,0 -101.386402125351,30.9737168831445,0 -101.387577964265,30.9750197763019,0 -101.388777528223,30.9763015277601,0 -101.389195512923,30.9767159950062,0 -101.391553221336,30.9793203576528,0 -101.392733881674,30.9806213689412,0 -101.393913491993,30.9819219223428,0 -101.395087308549,30.983217027648,0 -101.395147156729,30.9832794112902,0 -101.395651772119,30.9836208250446,0 -101.395953752898,30.9839107629223,0 -101.396022806745,30.9839881846244,0 -101.396239309615,30.9842403320875,0 -101.396475231951,30.9845750493859,0 -101.396725617021,30.9850519849374,0 -101.396776138385,30.9851473030575,0 -101.396837284422,30.9852519274167,0 -101.397776014552,30.9862872431718,0 -101.398959554449,30.9875949051397,0 -101.400137340317,30.9888999232155,0 -101.401308570248,30.9901988351326,0 -101.401904014728,30.9908481418208,0 -101.40228357305,30.9911064570735,0 -101.402745770444,30.9914122499589,0 -101.403102892633,30.9919661540934,0 -101.403488160992,30.9925926573192,0 -101.404457918234,30.9936680819865,0 -101.405634396348,30.9949681176448,0 -101.406439723263,30.9958578891791,0 -101.406496448487,30.9959192260751,0 -101.409170617064,30.9988697230587,0 -101.409482760884,30.9992139072473,0 -101.410023370996,30.9995530187523,0 -101.426319698455,31.0173452137858,0 -101.427043900257,31.0181844264937,0 -101.427176689828,31.0182879400049,0 -101.427294972562,31.0183546894985,0 -101.427498441112,31.0185277001029,0 -101.42959303469,31.0210235513947,0 -101.429728891404,31.021113090144,0 -101.430173685807,31.0212741442473,0 -101.430342071272,31.0213851222241,0 -101.430694627929,31.0217744263224,0 -101.430783316087,31.0219380145496,0 -101.430827274617,31.0221145413583,0 -101.430819231764,31.0225987711273,0 -101.430855653838,31.0227448193502,0 -101.430929128911,31.0228801337411,0 -101.437647715811,31.0302844043091,0 -101.437683770982,31.0303120042497,0 -101.438038025209,31.0305098873827,0 -101.438185864756,31.0306358332039,0 -101.438640510348,31.0312253858317,0 -101.439046196148,31.031829869738,0 -101.439421368356,31.0322448631247,0 -101.449426969325,31.0432789778641,0 -101.449714259303,31.0434763960823,0 -101.450804076962,31.044272658936,0 -101.451326161644,31.044682951277,0 -101.451793554524,31.0450942041821,0 -101.45225090747,31.0455379204049,0 -101.4527739454,31.0460756093526,0 -101.452817386368,31.0461431375984,0 -101.453715323794,31.0479717216268,0 -101.45377119593,31.04806191137,0 -101.45619855724,31.0507398037996,0 -101.45703402489,31.0513976011894,0 -101.457202032245,31.0515824691897,0 -101.457485093269,31.052155460079,0 -101.46389865153,31.0592118800024,0 -101.464031286677,31.059312698841,0 -101.464183063123,31.0593909924774,0 -101.467727392666,31.060526761701,0 -101.467897869841,31.0606414021212,0 -101.468020165533,31.0607950128871,0 -101.468082857198,31.06097324691,0 -101.468041376944,31.0637635863064,0 -101.47200124387,31.0681119698081,0 -101.472285443323,31.0682956879841,0 -101.472692544579,31.0687426987103,0 -101.472831956341,31.0690241204936,0 -101.476916797793,31.0735090834122,0 -101.483223048431,31.0804386228573,0 -101.489916393782,31.0877965190819,0 -101.496176767691,31.094647415223,0 -101.500072718484,31.09891921194,0 -101.502829558899,31.1019528549077,0 -101.505982865532,31.1054137833725,0 -101.513913585099,31.1140396687193,0 -101.528614940882,31.1298074846491,0 -101.535819385001,31.1374943060018,0 -101.54058356647,31.1425626533625,0 -101.543880575843,31.146079368065,0 -101.553188307563,31.156023977092,0 -101.566959991874,31.1707435611532,0 -101.569282239286,31.1732232888949,0 -101.570955337026,31.175009739376,0 -101.571544594484,31.1754214257408,0 -101.572417791758,31.1764169481198,0 -101.572820731133,31.1770044488399,0 -101.596791093559,31.202549035299,0 -101.597503841357,31.2029689657435,0 -101.597642707912,31.2030879082913,0 -101.597854732685,31.2033274294401,0 -101.598105165889,31.2037712137394,0 -101.598315541332,31.2040910341494,0 -101.598436841557,31.204191921475,0 -101.598586426177,31.2042591346523,0 -101.598713035151,31.2042805641814,0 -101.598904038994,31.2043629102993,0 -101.599062501347,31.2044861288688,0 -101.599299450525,31.204807445926,0 -101.59964730915,31.2052781085843,0 -101.601266843135,31.2072862371741,0 -101.601919139482,31.2078603924944,0 -101.602494164477,31.2097618786039,0 -101.603311799305,31.2110063096159,0 -101.603439301775,31.2118484306528,0 -101.603493256253,31.2119937747568,0 -101.604077165455,31.2132977197846,0 -101.604131102921,31.2134724846986,0 -101.604137470405,31.2136531756582,0 -101.604095945542,31.2138303915713,0 -101.604008745774,31.2139947858433,0 -101.603145299125,31.2149632965503,0 -101.603161791437,31.2150703846282,0 -101.614231567407,31.2223649741474,0 -101.6162735264,31.2234983491335,0 -101.616366231796,31.2236902454633,0 -101.616214238674,31.2243020867344,0 -101.61626660862,31.2244173648149,0 -101.618807488546,31.2259632165497,0 -101.619979090194,31.2258119357526,0 -101.621395778782,31.2267512605129,0 -101.621383530043,31.2269167707862,0 -101.619935387583,31.2259565918634,0 -101.618767597179,31.2261073799228,0 -101.616135034286,31.2245057483517,0 -101.616047783867,31.2243136898116,0 -101.616199389103,31.2237034145133,0 -101.616144888378,31.2235905999096,0 -101.614139384666,31.2224774579637,0 -101.603011915697,31.2151448722967,0 -101.602978036498,31.2149248851035,0 -101.603870737269,31.2139235628975,0 -101.603942775141,31.2137877531375,0 -101.603977036999,31.2136415346144,0 -101.603971783519,31.2134924488284,0 -101.603927299566,31.213348313859,0 -101.603345274986,31.212047407414,0 -101.603282548998,31.2118784336447,0 -101.603157210491,31.2110505963026,0 -101.602344620345,31.209813839928,0 -101.601775028901,31.2079303124348,0 -101.601143039786,31.2073740307956,0 -101.599514034006,31.2053541545087,0 -101.599164409079,31.2048811011101,0 -101.598939067719,31.2045755244198,0 -101.598812881962,31.2044774036898,0 -101.59866078285,31.2044118302703,0 -101.598532831254,31.2043901734682,0 -101.598342249456,31.2043045389142,0 -101.598187704189,31.2041760010371,0 -101.597963465598,31.2038351046712,0 -101.597717795763,31.2033997603056,0 -101.597522061041,31.2031786414403,0 -101.59740133278,31.2030752346801,0 -101.596681342507,31.2026510367812,0 -101.572688940641,31.1770829312855,0 -101.572284674729,31.1764934953078,0 -101.571428660355,31.1755175615843,0 -101.570841401533,31.1751072711298,0 -101.56915771168,31.1733095087342,0 -101.566835435655,31.1708297470365,0 -101.553063756878,31.1561101486559,0 -101.54375606125,31.146165564541,0 -101.540459206985,31.142649010567,0 -101.53569503272,31.1375806639435,0 -101.528490390908,31.1298936211183,0 -101.513788612359,31.1141253299792,0 -101.505857344939,31.1054988366271,0 -101.502703767045,31.1020376055116,0 -101.499947044504,31.0990040875661,0 -101.496051146418,31.0947323425617,0 -101.489790722851,31.0878813823347,0 -101.483097277813,31.080523366024,0 -101.476791059588,31.0735938523068,0 -101.472693294259,31.0690946923057,0 -101.472553882802,31.0688132703764,0 -101.472172725806,31.0683947467147,0 -101.471888526276,31.068211028294,0 -101.467880970308,31.0638102690873,0 -101.467922859445,31.0609927426285,0 -101.467874479809,31.0608551974522,0 -101.467780102989,31.0607366542708,0 -101.467648543854,31.0606481849223,0 -101.464113583108,31.0595154170682,0 -101.463936602296,31.0594241217617,0 -101.463781941714,31.0593065608179,0 -101.457346378777,31.0522259201009,0 -101.457063318375,31.0516529289146,0 -101.456916455952,31.0514913276368,0 -101.456080988292,31.0508335294973,0 -101.453636288572,31.0481362596937,0 -101.453571054561,31.0480309576133,0 -101.452673612886,31.0462033777056,0 -101.452641695466,31.0461537625097,0 -101.452129967098,31.0456276991734,0 -101.451676713629,31.0451879596756,0 -101.451215193428,31.0447818736482,0 -101.450698569169,31.0443758721492,0 -101.449612783783,31.043582554815,0 -101.449312688546,31.043376336967,0 -101.439295462544,31.0323293882823,0 -101.438913471605,31.0319068517658,0 -101.438504772062,31.03129787608,0 -101.43806193906,31.0307236402264,0 -101.437937398637,31.0306175430321,0 -101.437586745571,31.0304216713186,0 -101.437530836096,31.0303788730329,0 -101.430792195974,31.0229524917615,0 -101.430703383169,31.0227889303881,0 -101.430659358261,31.0226123945402,0 -101.430667402268,31.0221281439883,0 -101.430631026311,31.0219820660012,0 -101.430557636011,31.0218466947998,0 -101.430228794182,31.0214835768436,0 -101.430092938031,31.0213940379365,0 -101.429648143899,31.0212329838085,0 -101.42947975891,31.0211220066573,0 -101.427376487155,31.0186171906046,0 -101.427194162168,31.0184621583583,0 -101.427078797894,31.0183970557624,0 -101.426927558181,31.0182791597037,0 -101.426191444232,31.0174271581497,0 -101.409911670934,30.9996530145185,0 -101.409370753141,30.9993137096543,0 -101.409044853743,30.9989543574902,0 -101.406371141801,30.9960043601239,0 -101.406314384607,30.9959429885715,0 -101.405508544347,30.9950526485917,0 -101.404331977348,30.993752512842,0 -101.403353634442,30.9926675652863,0 -101.402962619203,30.9920317153589,0 -101.402622331623,30.9915039210278,0 -101.402185509122,30.9912149160518,0 -101.401790403913,30.990946019853,0 -101.401182950272,30.9902836168657,0 -101.400011320649,30.9889842598136,0 -101.398833647963,30.9876793652848,0 -101.397650177362,30.9863717779988,0 -101.396701843139,30.9853258684221,0 -101.396632250065,30.9852067904134,0 -101.396580347066,30.9851088653021,0 -101.396333826704,30.9846392899664,0 -101.396106699072,30.9843170495932,0 -101.395895393242,30.984070954406,0 -101.395830931902,30.9839986816213,0 -101.395542291996,30.9837215522814,0 -101.395035103426,30.9833783972191,0 -101.394962907462,30.9833031425912,0 -101.393787729363,30.9820065332218,0 -101.39260815599,30.9807060187046,0 -101.391427523652,30.9794050364155,0 -101.389072280664,30.9768033961297,0 -101.388655166799,30.9763897918527,0 -101.387452877801,30.975105126906,0 -101.386276174399,30.9738012739837,0 -101.385099646703,30.9724992556165,0 -101.383904421518,30.9711772794071,0 -101.38270382351,30.9697978734026,0 -101.382624144042,30.9696284114372,0 -101.38259739363,30.9694470276796,0 -101.382642405974,30.9691587191693,0 -101.382633197142,30.9690686373329,0 -101.381891694726,30.9683806442033,0 -101.3805664492,30.9671656779137,0 -101.379259835228,30.9659724424485,0 -101.377945691726,30.9647670089222,0 -101.376639655435,30.9635679501273,0 -101.375267471709,30.9624113687211,0 -101.373948727545,30.9612154957035,0 -101.37263355288,30.9600239010551,0 -101.371443774979,30.9589433226305,0 -101.370112190697,30.9577353562403,0 -101.36878005862,30.9565314577723,0 -101.367468294231,30.9553443590631,0 -101.366159650153,30.9541611044124,0 -101.364831968842,30.9529578017786,0 -101.36350313191,30.9517544499548,0 -101.362198149606,30.9505736061288,0 -101.360860064206,30.9493610295086,0 -101.359567827836,30.9481929416557,0 -101.358230809075,30.9469774185805,0 -101.357455468891,30.9462773582674,0 -101.356017768087,30.9449725444417,0 -101.354712769861,30.9437900563871,0 -101.353355544067,30.9425573028077,0 -101.352192657225,30.9415090017568,0 -101.350792907959,30.9402515584152,0 -101.349190677885,30.9388097608541,0 -101.348605240949,30.9381775280138,0 -101.347420593369,30.9368962263447,0 -101.346236646329,30.9356129322688,0 -101.345015374285,30.9342730915046,0 -101.343849390057,30.9330077219854,0 -101.342666096697,30.9317288459945,0 -101.34146482068,30.9304209329472,0 -101.340282796774,30.9291427020862,0 -101.339099561458,30.9278585125864,0 -101.337865836505,30.9265182872995,0 -101.336688135375,30.9252374247396,0 -101.335710239329,30.9241764515797,0 -101.335604548721,30.9240659947254,0 -101.335448659133,30.9239598600423,0 -101.333943576682,30.9230704434744,0 -101.332331349889,30.9221195090433,0 -101.331292226695,30.9215027708996,0 -101.329739199112,30.9205848767182,0 -101.328169731929,30.9196575920913,0 -101.326583483187,30.9187172856191,0 -101.325006859335,30.9177890843385,0 -101.323450614502,30.9168648742496,0 -101.321868341762,30.9159248014843,0 -101.320051337444,30.9148461765236,0 -101.32002808458,30.9148323726441,0 -101.317459619399,30.9133075731329,0 -101.315432250047,30.9133135632273,0 -101.311678734196,30.9114335256654,0 -101.311664826895,30.9095429015338,0 -101.309635425228,30.9078668054012,0 -101.307785117221,30.9068305927215,0 -101.306732853312,30.9061712387517,0 -101.306144348614,30.9058430681657,0 -101.306230781076,30.9057275451584,0 -101.306230781076,30.9057275451584,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-TEMPORARY</name>
+        <styleUrl>#TWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.426422301675,31.0172796582023,0 -101.410112730877,30.9994730220687,0 -101.409572366911,30.9991340652506,0 -101.40927122756,30.9988020154245,0 -101.406596693675,30.9958511187481,0 -101.406539994028,30.9957898095772,0 -101.405735077788,30.9949004927981,0 -101.404558670782,30.993600537212,0 -101.40359578208,30.9925327308439,0 -101.403215111239,30.9919137049707,0 -101.402844521331,30.9913389130178,0 -101.402362024032,30.9910196898359,0 -101.401994903213,30.990769839322,0 -101.401409066068,30.9901310096577,0 -101.400238155891,30.9888324538476,0 -101.399060279477,30.9875273369333,0 -101.397876684145,30.9862196152213,0 -101.396945637299,30.9851927745105,0 -101.396891248913,30.985099713057,0 -101.39684183286,30.9850064805277,0 -101.396588356012,30.9845236568096,0 -101.396345397896,30.9841789579842,0 -101.396124737389,30.9839219687081,0 -101.396052009533,30.983840427878,0 -101.395739356052,30.9835402431872,0 -101.395236799204,30.9832002224759,0 -101.395186829257,30.9831481356064,0 -101.394014101938,30.9818542335508,0 -101.392834462061,30.9805536490417,0 -101.391653779322,30.979252614554,0 -101.38929409857,30.9766460740225,0 -101.3888754172,30.9762309164016,0 -101.387678033276,30.9749514957306,0 -101.386502885953,30.9736493703839,0 -101.385326246413,30.9723472315443,0 -101.384132587468,30.9710269911094,0 -101.382955966221,30.9696751369112,0 -101.382904323119,30.9695653032226,0 -101.382886984966,30.9694477425665,0 -101.382931099845,30.9691626948309,0 -101.382910624405,30.9689624074769,0 -101.38210153292,30.9682117049357,0 -101.380775505221,30.9669960239707,0 -101.37946891372,30.9658028113782,0 -101.378154985232,30.9645975774596,0 -101.376844832252,30.9633947414528,0 -101.375472012084,30.9622376257446,0 -101.374156881651,30.9610450320173,0 -101.372841734048,30.9598534641684,0 -101.371652072982,30.9587729939594,0 -101.3703201817,30.9575647513552,0 -101.368987860306,30.9563606841275,0 -101.367676226114,30.9551737054631,0 -101.366367607848,30.9539904764087,0 -101.365040041022,30.9527872798714,0 -101.363711118282,30.9515838526456,0 -101.362406056318,30.950402938999,0 -101.361067986169,30.9491903784588,0 -101.35977590548,30.9480224335967,0 -101.358438827534,30.9468068590781,0 -101.357663399281,30.9461067206044,0 -101.356225950969,30.9448021384685,0 -101.354920907302,30.9436196114218,0 -101.353563423378,30.9423866257808,0 -101.352399986856,30.9413378312364,0 -101.351000062967,30.9400802334396,0 -101.349406965257,30.9386466566178,0 -101.348829614845,30.9380231581718,0 -101.347645189515,30.9367420999952,0 -101.346461856756,30.9354594749848,0 -101.345240633209,30.9341196908385,0 -101.344073994075,30.9328536137921,0 -101.342890838141,30.9315748895444,0 -101.341689582596,30.9302670020893,0 -101.340507416286,30.9289886204519,0 -101.339324336051,30.9277046025035,0 -101.338090687142,30.9263644631718,0 -101.336912976406,30.9250835933411,0 -101.335933337329,30.9240207317284,0 -101.335806484012,30.9238881580886,0 -101.335618945891,30.9237604762441,0 -101.334105864945,30.9228663339898,0 -101.332493769888,30.9219154780681,0 -101.331454756982,30.9212988059822,0 -101.329901497759,30.9203807757906,0 -101.328332169729,30.9194535742782,0 -101.326745722054,30.9185131507954,0 -101.325169196819,30.9175850084811,0 -101.323613431166,30.9166610838652,0 -101.322031203405,30.9157210387411,0 -101.317548429013,30.9130598496433,0 -101.315256641536,30.9130666202381,0 -101.315474948346,30.9131759594291,0 -101.31750895813,30.9131699489805,0 -101.321958820538,30.9158115999863,0 -101.32354106829,30.9167516573954,0 -101.325097046911,30.9176757088879,0 -101.326673615976,30.9186038774091,0 -101.328259975237,30.9195442488877,0 -101.329829365112,30.9204714873398,0 -101.331382521385,30.921389457083,0 -101.332421583306,30.922006158527,0 -101.334033736914,30.9229570493421,0 -101.335543262975,30.9238490912939,0 -101.335716735086,30.9239671966334,0 -101.335834182752,30.9240899405994,0 -101.336813047148,30.9251519629,0 -101.337990753615,30.9264328294993,0 -101.339224436321,30.9277730070335,0 -101.340407585481,30.9290571012272,0 -101.341589688501,30.9303354158532,0 -101.342790953144,30.9316433146821,0 -101.343974170156,30.9329221063709,0 -101.345140518221,30.9341878689614,0 -101.346361763322,30.9355276782711,0 -101.347545369096,30.9368106006455,0 -101.348729893203,30.938091767039,0 -101.349310837627,30.9387191474344,0 -101.350907994166,30.9401563779148,0 -101.352307840445,30.9414139070655,0 -101.353471032665,30.9424624822792,0 -101.354828401864,30.9436953647812,0 -101.356133425335,30.9448778744985,0 -101.357570985866,30.9461825596077,0 -101.358346374977,30.9468826633435,0 -101.359683426618,30.9480982149979,0 -101.360975576498,30.9492662234108,0 -101.362313653426,30.9504787910984,0 -101.363618679986,30.9516596737136,0 -101.364947564589,30.9528630674276,0 -101.366275182297,30.9540663111184,0 -101.367583812035,30.955249551549,0 -101.368895504093,30.956436583567,0 -101.370227741347,30.9576405757912,0 -101.371559496183,30.958848695633,0 -101.372749209175,30.9599292139367,0 -101.374064368806,30.9611207936976,0 -101.375381105342,30.9623148448858,0 -101.376753642647,30.9634717231266,0 -101.378061965987,30.9646728803743,0 -101.379375990038,30.9658782030078,0 -101.380682591525,30.9670714257655,0 -101.382008271592,30.9682867890975,0 -101.382787323475,30.96900962082,0 -101.382802791455,30.9691609279499,0 -101.382758277705,30.9694474249192,0 -101.382779799131,30.9695933513932,0 -101.382843902873,30.9697296865241,0 -101.384031180468,30.9710937859586,0 -101.385225535519,30.9724147978477,0 -101.386402125351,30.9737168831445,0 -101.387577964265,30.9750197763019,0 -101.388777528223,30.9763015277601,0 -101.389195512923,30.9767159950062,0 -101.391553221336,30.9793203576528,0 -101.392733881674,30.9806213689412,0 -101.393913491993,30.9819219223428,0 -101.395087308549,30.983217027648,0 -101.395147156729,30.9832794112902,0 -101.395651772119,30.9836208250446,0 -101.395953752898,30.9839107629223,0 -101.396022806745,30.9839881846244,0 -101.396239309615,30.9842403320875,0 -101.396475231951,30.9845750493859,0 -101.396725617021,30.9850519849374,0 -101.396776138385,30.9851473030575,0 -101.396837284422,30.9852519274167,0 -101.397776014552,30.9862872431718,0 -101.398959554449,30.9875949051397,0 -101.400137340317,30.9888999232155,0 -101.401308570248,30.9901988351326,0 -101.401904014728,30.9908481418208,0 -101.40228357305,30.9911064570735,0 -101.402745770444,30.9914122499589,0 -101.403102892633,30.9919661540934,0 -101.403488160992,30.9925926573192,0 -101.404457918234,30.9936680819865,0 -101.405634396348,30.9949681176448,0 -101.406439723263,30.9958578891791,0 -101.406496448487,30.9959192260751,0 -101.409170617064,30.9988697230587,0 -101.409482760884,30.9992139072473,0 -101.410023370996,30.9995530187523,0 -101.426319698455,31.0173452137858,0 -101.427043900257,31.0181844264937,0 -101.427176689828,31.0182879400049,0 -101.427294972562,31.0183546894985,0 -101.427498441112,31.0185277001029,0 -101.42959303469,31.0210235513947,0 -101.429728891404,31.021113090144,0 -101.430173685807,31.0212741442473,0 -101.430342071272,31.0213851222241,0 -101.430694627929,31.0217744263224,0 -101.430783316087,31.0219380145496,0 -101.430827274617,31.0221145413583,0 -101.430819231764,31.0225987711273,0 -101.430855653838,31.0227448193502,0 -101.430929128911,31.0228801337411,0 -101.437647715811,31.0302844043091,0 -101.437683770982,31.0303120042497,0 -101.438038025209,31.0305098873827,0 -101.438185864756,31.0306358332039,0 -101.438640510348,31.0312253858317,0 -101.439046196148,31.031829869738,0 -101.439421368356,31.0322448631247,0 -101.449426969325,31.0432789778641,0 -101.449714259303,31.0434763960823,0 -101.450804076962,31.044272658936,0 -101.451326161644,31.044682951277,0 -101.451793554524,31.0450942041821,0 -101.45225090747,31.0455379204049,0 -101.4527739454,31.0460756093526,0 -101.452817386368,31.0461431375984,0 -101.453715323794,31.0479717216268,0 -101.45377119593,31.04806191137,0 -101.45619855724,31.0507398037996,0 -101.45703402489,31.0513976011894,0 -101.457202032245,31.0515824691897,0 -101.457485093269,31.0521554600788,0 -101.458802713988,31.0536052637871,0 -101.458639125802,31.0532467954523,0 -101.457596064716,31.0520990919538,0 -101.457313003194,31.0515261013019,0 -101.457128079875,31.0513226199533,0 -101.456292612233,31.0506648231633,0 -101.453879121667,31.0480024326091,0 -101.453830739051,31.0479243327213,0 -101.452932405023,31.046094945397,0 -101.452879745192,31.0460130867287,0 -101.452347659604,31.0454660973077,0 -101.451887027076,31.0450191997102,0 -101.451414936051,31.0446038133103,0 -101.450888483032,31.0441900883021,0 -101.449795439557,31.0433914690374,0 -101.449518393781,31.0432010905078,0 -101.439522092847,31.0321772429097,0 -101.439152375629,31.0317682840168,0 -101.438749100829,31.0311673935298,0 -101.43828500515,31.0305655874993,0 -101.438118526303,31.0304237628055,0 -101.437761391151,31.0302242705407,0 -101.437741219417,31.0302088292528,0 -101.431038675111,31.0228222472196,0 -101.430977470271,31.0227095303905,0 -101.430947130535,31.0225878722545,0 -101.430955172464,31.0221036591118,0 -101.430905147806,31.0219027732589,0 -101.430804221315,31.0217166114352,0 -101.430432692776,31.0213063584558,0 -101.430238283882,31.021178229258,0 -101.429793489263,31.0210171751744,0 -101.429683655146,31.0209447871119,0 -101.427596004115,31.0184561076176,0 -101.427375620715,31.0182687143527,0 -101.427255003215,31.0182006473442,0 -101.427136973752,31.0181086398493,0 -101.426422301675,31.0172796582023,0 -101.426422301675,31.0172796582023,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-TEMPORARY</name>
+        <styleUrl>#TWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.311671537859,30.9104552310594,0 -101.311543981896,30.9104555007088,0 -101.311551642223,30.9114970594189,0 -101.315398091319,30.9134236462539,0 -101.31764395473,30.9134170092944,0 -101.317459619399,30.9133075731329,0 -101.315432250047,30.9133135632273,0 -101.311678734196,30.9114335256654,0 -101.311671537859,30.9104552310594,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-TEMPORARY</name>
+        <styleUrl>#TWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.621405577743,31.226618852289,0 -101.620014052187,31.22569621085,0 -101.619615242894,31.2257443177479,0 -101.619759906643,31.2258402382479,0 -101.619979090194,31.2258119357526,0 -101.621395778782,31.2267512605129,0 -101.621405577743,31.226618852289,0 -101.621405577743,31.226618852289,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-TEMPORARY</name>
+        <styleUrl>#TWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.311955018636,30.9099762714314,0 -101.311827466458,30.9099769691922,0 -101.311823838409,30.9094838587269,0 -101.309734687373,30.9077584176843,0 -101.307875464695,30.9067172609543,0 -101.306823074531,30.9060578282088,0 -101.306230781076,30.9057275451584,0 -101.306299926896,30.9056351267096,0 -101.306895251352,30.9059670997278,0 -101.307947742521,30.9066265954939,0 -101.309815524465,30.9076728864974,0 -101.311951047479,30.90943662434,0 -101.311955018636,30.9099762714314,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.311837598926,30.9113541082968,0 -101.311833194699,30.9107555193847,0 -101.311913186003,30.9107918497435,0 -101.311917618333,30.9113941897319,0 -101.311837598926,30.9113541082968,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>WORKSPACE-ADDITIONAL</name>
+        <styleUrl>#ATWS_rollover</styleUrl>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>-101.312030553085,30.9094071027843,0 -101.311822006478,30.9092348678511,0 -101.311813762895,30.9081144068472,0 -101.311654325765,30.908115278854,0 -101.311662290948,30.9091981449339,0 -101.311951047479,30.90943662434,0 -101.311952879749,30.9096856152076,0 -101.312023086598,30.9097435974903,0 -101.312033129113,30.9097571249528,0 -101.312030553085,30.9094071027843,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Line Features</name>
+      <description>Line Features</description>
+      <Placemark>
+        <description>Proposed Route</description>
+        <styleUrl>#route</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>-101.621389654418,31.2268340156505,0 -101.619957238905,31.2258842638105,0 -101.618787542878,31.2260352982384,0 -101.616200821483,31.2244615566002,0 -101.616131011275,31.2243078882998,0 -101.616282810455,31.2236968300152,0 -101.61620920742,31.2235444745378,0 -101.614185476064,31.2224212160641,0 -101.603086853596,31.2151076284842,0 -101.603061667795,31.214944090854,0 -101.603939741496,31.213959174389,0 -101.604019360324,31.2138090723771,0 -101.604057253697,31.2136473551612,0 -101.604051443228,31.213482466788,0 -101.604002232531,31.2133230168435,0 -101.60341926564,31.2120205911066,0 -101.603360925398,31.2118634321725,0 -101.603234504916,31.2110284529824,0 -101.602419392431,31.2097878592877,0 -101.601847084218,31.2078953524847,0 -101.601204941489,31.2073301339999,0 -101.599580671604,31.2053161315638,0 -101.599231929828,31.2048442735358,0 -101.599000784562,31.2045308266592,0 -101.598858460505,31.204420157003,0 -101.598686909019,31.2043461972289,0 -101.598559628734,31.2043246540635,0 -101.598389545534,31.2042482302036,0 -101.598251622789,31.2041335176092,0 -101.598034315767,31.2038031592248,0 -101.59778626425,31.2033635948911,0 -101.597582384505,31.2031332748801,0 -101.597452587097,31.2030221002222,0 -101.596736218062,31.202600036052,0 -101.572754835914,31.1770436900797,0 -101.57235123327,31.1764552217311,0 -101.571486627449,31.1754694936758,0 -101.570898369309,31.1750585052657,0 -101.566897713792,31.1707866541096,0 -101.553126032249,31.1560670628891,0 -101.543818318575,31.1461224663182,0 -101.540521386756,31.1426058319798,0 -101.535757208889,31.1375374849878,0 -101.528552665923,31.1298505528989,0 -101.513851098757,31.1140824993644,0 -101.505920105263,31.1054563100152,0 -101.502766663,31.1019952302252,0 -101.500010168355,31.0989619642552,0 -101.496113957082,31.0946898789077,0 -101.489853558344,31.0878389507237,0 -101.48316016315,31.0804809944561,0 -101.476853928719,31.073551467875,0 -101.472762625326,31.0690594064183,0 -101.472623213716,31.068777984562,0 -101.472229084594,31.0683452173619,0 -101.471944885102,31.0681614990636,0 -101.467961173645,31.0637869277218,0 -101.46800285833,31.060982994794,0 -101.467947322694,31.0608251051903,0 -101.467838986445,31.0606890282097,0 -101.467687968285,31.060587473318,0 -101.464148323138,31.0594532047778,0 -101.463983944514,31.0593684103103,0 -101.463840296651,31.0592592204235,0 -101.457415736049,31.0521906901087,0 -101.457132675336,31.0516176990709,0 -101.45697524045,31.0514444644267,0 -101.456139772794,31.050786666662,0 -101.453703742277,31.0480990855496,0 -101.4536431892,31.0480013396403,0 -101.452745499649,31.0461732576721,0 -101.45270782046,31.0461146859482,0 -101.452190437312,31.0455828098035,0 -101.451735134105,31.0451410819423,0 -101.451270677564,31.0447324124747,0 -101.450751323094,31.0443242655536,0 -101.449663521571,31.0435294754588,0 -101.449369828964,31.0433276574284,0 -101.439358415478,31.0322871257189,0 -101.438979833903,31.0318683607691,0 -101.438691265606,31.0314383859294,0 -101.438123901936,31.0306797367301,0 -101.437987711951,31.0305637152174,0 -101.437635258304,31.0303668377935,0 -101.430860662468,31.0229163127696,0 -101.430779518521,31.0227668748917,0 -101.430739295018,31.0226055828585,0 -101.430747338449,31.022121342698,0 -101.430707171216,31.0219600402978,0 -101.430626131996,31.0218105605794,0 -101.430285432756,31.0214343495464,0 -101.430133311944,31.0213340910985,0 -101.429688517677,31.0211730369828,0 -101.429536396829,31.0210727790386,0 -101.427437464162,31.0185724453683,0 -101.427244567393,31.0184084239385,0 -101.427127743889,31.0183424978932,0 -101.426985729248,31.018231793112,0 -101.426255571371,31.0173861859838,0 -101.409967520994,30.9996030166477,0 -101.409426757042,30.9992638084631,0 -101.409107735431,30.9989120402899,0 -101.403420897743,30.9926301113203,0 -101.402689163343,30.991461671007,0 -101.40184720935,30.9908970808496,0 -101.396769563807,30.9852888979373,0 -101.396404529351,30.9846071696956,0 -101.39617300437,30.9842786908575,0 -101.395892342428,30.9839547222865,0 -101.395597032086,30.9836711886748,0 -101.395091130106,30.983328904267,0 -101.389133896822,30.9767596955828,0 -101.388716347539,30.976345659821,0 -101.387515421061,30.9750624516192,0 -101.383967801021,30.9711355326986,0 -101.382773863216,30.9697637799824,0 -101.3827019716,30.9696108814386,0 -101.382677835667,30.9694472263245,0 -101.382722647942,30.9691603051381,0 -101.382710257889,30.9690391052017,0 -101.37669664907,30.9635198366397,0 -101.375324288554,30.9623631068161,0 -101.349250757784,30.9387644541583,0 -101.335636566266,30.9239894281851,0 -101.317484288783,30.9132387610593,0 -101.315453599211,30.9132447613303,0 -101.311758166594,30.9113938170057,0 -101.311744332676,30.9095133801549,0 -101.309685056329,30.9078126115525,0 -101.307830290985,30.906773926846,0 -101.306777963948,30.9061145334883,0 -101.306187564871,30.9057853066695,0 </coordinates>
+        </LineString>
+      </Placemark>
+      <Folder>
+        <Region>
+          <LatLonAltBox>
+            <north>31.2331399893201</north>
+            <south>30.8689012490743</south>
+            <east>-101.270719610214</east>
+            <west>-101.631456852228</west>
+          </LatLonAltBox>
+          <Lod>
+            <minLodPixels>512</minLodPixels>
+          </Lod>
+        </Region>
+        <Placemark>
+          <name>Benedum Loop PRELIMINARY-8/21/17</name>
+          <styleUrl>#route</styleUrl>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>
